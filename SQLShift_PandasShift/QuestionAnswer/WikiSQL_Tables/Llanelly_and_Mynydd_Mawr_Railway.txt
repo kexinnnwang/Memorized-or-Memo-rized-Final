@@ -1,0 +1,10 @@
+The Llanelly_and_Mynydd_Mawr_Railway table contains the following columns:
+
+- Builder (String): the manufacturer that built the locomotive;
+- Works_no (Integer): the builder's works number;
+- Built (Integer): the year the locomotive was built;
+- Wheels (String): the wheel arrangement;
+- Notes (String): additional notes.
+
+Llanelly_and_Mynydd_Mawr_Railway table:
+[['Builder', 'Works_no', 'Built', 'Wheels', 'Notes'], ['AB', '219', '1880', '0_4_0_ST', 'Sold_1885'], ['AB', '221', '1880', '0_6_0_ST', 'Sold_1908'], ['FW', '279', '1885', '0_6_0ST', 'Withdrawn_before_1948'], ['AB', '199', '1879', '0_4_0ST', 'To_LMMR_1887_Boiler_exploded_1889'], ['P', '464', '1888', '0_6_0ST', 'To_Great_Mountain_Colliery_1913'], ['P', '475', '1889', '0_6_0ST', 'Sold_1896'], ['BH', '884', '1889', '0_4_0ST', 'Sold_by_1913'], ['AE', '1448', '1902', '0_6_0T', 'Withdrawn_before_1948'], ['AB', '1111', '1907', '0_6_0T', 'Withdrawn_before_1948'], ['AB', '1157', '1908', '0_6_0ST', 'Sold_1919'], ['HC', '930', '1911', '0_6_0T', 'To_British_Railways_1948_Withdrawn_1951'], ['HC', '912', '1911', '0_6_0ST', 'To_Great_Mountain_Colliery_c_1919'], ['HC', '977', '1912', '0_6_0T', 'Withdrawn_1923'], ['HC', '1032', '1913', '0_6_0T', 'Withdrawn_before_1948'], ['HC', '1214', '1917', '0_6_0ST', 'To_British_Railways_1948_Withdrawn_1954'], ['MW', '1982', '1920', '0_6_0T', 'Withdrawn_before_1948']]

@@ -1,0 +1,10 @@
+The List_of_Football_League_Championship_players_with_international_caps table contains the following columns:
+
+- Player (String): the player's name;
+- Cap_s (Integer): the number of international caps;
+- Goal_s (Integer): the number of international goals;
+- International_Debut (String): the date of the player's international debut;
+- Club_s (String): the club or clubs the player represented.
+
+List_of_Football_League_Championship_players_with_international_caps table:
+[['Player', 'Cap_s', 'Goal_s', 'International_Debut', 'Club_s'], ['Jason_de_Vos_Category_Articles_with_hCards', 49, 4, '19_August_1997_v', 'Ipswich_Town'], ['David_Edgar_Category_Articles_with_hCards', 11, 0, '9_February_2011_v', 'Burnley'], ['Iain_Hume_Category_Articles_with_hCards', 36, 5, 'February_2003_v', 'Leicester_City_Barnsley_Preston_North_End'], ['Simeon_Jackson_Category_Articles_with_hCards', 29, 6, '30_May_2009_v', 'Norwich_City'], ['Paul_Peschisolido_Category_Articles_with_hCards', 53, 10, 'June_1992_v_Hong_Kong', 'Derby_County']]

@@ -1,0 +1,10 @@
+The International_rankings_of_Iran table contains the following columns:
+
+- Name (String): the name of the index or ranking;
+- Rank (Integer): Iran's position in the ranking;
+- Out_of (Integer): the total number of entities ranked;
+- Source (String): the source of the ranking;
+- Year (String): the year of the ranking.
+
+International_rankings_of_Iran table:
+[['Name', 'Rank', 'Out_of', 'Source', 'Year'], ['Number_of_agricultural_machinery_Tractors', '22', '190', 'World_Bank', '2003'], ['Irrigated_land_per_capita', '14', '173', 'CIA_World_Factbook', '2003'], ['Total_agricultural_land', '15', '199', 'World_Bank', '2005'], ['Total_agricultural_land_per_capita', '57', '199', 'World_Bank', '2005'], ['Area_of_permanent_crops', '18', '181', 'Food_and_Agriculture_Organization', '2000'], ['Arable_land_as_of_total_land_area', '109', '199', 'World_Bank', '2005'], ['Permanent_cropland_area_as_of_total_land_area', '110', '187', 'World_Bank', '2005'], ['Index_of_agricultural_production', '13', '149', 'United_Nations', '1996_98'], ['Annual_diesel_consumption_in_agriculture', '7', '107', 'United_Nations', '2005'], ['Agricultural_electricity_consumption_per_capita', '18', '110', 'United_Nations', '2005'], ['Cereal_production', '13', '149', 'World_Resources_Institute', '2001'], ['Meat_production_per_capita', '73', '149', 'United_Nations', '1998']]

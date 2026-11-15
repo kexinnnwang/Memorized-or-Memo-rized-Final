@@ -1,0 +1,10 @@
+The List_of_locomotives_in_China table contains the following columns:
+
+- Model (String): the locomotive model;
+- Build_year (String): the year or years of manufacture;
+- Top_speed_In_operation_km_h (Integer): the top operating speed in kilometers per hour;
+- Power_output_kW (String): the power output in kilowatts;
+- Total_production (Integer): the total number produced.
+
+List_of_locomotives_in_China table:
+[['Model', 'Build_year', 'Top_speed_In_operation_km_h', 'Power_output_kW', 'Total_production'], ['6Y2', '1958_1961', '101', '4740', '25'], ['6G1', '1971', '120', '5100', '2'], ['6G', '1973', '112', '5400', '40'], ['6K', '1986_1987', '100', '5100', '85'], ['8G', '1987_1990', '100', '2_3200', '100'], ['8K', '1987', '100', '2_3200', '150']]

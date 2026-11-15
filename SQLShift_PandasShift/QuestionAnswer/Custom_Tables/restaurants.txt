@@ -1,0 +1,10 @@
+The restaurants table contains the following columns:
+
+- restaurant_id (Integer): the unique identifier of the restaurant;
+- cuisine (String): the type of cuisine served;
+- rating (Integer): the restaurant's rating out of 5;
+- seats (Integer): the number of seats in the restaurant;
+- avg_price (Integer): the average price per meal in dollars.
+
+restaurants table: 
+[["restaurant_id", "cuisine", "rating", "seats", "avg_price"], [1, "Italian", 4, 60, 25], [2, "Mexican", 3, 40, 15], [3, "Japanese", 5, 30, 35], [4, "Italian", 4, 80, 28], [5, "Indian", 4, 50, 20]]

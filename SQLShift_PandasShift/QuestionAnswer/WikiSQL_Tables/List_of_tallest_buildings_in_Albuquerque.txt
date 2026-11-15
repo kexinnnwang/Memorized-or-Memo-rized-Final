@@ -1,0 +1,10 @@
+The List_of_tallest_buildings_in_Albuquerque table contains the following columns:
+
+- Rank (Integer): the ranking by height;
+- Name (String): the name of the building;
+- Height_ft_m (String): the height in feet and meters;
+- Floors (Integer): the number of floors;
+- Year (Integer): the year of completion.
+
+List_of_tallest_buildings_in_Albuquerque table:
+[['Rank', 'Name', 'Height_ft_m', 'Floors', 'Year'], ['1', 'Albuquerque_Plaza_Office_Tower', '351_107', '22', '1990'], ['2', 'Hyatt_Regency_Albuquerque', '256_78', '21', '1990'], ['3', 'Compass_Bank_Building', '238_73', '18', '1966'], ['4', 'Albuquerque_Petroleum_Building', '235_72', '15', '1986'], ['5', 'Bank_of_the_West_Tower', '213_65', '17', '1963'], ['6', 'Gold_Building', '203_62', '14', '1961'], ['7', 'Dennis_Chavez_Federal_Building', '197_60', '13', '1965'], ['8', 'PNM_Building', '184_56', '12', '1974'], ['9', 'Simms_Building', '180_55', '13', '1954'], ['10', 'Pete_V_Domenici_United_States_Courthouse', '176_54', '7', '1997'], ['11', 'Metropolitan_Courthouse', '175_53', '9', '2003'], ['12', 'Wells_Fargo_Bank_Building', '174_53', '13', '1973'], ['13', 'Doubletree_Hotel', '166_51', '16', '1975'], ['13', 'Albuquerque_Regional_Medical_Center', '166_51', '11', '1969'], ['15', 'Park_Plaza_Condominiums', '160_49', '14', '1965'], ['16', 'One_Civic_Plaza', '158_48', '11', '1985'], ['17', 'Albuquerque_Marriott', '156_48', '17', '1982'], ['18', 'Bernalillo_County_Courthouse', '154_47', '8', '2001'], ['19', 'City_Place', '150_46', '10', '1980'], ['20', 'Wyndham_Albuquerque_Hotel', '147_45', '14', '1972'], ['21', 'Two_Park_Square', '145_44', '10', '1989'], ['21', 'Ameriwest_Financial_Center', '145_44', '10', '1985'], ['23', 'The_Bank_Lofts', '141_43', '9', '1922'], ['24', 'Two_Park_Central_Tower', '140_43', '10', '1975'], ['24', 'Veterans_Administration_Medical_Center', '140_43', '6', '1986'], ['26', 'Hotel_Andaluz', '135_41', '10', '1939']]

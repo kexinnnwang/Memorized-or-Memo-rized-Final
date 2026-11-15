@@ -1,0 +1,10 @@
+The books table contains the following columns:
+
+- book_id (Integer): the unique identifier of the book;
+- author_id (Integer): the unique identifier of the author;
+- pages (Integer): the number of pages in the book;
+- year (Integer): the publication year of the book;
+- price (Integer): the book's price in dollars.
+
+books table:
+[["book_id", "author_id", "pages", "year", "price"], [1, 201, 320, 2015, 15], [2, 202, 450, 2018, 22], [3, 201, 280, 2020, 18], [4, 203, 510, 2012, 25], [5, 204, 190, 2021, 12]]

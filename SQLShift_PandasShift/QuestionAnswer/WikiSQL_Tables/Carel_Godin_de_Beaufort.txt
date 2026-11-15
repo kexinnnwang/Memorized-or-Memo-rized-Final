@@ -1,0 +1,10 @@
+The Carel_Godin_de_Beaufort table contains the following columns:
+
+- Year (Integer): the racing season year;
+- Entrant (String): the team that entered the car;
+- Chassis (String): the chassis used;
+- Engine (String): the engine used;
+- Points (Integer): the number of championship points scored.
+
+Carel_Godin_de_Beaufort table:
+[['Year', 'Entrant', 'Chassis', 'Engine', 'Points'], ['1957', 'Ecurie_Maarsbergen', 'Porsche_550RS', 'Porsche_Flat_4', '0'], ['1958', 'Ecurie_Maarsbergen', 'Porsche_RSK', 'Porsche_Flat_4', '0'], ['1959', 'Ecurie_Maarsbergen', 'Porsche_RSK', 'Porsche_Flat_4', '0'], ['1959', 'Scuderia_Ugolini', 'Maserati_250F', 'Maserati_Straight_6', '0'], ['1960', 'Ecurie_Maarsbergen', 'Cooper_T51', 'Climax_Straight_4', '0'], ['1961', 'Ecurie_Maarsbergen', 'Porsche_718', 'Porsche_Flat_4', '0'], ['1962', 'Ecurie_Maarsbergen', 'Porsche_718', 'Porsche_Flat_4', '2'], ['1963', 'Ecurie_Maarsbergen', 'Porsche_718', 'Porsche_Flat_4', '2'], ['1964', 'Ecurie_Maarsbergen', 'Porsche_718', 'Porsche_Flat_4', '0']]

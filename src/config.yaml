@@ -1,0 +1,24 @@
+llm_model: meta-llama/Llama-3.1-8B-Instruct
+
+device: cuda
+quantize: false
+
+max_new_tokens: 512
+temperature: 0.3
+top_p: 0.9
+do_sample: False
+
+cpt_num_epochs: 5
+cpt_learning_rate: 1.0e-5
+cpt_max_length: 4096
+cpt_use_checkpoint: True
+cpt_save_path: None
+
+lora_r: 6
+lora_dropout: 0.05
+lora_alpha: 8
+lora_num_epochs: 5
+lora_learning_rate: 1.0e-4
+lora_max_length: 4096
+
+experiment_rounds: 10 

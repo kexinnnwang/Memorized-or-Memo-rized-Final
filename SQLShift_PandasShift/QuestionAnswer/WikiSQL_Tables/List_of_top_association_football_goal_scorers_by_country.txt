@@ -1,0 +1,10 @@
+The List_of_top_association_football_goal_scorers_by_country table contains the following columns:
+
+- Name (String): the player's name;
+- Years (String): the years the player was active;
+- Matches (Integer): the number of matches played;
+- Goals (Integer): the number of goals scored;
+- Clubs (String): the clubs the player represented.
+
+List_of_top_association_football_goal_scorers_by_country table:
+[['Name', 'Years', 'Matches', 'Goals', 'Clubs'], ['Arsenio_Erico', '1934_47', '332', '293', 'Independiente'], ['Angel_Labruna', '1939_59', '515', '293', 'River_Plate'], ['Herminio_Masantonio', '1931_45', '358', '256', 'Hurac_n_Banfield'], ['Manuel_Pellegrina', '1938_56', '490', '231', 'Estudiantes_Hurac_n'], ['Mart_n_Palermo', '1991_2000_2004_2011', '410', '227', 'Estudiantes_de_La_Plata_Boca_Juniors'], ['Jos_Francisco_Sanfilippo', '1953_63_66_67_72', '330', '226', 'San_Lorenzo_Boca_Juniors'], ['Ricardo_Infante', '1942_61', '439', '217', 'Estudiantes_Hurac_n_Gimnasia_La_Plata'], ['Oscar_M_s', '1964_77_79_82_85', '429', '215', 'River_Plate'], ['Bernab_Ferreyra', '1931_39', '197', '206', 'Tigre_River_Plate'], ['Carlos_Bianchi', '1967_72_1980_84', '324', '206', 'V_lez_S_rsfield']]

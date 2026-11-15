@@ -1,0 +1,10 @@
+The List_of_FC_Barcelona_records_and_statistics table contains the following columns:
+
+- Ranking (Integer): the ranking position;
+- Nationality (String): the player's nationality;
+- Name (String): the player's name;
+- Games (Integer): the number of games played;
+- Years (String): the years the player was active at the club.
+
+List_of_FC_Barcelona_records_and_statistics table:
+[['Ranking', 'Nationality', 'Name', 'Games', 'Years'], ['1', 'Spain', 'Xavi_Category_Articles_with_hCards', '833', '1997'], ['2', 'Spain', 'Carles_Puyol', '724', '1996'], ['3', 'Spain', 'Migueli', '664', '1973_1989'], ['4', 'Spain', 'Carles_Rexach_Category_Articles_with_hCards', '656', '1965_1981'], ['5', 'Spain', 'V_ctor_Vald_s_Category_Articles_with_hCards', '639', '2000'], ['6', 'Spain', 'Guillermo_Amor_Category_Articles_with_hCards', '550', '1988_1998'], ['7', 'Spain', 'Joaquim_Rif_Category_Articles_with_hCards', '535', '1964_1976'], ['8', 'Spain', 'Joan_Segarra_Category_Articles_with_hCards', '528', '1949_1964']]

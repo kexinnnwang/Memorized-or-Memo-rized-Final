@@ -1,0 +1,10 @@
+The List_of_The_Smurfs_episodes table contains the following columns:
+
+- Episode (Integer): the overall episode number;
+- Season (Integer): the season number;
+- Format (String): the episode format;
+- Title (String): the title of the episode;
+- Original_Airdate (String): the date the episode first aired.
+
+List_of_The_Smurfs_episodes table:
+[['Episode', 'Season', 'Format', 'Title', 'Original_Airdate'], ['217', '1', 'H75', 'Lost_Smurf', 'September_10_1988'], ['218', '2', 'H76', 'Archives_of_Evil', 'September_10_1988'], ['219', '3', 'Q143', 'Bigmouth_s_Roommate_Bungling_Babysitters', 'September_17_1988'], ['220', '4', 'Q144', 'Clockwork_s_Powerplay_Clumsy_in_Command', 'September_17_1988'], ['221', '5', 'H77', 'Don_Smurfo_s_Uninvited_Guests', 'September_24_1988'], ['222', '6', 'Q145', 'Denisa_s_Greedy_Doll_Denisa_s_Slumber_Party', 'September_24_1988'], ['223', '7', 'Q146', 'Grandpa_s_Nemesis_Grandpa_s_Walking_Stick', 'October_1_1988'], ['224', '8', 'H78', 'A_House_for_Nanny', 'October_1_1988'], ['225', '9', 'Q147', 'It_s_a_Smurfy_Life_Land_of_Lost_and_Found', 'October_8_1988'], ['226', '10', 'H79', 'Long_Live_Brainy', 'October_8_1988'], ['227', '11', 'H80', 'A_Maze_of_Mirrors', 'October_15_1988'], ['228', '12', 'Q148', 'Memory_Melons_Nanny_s_Way', 'October_15_1988'], ['229', '13', 'Q149', 'Pappy_s_Puppy_Shutterbug_Smurfs', 'October_22_1988'], ['230', '14', 'Q150', 'Smoogle_Sings_the_Blues_A_Smurf_for_Denisa', 'October_22_1988'], ['231', '15', 'H81', 'Smurf_the_Presses', 'October_29_1988'], ['232', '16', 'H82', 'Stealing_Grandpa_s_Thunder', 'October_29_1988']]

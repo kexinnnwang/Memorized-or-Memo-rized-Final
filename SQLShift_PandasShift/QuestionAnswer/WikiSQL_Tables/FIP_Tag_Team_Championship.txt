@@ -1,0 +1,10 @@
+The FIP_Tag_Team_Championship table contains the following columns:
+
+- Reign (Integer): the reign number of the championship;
+- Days_held (Integer): the number of days the title was held;
+- Location (String): the location where the title was won;
+- Successful_defenses (Integer): the number of successful title defenses;
+- Event (String): the event at which the title was won.
+
+FIP_Tag_Team_Championship table:
+[['Reign', 'Days_held', 'Location', 'Successful_defenses', 'Event'], ['1', '106', 'Brandon_Florida', '1', 'The_Usual_Suspects'], ['1', '27', 'Bushnell_Florida', '1', 'Heatstroke_2005_Night_Two'], ['1', '267', 'Arcadia_Florida', '13', 'Big_Year_One_Bash_Night_One'], ['1', '105', 'Crystal_River_Florida', '4', 'Bloodbath'], ['2', '35', 'Arcadia_Florida', '0', 'Second_Year_Spectacular_Night_Two'], ['1', '391', 'Brandon_Florida', '6', 'Southern_Justice'], ['1', '407', 'Crystal_River_Florida', '5', 'Unstoppable_2007'], ['1', '287', 'Crystal_River_Florida', '2', 'Unstoppable_2008'], ['1', '301', 'Crystal_River_Florida', '2', 'Fallout_2009'], ['1', '454', 'Crystal_River_Florida', '3', 'Cage_of_Pain_III'], ['1', '462', 'Brooksville_Florida', '0', 'Jeff_Peterson_Memorial_Cup_2011_Night_1'], ['1', '154', 'Tampa_Florida', '2', 'Everything_Burns'], ['1', '211', 'Ybor_City_Florida', '0', 'Declaration_of_Independence']]

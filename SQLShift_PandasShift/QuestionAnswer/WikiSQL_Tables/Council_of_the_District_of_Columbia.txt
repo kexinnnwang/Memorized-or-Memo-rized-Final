@@ -1,0 +1,10 @@
+The Council_of_the_District_of_Columbia table contains the following columns:
+
+- Name (String): the council member's name;
+- Position (String): the seat or position held;
+- Party (String): the member's political party;
+- Took_office (Integer): the year the member took office;
+- Up_for_reelection (Integer): the year the seat is next up for reelection.
+
+Council_of_the_District_of_Columbia table:
+[['Name', 'Position', 'Party', 'Took_office', 'Up_for_reelection'], ['Phil_Mendelson', 'Chairman', 'Democratic', '2012', '2014'], ['David_Grosso', 'At_large', 'Independent', '2013', '2016'], ['David_Catania', 'At_large', 'Independent', '1997', '2014'], ['Anita_Bonds', 'At_large', 'Democratic', '2012', '2014'], ['Vincent_Orange', 'At_large', 'Democratic', '2011', '2016'], ['Jim_Graham', 'Ward_1', 'Democratic', '1999', '2014'], ['Jack_Evans', 'Ward_2', 'Democratic', '1991', '2016'], ['Mary_Cheh', 'Ward_3', 'Democratic', '2007', '2014'], ['Muriel_Bowser', 'Ward_4', 'Democratic', '2007', '2016'], ['Kenyan_McDuffie', 'Ward_5', 'Democratic', '2012', '2014'], ['Tommy_Wells', 'Ward_6', 'Democratic', '2007', '2014'], ['Yvette_Alexander', 'Ward_7', 'Democratic', '2007', '2016'], ['Marion_Barry', 'Ward_8', 'Democratic', '2005', '2016']]

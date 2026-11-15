@@ -1,0 +1,11 @@
+The students table contains the following columns:
+
+- student_id (Integer): the unique identifier of the student;
+- grade (Integer): the student's current grade level;
+- gpa (Integer): the student's GPA multiplied by 10 (e.g., 38 represents 3.8);
+- age (Integer): the student's age in years;
+- attendance (Integer): the student's attendance percentage;
+- credits (Integer): the number of credits completed.
+
+students table:
+[["student_id", "grade", "gpa", "age", "attendance", "credits"], [1, 9, 35, 14, 95, 24], [2, 10, 38, 15, 92, 30], [3, 11, 29, 16, 88, 36], [4, 12, 40, 17, 97, 42], [5, 9, 33, 14, 90, 24]]

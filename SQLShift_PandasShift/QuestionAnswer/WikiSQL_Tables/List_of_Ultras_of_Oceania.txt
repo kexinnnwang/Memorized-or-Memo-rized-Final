@@ -1,0 +1,10 @@
+The List_of_Ultras_of_Oceania table contains the following columns:
+
+- Rank (Integer): the ranking position;
+- Summit (String): the name of the summit;
+- Country (String): the country where the summit is located;
+- Island (String): the island where the summit is located;
+- Col_m (Integer): the height of the key col in meters.
+
+List_of_Ultras_of_Oceania table:
+[['Rank', 'Summit', 'Country', 'Island', 'Col_m'], ['1', 'Mauna_Kea', 'United_States', 'Island_of_Hawai_i', '0'], ['2', 'Haleakal', 'United_States', 'Island_of_Maui', '0'], ['3', 'Mauna_Loa', 'United_States', 'Island_of_Hawai_i', '2005'], ['4', 'Pu_u_Kukui', 'United_States', 'Island_of_Maui', '33'], ['5', 'Kawaikini', 'United_States', 'Island_of_Kaua_i', '0'], ['6', 'Kamakou', 'United_States', 'Island_of_Moloka_i', '0']]

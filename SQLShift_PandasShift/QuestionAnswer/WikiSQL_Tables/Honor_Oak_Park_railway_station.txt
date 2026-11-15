@@ -1,0 +1,10 @@
+The Honor_Oak_Park_railway_station table contains the following columns:
+
+- Platform (Integer): the platform number;
+- Frequency_per_hour (Integer): the number of trains per hour;
+- Destination (String): the train's destination;
+- Operator (String): the operating company;
+- Line (String): the railway line served.
+
+Honor_Oak_Park_railway_station table:
+[['Platform', 'Frequency_per_hour', 'Destination', 'Operator', 'Line'], ['1', '4', 'Highbury_Islington', 'London_Overground', 'East_London'], ['1', '4', 'Dalston_Junction', 'London_Overground', 'East_London'], ['1', '4', 'London_Bridge', 'Southern', 'Metro'], ['2', '4', 'Crystal_Palace', 'London_Overground', 'East_London'], ['2', '4', 'West_Croydon', 'London_Overground', 'East_London'], ['2', '2', 'London_Victoria_Mon_Sat', 'Southern', 'Metro'], ['2', '2', 'Caterham_Mon_Sat', 'Southern', 'Metro'], ['2', '2', 'West_Croydon_Peaks_Sun_only', 'Southern', 'Metro'], ['2', '2', 'Tattenham_Corner_Sun_only', 'Southern', 'Metro']]

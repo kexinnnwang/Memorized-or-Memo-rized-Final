@@ -1,0 +1,10 @@
+The New_York_Court_of_Appeals table contains the following columns:
+
+- Name (String): the judge's name;
+- Appointed (Integer): the year the judge was appointed;
+- Term_expiration (Integer): the year the judge's term expires;
+- Appointing_Governor (String): the governor who appointed the judge;
+- Law_School_Attended (String): the law school the judge attended.
+
+New_York_Court_of_Appeals table:
+[['Name', 'Appointed', 'Term_expiration', 'Appointing_Governor', 'Law_School_Attended'], ['Chief_Judge_Jonathan_Lippman', '2009', '2015', 'David_Paterson_Democrat', 'New_York_University_School_of_Law'], ['Judge_Victoria_A_Graffeo', '2000', '2014', 'George_Pataki_Republican', 'Albany_Law_School'], ['Judge_Susan_Phillips_Read', '2003', '2017', 'George_Pataki_Republican', 'University_of_Chicago_Law_School'], ['Judge_Robert_S_Smith', '2004', '2014', 'George_Pataki_Republican', 'Columbia_Law_School'], ['Judge_Eugene_F_Pigott_Jr', '2006', '2016', 'George_Pataki_Republican', 'University_at_Buffalo_Law_School'], ['Judge_Jenny_Rivera', '2013', '2027', 'Andrew_Cuomo_Democrat', 'New_York_University_School_of_Law'], ['Judge_Sheila_Abdus_Salaam', '2013', '2027', 'Andrew_Cuomo_Democrat', 'Columbia_Law_School']]

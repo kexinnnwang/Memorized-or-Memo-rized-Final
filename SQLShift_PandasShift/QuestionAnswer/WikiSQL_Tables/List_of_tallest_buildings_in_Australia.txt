@@ -1,0 +1,10 @@
+The List_of_tallest_buildings_in_Australia table contains the following columns:
+
+- State_Territory (String): the state or territory;
+- Building (String): the name of the building;
+- Height (String): the height of the building;
+- Floor_count (Integer): the number of floors;
+- Completed (Integer): the year the building was completed.
+
+List_of_tallest_buildings_in_Australia table:
+[['State_Territory', 'Building', 'Height', 'Floor_count', 'Completed'], ['Queensland', 'Q1', '323_m', '78', '2005'], ['Victoria', 'Eureka_Tower', '297_3_m', '92', '2006'], ['Western_Australia', 'Central_Park', '249_m', '52', '1992'], ['New_South_Wales', 'Citigroup_Centre', '243_m', '50', '2000'], ['South_Australia', 'Westpac_House', '132_m', '31', '1988'], ['Northern_Territory', 'Evolution_on_Gardiner', '121_m', '33', '2008'], ['Australian_Capital_Territory', 'Lovett_Tower', '93_m', '25', '1973'], ['Tasmania', 'Wrest_Point_Hotel_Casino', '73_m', '19', '1973']]

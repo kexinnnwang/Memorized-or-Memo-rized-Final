@@ -1,0 +1,6 @@
+The {table_name} table contains the following columns:
+
+{description}
+
+{table_name} table:
+{table}

@@ -1,0 +1,10 @@
+The List_of_tallest_buildings_in_Tampa table contains the following columns:
+
+- Rank (Integer): the ranking by height;
+- Name (String): the name of the building;
+- Height_ft_m (String): the height in feet and meters;
+- Floors (Integer): the number of floors;
+- Year (Integer): the year of completion.
+
+List_of_tallest_buildings_in_Tampa table:
+[['Rank', 'Name', 'Height_ft_m', 'Floors', 'Year'], ['1', '100_North_Tampa', '579_176', '42', '1992'], ['2', 'Bank_of_America_Plaza', '577_176', '42', '1986'], ['3', 'One_Tampa_City_Center', '537_164', '38', '1981'], ['4', 'SunTrust_Financial_Centre', '525_160', '36', '1992'], ['5', 'Element', '460_140', '34', '2009'], ['6', 'Park_Tower', '458_140', '36', '1972'], ['7', 'Rivergate_Tower', '454_138', '32', '1988'], ['8', 'Hillsborough_County_Center', '375_114', '28', '1993'], ['8', 'Sam_Gibbons_Federal_Courthouse', '375_114', '17', '1997'], ['9', 'SkyPoint', '361_110', '32', '2007'], ['10', 'Towers_of_Channelside_East', '327_100', '30', '2007'], ['10', 'Towers_of_Channelside_West', '327_100', '30', '2007'], ['12', 'Tampa_Marriott_Waterside', '326_99', '27', '2000'], ['13', 'Wells_Fargo_Center', '311_95', '22', '1985'], ['14', 'Franklin_Exchange_Building', '280_85', '22', '1966'], ['15', 'Fifth_Third_Center', '279_85', '19', '1981'], ['16', 'The_Alagon_on_Bayshore', '273_83', '23', '2006'], ['17', 'The_Stovall', '255_78', '22', '2001'], ['18', 'One_Mack_Cali_Center', '252_77', '21', '1983']]

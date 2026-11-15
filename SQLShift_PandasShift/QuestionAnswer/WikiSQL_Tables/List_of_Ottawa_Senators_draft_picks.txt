@@ -1,0 +1,10 @@
+The List_of_Ottawa_Senators_draft_picks table contains the following columns:
+
+- Round (Integer): the draft round;
+- Overall (Integer): the overall pick number;
+- Player (String): the name of the drafted player;
+- Nationality (String): the player's nationality;
+- Club_team (String): the player's club team.
+
+List_of_Ottawa_Senators_draft_picks table:
+[['Round', 'Overall', 'Player', 'Nationality', 'Club_team'], ['1', '2', 'Alexei_Yashin', 'Russia', 'HC_Dynamo_Moscow_Russia'], ['2', '25', 'Chad_Penney', 'Canada', 'North_Bay_Centennials_OHL'], ['3', '50', 'Patrick_Traverse', 'Canada', 'Shawinigan_Cataractes_QMJHL'], ['4', '73', 'Radek_Hamr', 'Czechoslovakia', 'HC_Sparta_Praha_Czech'], ['5', '98', 'Daniel_Guerard', 'Canada', 'Victoriaville_Tigres_QMJHL'], ['6', '121', 'Alan_Sinclair', 'United_States', 'University_of_Michigan_NCAA'], ['7', '146', 'Jaroslav_Miklenda', 'Czechoslovakia', 'DS_Olomuc_Czech'], ['8', '169', 'Jay_Kenney', 'United_States', 'New_Milford_Canterbury_School_US_HS'], ['9', '194', 'Claude_Savoie', 'Canada', 'Victoriaville_Tigres_QMJHL'], ['10', '217', 'Jack_Grimes', 'Canada', 'Belleville_Bulls_OHL'], ['11', '242', 'Tomas_Jelinek', 'Czechoslovakia', 'HPK_Finland'], ['11', '264', 'Petter_Ronnquist', 'Sweden', 'Nacka_HK_Sweden']]

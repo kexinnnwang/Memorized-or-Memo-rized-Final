@@ -1,0 +1,10 @@
+The International_rankings_of_Costa_Rica table contains the following columns:
+
+- Author_Editor_Source (String): the author, editor, or source of the ranking;
+- Year_of_publication (String): the year the ranking was published;
+- Countries_sampled (Integer): the number of countries sampled;
+- World_Ranking_1 (String): Costa Rica's rank in the world;
+- Ranking_in_Latin_America_2 (Integer): Costa Rica's rank within Latin America.
+
+International_rankings_of_Costa_Rica table:
+[['Author_Editor_Source', 'Year_of_publication', 'Countries_sampled', 'World_Ranking_1', 'Ranking_in_Latin_America_2'], ['New_Economics_Foundation', '2012', '151', '1', '1'], ['Yale_University', '2010', '163', '3', '1'], ['United_Nations_UNDP', '2007_08', '108', '5', '4'], ['United_Nations_UNDP', '2007_08', '71', '8', '3'], ['Economist_Intelligence_Unit', '2010', '167', '24', '2'], ['Economist_Intelligence_Unit', '2010', '149', '26', '2'], ['Reporters_Without_Borders', '2010', '178', '29', '1'], ['Legatum_Institute', '2010', '110', '33', '3'], ['Economist_Intelligence_Unit', '2007', '111', '35', '3'], ['Newsweek', '2010', '100', '35', '2'], ['Economist_Intelligence_Unit', '2009', '82', '40', '4'], ['Transparency_International', '2010', '178', '41', '3'], ['World_Economic_Forum', '2011', '139', '44', '2'], ['World_Economic_Forum', '2011', '138', '46', '3'], ['The_Heritage_Foundation_The_Wall_Street_Journal', '2010', '179', '49', '7'], ['World_Economic_Forum', '2011', '142', '61', '5'], ['United_Nations_UNDP', '2011', '187', '69', '7'], ['United_Nations_UNDP', '2007_2008', '126', '100', '5'], ['World_Bank', '2008', '19', 'N_A_6', '3'], ['Inter_American_Development_Bank', '2008', '24', 'N_A_7', '1']]

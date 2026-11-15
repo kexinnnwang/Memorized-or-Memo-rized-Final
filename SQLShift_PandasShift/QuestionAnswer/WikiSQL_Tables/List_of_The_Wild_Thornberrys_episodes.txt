@@ -1,0 +1,10 @@
+The List_of_The_Wild_Thornberrys_episodes table contains the following columns:
+
+- Episode (Integer): the overall episode number;
+- in_Season (Integer): the episode number within the season;
+- Episode_Name (String): the title of the episode;
+- Airdate (String): the date the episode first aired;
+- Location (String): the location featured in the episode.
+
+List_of_The_Wild_Thornberrys_episodes table:
+[['Episode', 'in_Season', 'Episode_Name', 'Airdate', 'Location'], ['78', '01', 'The_Origin_of_Donnie_Part_1', 'August_18_2001', 'Borneo_Indonesia'], ['79', '02', 'The_Origin_of_Donnie_Part_2', 'August_18_2001', 'Borneo_Indonesia'], ['80', '03', 'The_Origin_of_Donnie_Part_3', 'August_18_2001', 'Borneo_Indonesia'], ['81', '04', 'The_Origin_of_Donnie_Part_4', 'August_18_2001', 'Borneo_Indonesia'], ['82', '05', 'The_Trouble_With_Darwin', 'October_31_2001', 'Tanzania'], ['83', '06', 'Hot_Air', 'June_1_2002', 'Rotorua_New_Zealand']]

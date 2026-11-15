@@ -1,0 +1,10 @@
+The List_of_tallest_buildings_in_Mobile table contains the following columns:
+
+- Rank (String): the ranking by height;
+- Name (String): the name of the building;
+- Height_ft_m (String): the height in feet and meters;
+- Floors (Integer): the number of floors;
+- Year (Integer): the year of completion.
+
+List_of_tallest_buildings_in_Mobile table:
+[['Rank', 'Name', 'Height_ft_m', 'Floors', 'Year'], ['01_0_1', 'RSA_Battle_House_Tower', '745_227', '35', '2007'], ['02_0_2', 'RSA_BankTrust_Building', '424_129', '34', '1965'], ['03_0_3', 'Renaissance_Riverview_Plaza_Hotel', '374_114', '28', '1983'], ['04_0_4', 'Mobile_Government_Plaza', '325_99', '12', '1994'], ['05_0_4', 'Mobile_Marriott', '325_99', '20', '1979'], ['06_0_6', 'Regions_Bank_Building', '236_72_A', '18', '1929'], ['07_0_7', 'Wachovia_Building', '230_70', '16', '1947'], ['08_0_8', 'Lafayette_Plaza_Hotel', '180_55', '17', '1975'], ['09_0_9', 'Providence_Hospital', '170_52', '11', '1987'], ['10_0_10', 'Commerce_Building', '160_49', '12', '1958'], ['11_0_11', 'Radisson_Admiral_Semmes_Hotel', '136_42', '12', '1940'], ['12_0_12', 'Van_Antwerp_Building', '120_37', '11', '1907'], ['13_0_13', 'Battle_House_Hotel', '119_36', '7', '1908'], ['14_0_14', 'Royal_St_Francis_Building', '115_35', '7', '1908'], ['15_0_15', 'Cathedral_Basilica_of_the_Immaculate_Conception', '102_31', '2', '1850']]

@@ -1,0 +1,10 @@
+The Catholic_Church_by_country table contains the following columns:
+
+- Region (String): the country or region;
+- Total_Population (Integer): the total population of the region;
+- Catholic (Integer): the number of Catholics in the region;
+- Catholic (String): the percentage of the population that is Catholic;
+- of_global_Catholic_pop (String): the region's share of the global Catholic population.
+
+Catholic_Church_by_country table:
+[['Region', 'Total_Population', 'Catholic', 'Catholic', 'of_global_Catholic_pop'], ['Central_Africa', 83121055, 37353218, '44_93', '3_47'], ['East_Africa', 193741900, 34872130, '17_99', '3_24'], ['North_Africa', 202151323, 2369490, '1_17', '0_22'], ['Southern_Africa', 137092019, 24463640, '17_84', '2_27'], ['West_Africa', 268997245, 36152847, '13_43', '3_36']]

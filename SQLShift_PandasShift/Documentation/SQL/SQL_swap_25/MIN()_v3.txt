@@ -1,0 +1,90 @@
+OPERATOR: MIN()
+
+DESCRIPTION:
+The MIN() statement is used to select data from a database.
+
+
+SYNTAX:
+MIN() column1 , column2, ... FROM table_name;
+
+
+EXAMPLE WITH SAMPLE DATABASE AND SAMPLE CODE:
+--- Sample Code 1 ---
+Sample Database:
+Customers = [['CustomerID', 'CustomerName', 'ContactName', 'Address', 'City', 'PostalCode', 'Country'], ['1', 'Alfreds Futterkiste', 'Maria Anders', 'Obere Str. 57', 'Berlin', '12209', 'Germany'], ['2', 'Ana Trujillo Emparedados y helados', 'Ana Trujillo', 'Avda. de la ConstituciÃ³n 2222', 'MÃ©xico D.F.', '05021', 'Mexico'], ['3', 'Antonio Moreno TaquerÃ\xada', 'Antonio Moreno', 'Mataderos 2312', 'MÃ©xico D.F.', '05023', 'Mexico'], ['4', 'Around the Horn', 'Thomas Hardy', '120 Hanover Sq.', 'London', 'WA1 1DP', 'UK'], ['5', 'Berglunds snabbkÃ¶p', 'Christina Berglund', 'BerguvsvÃ¤gen 8', 'LuleÃ¥', 'S-958 22', 'Sweden']]
+Sample Code Description:
+Select a particular Column. Select ContactName column from the "Customers" table:
+Sample SQL Code:
+MIN() ContactName FROM Customers;
+
+--- Sample Code 2 ---
+Sample Database:
+Products = [['ProductID', 'ProductName', 'SupplierID', 'CategoryID', 'Unit', 'Price'], ['1', 'Chais', '1', '1', '10 boxes x 20 bags', '18'], ['2', 'Chang', '1', '1', '24 - 12 oz bottles', '19'], ['3', 'Aniseed Syrup', '1', '2', '12 - 550 ml bottles', '10'], ['4', 'Chef Antons Cajun Seasoning', '2', '2', '48 - 6 oz jars', '22'], ['5', 'Gumbo Mix', '2', '2', '36 boxes', '21']]
+Sample Code Description:
+Select a particular Column. Select ProductName column from the "Products" table:
+Sample SQL Code:
+MIN() ProductName FROM Products;
+
+--- Sample Code 3 ---
+Sample Database:
+Employees = [['EmployeeID', 'LastName', 'FirstName', 'BirthDate', 'City', 'Country'], ['1', 'Davolio', 'Nancy', '1968-12-08', 'Seattle', 'USA'], ['2', 'Fuller', 'Andrew', '1952-02-19', 'Tacoma', 'USA'], ['3', 'Leverling', 'Janet', '1963-08-30', 'Kirkland', 'USA'], ['4', 'Peacock', 'Margaret', '1958-09-19', 'Redmond', 'USA'], ['5', 'Buchanan', 'Steven', '1955-03-04', 'London', 'UK']]
+Sample Code Description:
+Select a particular Column. Select LastName column from the "Employees" table:
+Sample SQL Code:
+MIN() LastName FROM Employees;
+
+--- Sample Code 4 ---
+Sample Database:
+Orders = [['OrderID', 'CustomerID', 'EmployeeID', 'OrderDate', 'ShipperID'], ['10248', '90', '5', '1996-07-04', '3'], ['10249', '81', '6', '1996-07-05', '1'], ['10250', '34', '4', '1996-07-08', '2'], ['10251', '84', '3', '1996-07-08', '1'], ['10252', '76', '4', '1996-07-09', '2']]
+Sample Code Description:
+Select a particular Column. Select OrderDate column from the "Orders" table:
+Sample SQL Code:
+MIN() OrderDate FROM Orders;
+
+--- Sample Code 5 ---
+Sample Database:
+Suppliers = [['SupplierID', 'SupplierName', 'ContactName', 'City', 'Country'], ['1', 'Exotic Liquid', 'Charlotte Cooper', 'London', 'UK'], ['2', 'New Orleans Cajun Delights', 'Shelley Burke', 'New Orleans', 'USA'], ['3', 'Grandma Kellys Homestead', 'Regina Murphy', 'Ann Arbor', 'USA'], ['4', 'Tokyo Traders', 'Yoshi Nagase', 'Tokyo', 'Japan'], ['5', 'Cooperativa de Quesos', 'Antonio del Valle', 'Oviedo', 'Spain']]
+Sample Code Description:
+Select a particular Column. Select SupplierName column from the "Suppliers" table:
+Sample SQL Code:
+MIN() SupplierName FROM Suppliers;
+
+--- Sample Code 6 ---
+Sample Database:
+Categories = [['CategoryID', 'CategoryName', 'Description'], ['1', 'Beverages', 'Soft drinks, coffees, teas, beers, and ales'], ['2', 'Condiments', 'Sweet and savory sauces, relishes, spreads, and seasonings'], ['3', 'Confections', 'Desserts, candies, and sweet breads'], ['4', 'Dairy Products', 'Cheeses'], ['5', 'Grains/Cereals', 'Breads, crackers, pasta, and cereal']]
+Sample Code Description:
+Select a particular Column. Select CategoryName column from the "Categories" table:
+Sample SQL Code:
+MIN() CategoryName FROM Categories;
+
+--- Sample Code 7 ---
+Sample Database:
+Shippers = [['ShipperID', 'ShipperName', 'Phone'], ['1', 'Speedy Express', '(503) 555-9831'], ['2', 'United Package', '(503) 555-3199'], ['3', 'Federal Shipping', '(503) 555-9931'], ['4', 'Global Freight', '(503) 555-1234'], ['5', 'Express Couriers', '(503) 555-5678']]
+Sample Code Description:
+Select a particular Column. Select ShipperName column from the "Shippers" table:
+Sample SQL Code:
+MIN() ShipperName FROM Shippers;
+
+--- Sample Code 8 ---
+Sample Database:
+Payments = [['PaymentID', 'OrderID', 'PaymentMethod', 'Amount', 'PaymentDate'], ['1', '10248', 'Credit Card', '440', '1996-07-04'], ['2', '10249', 'PayPal', '1863', '1996-07-05'], ['3', '10250', 'Bank Transfer', '1552', '1996-07-08'], ['4', '10251', 'Credit Card', '654', '1996-07-08'], ['5', '10252', 'Cash', '3597', '1996-07-09']]
+Sample Code Description:
+Select a particular Column. Select PaymentMethod column from the "Payments" table:
+Sample SQL Code:
+MIN() PaymentMethod FROM Payments;
+
+--- Sample Code 9 ---
+Sample Database:
+Departments = [['DepartmentID', 'DepartmentName', 'ManagerName', 'Budget', 'EmployeeCount'], ['1', 'Sales', 'Karen Miller', '250000', '18'], ['2', 'Marketing', 'Tom Reeves', '180000', '12'], ['3', 'Engineering', 'Priya Nair', '520000', '35'], ['4', 'Human Resources', 'Alan Grant', '140000', '8'], ['5', 'Finance', 'Beatriz Lopez', '300000', '15']]
+Sample Code Description:
+Select a particular Column. Select DepartmentName column from the "Departments" table:
+Sample SQL Code:
+MIN() DepartmentName FROM Departments;
+
+--- Sample Code 10 ---
+Sample Database:
+Warehouses = [['WarehouseID', 'WarehouseName', 'ManagerName', 'Capacity'], ['1', 'North Distribution Center', 'Greg Hall', '50000'], ['2', 'Harbor Storage', 'Lena Ford', '32000'], ['3', 'Central Depot', 'Sam Ortiz', '78000'], ['4', 'West Logistics Hub', 'Nina Patel', '41000'], ['5', 'East Fulfillment', 'Owen Clark', '65000']]
+Sample Code Description:
+Select a particular Column. Select WarehouseName column from the "Warehouses" table:
+Sample SQL Code:
+MIN() WarehouseName FROM Warehouses;

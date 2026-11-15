@@ -1,0 +1,10 @@
+The List_of_Hewitts_and_Nuttalls_in_England table contains the following columns:
+
+- Peak (String): the name of the peak;
+- Height_m (Integer): the height of the peak in meters;
+- Prom_m (Integer): the topographic prominence in meters;
+- Class (String): the classification of the peak;
+- Parent (String): the parent peak.
+
+List_of_Hewitts_and_Nuttalls_in_England table:
+[['Peak', 'Height_m', 'Prom_m', 'Class', 'Parent'], ['The_Cheviot', '815', '556', 'Marilyn', 'Broad_Law'], ['Hedgehope_Hill', '714', '148', 'Hewitt', 'The_Cheviot'], ['Comb_Fell', '652', '69', 'Hewitt', 'The_Cheviot'], ['Windy_Gyle', '619', '113', 'Hewitt', 'The_Cheviot'], ['Cushat_Law', '615', '147', 'Hewitt', 'The_Cheviot'], ['Bloodybush_Edge', '610', '114', 'Hewitt', 'The_Cheviot']]

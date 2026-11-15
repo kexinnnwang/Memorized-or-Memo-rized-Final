@@ -1,0 +1,10 @@
+The Ireland_in_the_Eurovision_Song_Contest_1998 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Song (String): the title of the song;
+- Performer (String): the performing artist;
+- Points (Integer): the number of points received;
+- Rank (String): the final ranking position.
+
+Ireland_in_the_Eurovision_Song_Contest_1998 table:
+[['Draw', 'Song', 'Performer', 'Points', 'Rank'], ['1', 'Is_Always_Over_Now', 'Dawn_Martin', '95', '1st'], ['2', 'Shine_On', 'Partners_in_Crime', '63', '5th'], ['3', 'Cold_Shoulder', 'Ray_Doherty', '39', '8th'], ['4', 'Seol_Sail', 'The_Vard_Sisters', '92', '2nd'], ['5', 'Save_this_Dance_for_Me', 'Family', '57', '6th'], ['6', 'Ina_Measc_Among_Them', 'Sean_Monagahan', '43', '7th'], ['7', 'Make_the_Change', 'The_Carter_Twins', '77', '4th'], ['8', 'Overload', 'Jo_Collins', '84', '3rd']]

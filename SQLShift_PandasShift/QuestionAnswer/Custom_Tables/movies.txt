@@ -1,0 +1,11 @@
+The movies table contains the following columns:
+
+- movie_id (Integer): the unique identifier of the movie;
+- genre (String): the genre of the movie;
+- year (Integer): the release year of the movie;
+- rating (Integer): the movie's rating out of 10;
+- duration (Integer): the movie's runtime in minutes;
+- revenue (Integer): the movie's box office revenue in millions of dollars.
+
+movies table:
+[["movie_id", "genre", "year", "rating", "duration", "revenue"], [1, "Action", 2019, 7, 128, 350], [2, "Comedy", 2021, 6, 95, 80], [3, "Drama", 2018, 8, 142, 120], [4, "Action", 2022, 7, 135, 410], [5, "Horror", 2020, 5, 88, 60], [6, "Drama", 2023, 9, 150, 200]]

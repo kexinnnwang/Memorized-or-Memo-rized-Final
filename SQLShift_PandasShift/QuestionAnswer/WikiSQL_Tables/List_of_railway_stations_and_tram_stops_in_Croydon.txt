@@ -1,0 +1,10 @@
+The List_of_railway_stations_and_tram_stops_in_Croydon table contains the following columns:
+
+- Stations (String): the name of the station or tram stop;
+- Place (String): the place where the station is located;
+- Managed_By (String): the operator that manages the station;
+- Platforms (Integer): the number of platforms;
+- Zone (Integer): the fare zone.
+
+List_of_railway_stations_and_tram_stops_in_Croydon table:
+[['Stations', 'Place', 'Managed_By', 'Platforms', 'Zone'], ['Waddon_Marsh_tram_stop', 'Waddon', 'Tramlink', '2', '5'], ['Waddon_railway_station', 'Waddon', 'Southern', '2', '5'], ['Wandle_Park_tram_stop', 'Croydon', 'Tramlink', '2', '5'], ['Wellesley_Road_tram_stop', 'Croydon', 'Tramlink', '1', '5'], ['West_Croydon_station', 'Croydon', 'Southern_Tramlink', '2', '5'], ['Woodmansterne_railway_station', 'Woodmansterne', 'Southern', '2', '6'], ['Woodside_tram_stop', 'Woodside', 'Tramlink', '2', '4']]

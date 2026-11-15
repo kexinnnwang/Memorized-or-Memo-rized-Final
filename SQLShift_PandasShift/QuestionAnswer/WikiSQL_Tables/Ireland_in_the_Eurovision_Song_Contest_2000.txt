@@ -1,0 +1,10 @@
+The Ireland_in_the_Eurovision_Song_Contest_2000 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Song (String): the title of the song;
+- Performer (String): the performing artist;
+- Points (Integer): the number of points received;
+- Rank (String): the final ranking position.
+
+Ireland_in_the_Eurovision_Song_Contest_2000 table:
+[['Draw', 'Song', 'Performer', 'Points', 'Rank'], ['1', 'Millennium_of_Love', 'Eamonn_Toal', '76', '1st'], ['2', 'Why_Did_You_Have_to_Go', 'Karl_Power', '30', '8th'], ['3', 'All_in_a_Lifetime', 'Liz_Fletcher', '48', '4th'], ['4', 'When_You_Are_Near', 'Shimma', '55', '3rd'], ['5', 'Shine', 'Lisa_Stanley', '34', '6th'], ['6', 'Journey_to_the_Center_of_Your_Heart', 'Gavin_McCormack', '31', '7th'], ['7', 'Feel_Good_Emotion', 'Audrey_Lynch', '47', '5th'], ['8', 'Crossroads', 'John_Hurley', '64', '2nd']]

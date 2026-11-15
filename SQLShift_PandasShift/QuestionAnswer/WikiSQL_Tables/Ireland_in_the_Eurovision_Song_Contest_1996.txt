@@ -1,0 +1,10 @@
+The Ireland_in_the_Eurovision_Song_Contest_1996 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Song (String): the title of the song;
+- Performer (String): the performing artist;
+- Points (Integer): the number of points received;
+- Rank (String): the final ranking position.
+
+Ireland_in_the_Eurovision_Song_Contest_1996 table:
+[['Draw', 'Song', 'Performer', 'Points', 'Rank'], ['1', 'Gotta_Know_Right_Now', 'Rob_Burke_Band', '76', '3rd'], ['2', 'Missing_You', 'Dav_McNamara', '84', '2nd'], ['3', 'Once_Again', 'William_Byrne_Lorraine_Nolan', '61', '5th'], ['4', 'The_Voice', 'Eimear_Quinn', '105', '1st'], ['5', 'This_Time', 'Marion_Fossett', '40', '8th'], ['6', 'Find_My_Way', 'Yvonne_Holmes', '73', '4th'], ['7', 'Amhr_n_an_Ronnach', 'Se_n_Monaghan', '61', '5th'], ['8', 'Worlds_Apart', 'Maura_Donaghy', '50', '7th']]

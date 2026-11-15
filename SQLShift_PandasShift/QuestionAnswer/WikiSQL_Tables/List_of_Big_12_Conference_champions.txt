@@ -1,0 +1,10 @@
+The List_of_Big_12_Conference_champions table contains the following columns:
+
+- Team (String): the name of the team;
+- Season (String): the season or seasons;
+- Regular_Season_division (Integer): the number of regular season division titles;
+- Postseason (String): the postseason results;
+- Total (Integer): the total number of championships.
+
+List_of_Big_12_Conference_champions table:
+[['Team', 'Season', 'Regular_Season_division', 'Postseason', 'Total'], ['Oklahoma', '1996_present', '9', '7', '16'], ['Nebraska', '1996_2010', '9', '2', '11'], ['Texas', '1996_present', '7', '3', '10'], ['Kansas_State', '1996_present', '5', '1', '6'], ['Colorado', '1996_2010', '4', '1', '5'], ['Texas_A_M', '1996_2011', '3', '1', '4'], ['Missouri', '1996_2011', '3', '0', '3'], ['Oklahoma_State', '1996_present', '2', '0', '2'], ['Iowa_State', '1996_present', '1', '0', '1'], ['Kansas', '1996_present', '1', '0', '1'], ['Texas_Tech', '1996_present', '1', '0', '1'], ['Baylor', '1996_present', '0', '0', '0'], ['TCU', '2012_present', '0', 'X', '0'], ['West_Virgina', '2012_present', '0', 'X', '0']]

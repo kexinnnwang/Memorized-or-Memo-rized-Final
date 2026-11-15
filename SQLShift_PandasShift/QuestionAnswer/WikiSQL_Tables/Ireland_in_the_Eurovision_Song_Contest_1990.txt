@@ -1,0 +1,10 @@
+The Ireland_in_the_Eurovision_Song_Contest_1990 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Artist (String): the performing artist;
+- Song (String): the title of the song;
+- Points (Integer): the number of points received;
+- Place (String): the final ranking position.
+
+Ireland_in_the_Eurovision_Song_Contest_1990 table:
+[['Draw', 'Artist', 'Song', 'Points', 'Place'], ['1', 'The_Memories', 'If_It_Means_Losing_You', '57', '8th'], ['2', 'Ann_Breen', 'Oh_Darling', '80', '4th'], ['3', 'Fran_Meen', 'Say_That_You_Love_Me', '66', '6th'], ['4', 'Dreams', 'Sin_Sin_That_s_That', '73', '5th'], ['5', 'Connor_Stevens', 'Count_On_Me', '88', '3rd'], ['6', 'Linda_Martin_and_Friends', 'All_The_People_In_The_World', '105', '2nd'], ['7', 'Maggie_Toal', 'Feed_Him_With_Love', '61', '7th'], ['8', 'Liam_Reilly', 'Somewhere_In_Europe', '130', '1st']]

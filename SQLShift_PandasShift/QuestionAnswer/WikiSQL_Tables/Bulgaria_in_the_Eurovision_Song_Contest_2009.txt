@@ -1,0 +1,10 @@
+The Bulgaria_in_the_Eurovision_Song_Contest_2009 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Artist (String): the performing artist;
+- Song (String): the title of the song;
+- Percentage (String): the percentage of votes received;
+- Place (Integer): the final ranking position.
+
+Bulgaria_in_the_Eurovision_Song_Contest_2009 table:
+[['Draw', 'Artist', 'Song', 'Percentage', 'Place'], ['1', 'Monika_Kirovska', 'I_Won', '2_28', '5'], ['2', 'Emil_Sokolov', 'Deystvitelnost_ili_izmama', '4_86', '4'], ['3', 'Ivelina', 'Ready_for_Love', '32_22', '2'], ['4', 'Perfect_Stranger', 'I_Promise', '38_60', '1'], ['5', 'Venelina_Milanova', 'Neka_s_pesen', '22_04', '3']]

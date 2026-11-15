@@ -1,0 +1,10 @@
+The Sweden_in_the_Eurovision_Song_Contest_1997 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Artist (String): the performing artist;
+- Song (String): the title of the song;
+- Points (Integer): the number of points received;
+- Place (String): the final ranking position.
+
+Sweden_in_the_Eurovision_Song_Contest_1997 table:
+[['Draw', 'Artist', 'Song', 'Points', 'Place'], ['1', 'Monia_Sj_str_m', 'Nu_idag', '11', '11th'], ['2', 'Photogenique', 'Nattens_nglar', '0', '12th'], ['3', 'Robert_Randqvist', 'Hand_i_hand', '55', '5th'], ['4', 'N_Mix', 'D_r_en_ngel_h_lsat_p', '68', '2nd'], ['5', 'Jim_Jidhed', 'Charlie', '12', '10th'], ['6', 'Nick_Borgen', 'World_Wide_Web', '26', '9th'], ['7', 'Andreas_Lundstedt', 'Jag_saknar_dig_jag_saknar_dig', '32', '7th'], ['8', 'Garmarna', 'En_g_ng_ska_han_gr_ta', '28', '8th'], ['9', 'B_I_G', 'Jag_skall_aldrig_l_mna_dig', '40', '6th'], ['10', 'Wille_Craaford', 'Missarna', '65', '3rd'], ['11', 'Cajsalisa_Ejemyr', 'Du_g_r_mig_hel_igen', '56', '4th'], ['12', 'Blond', 'Bara_hon_lskar_mig', '80', '1st']]

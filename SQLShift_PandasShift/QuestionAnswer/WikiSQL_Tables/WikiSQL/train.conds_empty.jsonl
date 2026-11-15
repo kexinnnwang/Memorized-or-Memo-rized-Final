@@ -1,0 +1,415 @@
+{"table_id": "1-10021158-3", "question": "What time was the highest for 2nd finishers?", "sql": "SELECT MAX(\"2nd\") FROM table_10021158_3"}
+{"table_id": "1-10118412-6", "question": "What is the highest Indian population?", "sql": "SELECT MAX(\"Indian\") FROM table_10118412_6"}
+{"table_id": "1-10128185-2", "question": "What was the lowest number of votes Scotland cast?", "sql": "SELECT MIN(\"Scotland\") FROM table_10128185_2"}
+{"table_id": "1-10240125-1", "question": "What is the highest value of Total Goals?", "sql": "SELECT MAX(\"Total Goals\") FROM table_10240125_1"}
+{"table_id": "1-10240125-1", "question": "What is the smallest number of Total Goals?", "sql": "SELECT MIN(\"Total Goals\") FROM table_10240125_1"}
+{"table_id": "1-10240125-2", "question": "Whatis the number of total goals maximum?", "sql": "SELECT MAX(\"Total Goals\") FROM table_10240125_2"}
+{"table_id": "1-10360656-1", "question": "Who was the top picki n the draft?", "sql": "SELECT MIN(\"Choice\") FROM table_10360656_1"}
+{"table_id": "1-10361230-1", "question": "What is the highest choice?", "sql": "SELECT MAX(\"Choice\") FROM table_10361230_1"}
+{"table_id": "1-1046454-1", "question": "what is the maximum\u00a0division", "sql": "SELECT MAX(\"Division\") FROM table_1046454_1"}
+{"table_id": "1-10647639-1", "question": "How many weeks are there?", "sql": "SELECT MAX(\"Week\") FROM table_10647639_1"}
+{"table_id": "1-10701133-1", "question": "What is the highest no. in season?", "sql": "SELECT MAX(\"No. in season\") FROM table_10701133_1"}
+{"table_id": "1-1067134-1", "question": "What is the least amount of season epidsodes?", "sql": "SELECT MIN(\"# of Ep\") FROM table_1067134_1"}
+{"table_id": "1-10705060-1", "question": "what is the least number of poles?", "sql": "SELECT MIN(\"Poles\") FROM table_10705060_1"}
+{"table_id": "1-10710364-2", "question": "What is the lowest sex ratio in rural areas?", "sql": "SELECT MIN(\"Sex ratio (rural)\") FROM table_10710364_2"}
+{"table_id": "1-10718192-2", "question": "What's the highest season number of an episode in the series?", "sql": "SELECT MAX(\"No. in season\") FROM table_10718192_2"}
+{"table_id": "1-1081459-1", "question": "What is the smallest introduced value?", "sql": "SELECT MIN(\"Introduced\") FROM table_1081459_1"}
+{"table_id": "1-10812938-4", "question": "What is the earliest pick listed in the table.", "sql": "SELECT MIN(\"Pick #\") FROM table_10812938_4"}
+{"table_id": "1-10818465-1", "question": "What is the lowest ru?", "sql": "SELECT MIN(\"RU\") FROM table_10818465_1"}
+{"table_id": "1-10953197-6", "question": "give the least number of times an episode was shown from 1997-1998", "sql": "SELECT MIN(\"No. in season\") FROM table_10953197_6"}
+{"table_id": "1-1108394-43", "question": "what is the minimum total", "sql": "SELECT MIN(\"Total\") FROM table_1108394_43"}
+{"table_id": "1-1112176-1", "question": "League apps (sub) maximum?", "sql": "SELECT MAX(\"League Apps (Sub)\") FROM table_1112176_1"}
+{"table_id": "1-11206787-5", "question": "What is the average?", "sql": "SELECT MIN(\"Average\") FROM table_11206787_5"}
+{"table_id": "1-11250-4", "question": "What is the least top division titles?", "sql": "SELECT MIN(\"Top division titles\") FROM table_11250_4"}
+{"table_id": "1-11250-4", "question": "What is the least number of seasons in top division?", "sql": "SELECT MIN(\"Number of seasons in top division\") FROM table_11250_4"}
+{"table_id": "1-11391954-3", "question": "What is the minimum number for the half marathon (womens)?", "sql": "SELECT MIN(\"Half Marathon (womens)\") FROM table_11391954_3"}
+{"table_id": "1-1176371-1", "question": "What is the minimum of t20 matches?", "sql": "SELECT MIN(\"T20 matches\") FROM table_1176371_1"}
+{"table_id": "1-1176371-1", "question": "What is the maximum fc matches?", "sql": "SELECT MAX(\"FC matches\") FROM table_1176371_1"}
+{"table_id": "1-11803648-17", "question": "HOW MUCH WAS THE OVERALL FOR ERIK KARLSSON?", "sql": "SELECT MIN(\"Overall\") FROM table_11803648_17"}
+{"table_id": "1-11839306-2", "question": "What is the smallest track number?", "sql": "SELECT MIN(\"Track\") FROM table_11839306_2"}
+{"table_id": "1-11961582-4", "question": "What's the minimal game number in the season?", "sql": "SELECT MIN(\"Game\") FROM table_11961582_4"}
+{"table_id": "1-11964047-10", "question": "What is the lowest #?", "sql": "SELECT MIN(\"#\") FROM table_11964047_10"}
+{"table_id": "1-11964263-13", "question": "Name the minimum game", "sql": "SELECT MIN(\"Game\") FROM table_11964263_13"}
+{"table_id": "1-120778-1", "question": "Name the minimum for prohibition?", "sql": "SELECT MIN(\"For Prohibition\") FROM table_120778_1"}
+{"table_id": "1-120778-1", "question": "Name the max for prohibition.", "sql": "SELECT MAX(\"For Prohibition\") FROM table_120778_1"}
+{"table_id": "1-12113888-1", "question": "What is the highest number listed?", "sql": "SELECT MAX(\"Number\") FROM table_12113888_1"}
+{"table_id": "1-12232526-2", "question": "what is the maximum number of hull numbers?", "sql": "SELECT MAX(\"Hull Numbers\") FROM table_12232526_2"}
+{"table_id": "1-12303563-2", "question": "how many maximum winners", "sql": "SELECT MAX(\"Winners\") FROM table_12303563_2"}
+{"table_id": "1-12496904-1", "question": "What is the highest population for the ", "sql": "SELECT MAX(\"Population, August 15, 2002\") FROM table_12496904_1"}
+{"table_id": "1-1255110-7", "question": "What is the highest value under the column goals against?", "sql": "SELECT MAX(\"Goals Against\") FROM table_1255110_7"}
+{"table_id": "1-12570207-1", "question": "what is the minimum\u00a0rockhampton", "sql": "SELECT MIN(\"Rockhampton\") FROM table_12570207_1"}
+{"table_id": "1-12584173-1", "question": "What is the maximum population size in the town of Stanthorpe?", "sql": "SELECT MAX(\"Population (Stanthorpe)\") FROM table_12584173_1"}
+{"table_id": "1-12584173-1", "question": "What is the maximum population size in the town of Glengallen?", "sql": "SELECT MAX(\"Population (Glengallan)\") FROM table_12584173_1"}
+{"table_id": "1-12592074-1", "question": "What is the minimum laid down?", "sql": "SELECT MIN(\"Laid down\") FROM table_12592074_1"}
+{"table_id": "1-12755786-8", "question": "what is the least amount in the tournament?", "sql": "SELECT MIN(\"League Cup\") FROM table_12755786_8"}
+{"table_id": "1-12791809-1", "question": "What is the most number of truck loads north?", "sql": "SELECT MAX(\"Number of Truck Loads North\") FROM table_12791809_1"}
+{"table_id": "1-12803263-1", "question": "What is the most number?", "sql": "SELECT MAX(\"#\") FROM table_12803263_1"}
+{"table_id": "1-13018116-1", "question": "Name the most points for", "sql": "SELECT MIN(\"Pts For\") FROM table_13018116_1"}
+{"table_id": "1-1305623-18", "question": "What is the most silver medals?", "sql": "SELECT MAX(\"Silver Medals\") FROM table_1305623_18"}
+{"table_id": "1-1305623-20", "question": "What was the smallest total number of medals?", "sql": "SELECT MIN(\"Total Medals\") FROM table_1305623_20"}
+{"table_id": "1-13114949-3", "question": "what is the lowest qualifying rank?", "sql": "SELECT MIN(\"Qualifying Rank\") FROM table_13114949_3"}
+{"table_id": "1-13169136-1", "question": "What is the most recent year?", "sql": "SELECT MAX(\"Year\") FROM table_13169136_1"}
+{"table_id": "1-1341423-21", "question": "What is the lowest first elected?", "sql": "SELECT MIN(\"First elected\") FROM table_1341423_21"}
+{"table_id": "1-1341472-12", "question": "What's the first elected year of the district who's been the last one to do so?", "sql": "SELECT MAX(\"First elected\") FROM table_1341472_12"}
+{"table_id": "1-1341472-20", "question": "What is the first election year listed?", "sql": "SELECT MIN(\"First elected\") FROM table_1341472_20"}
+{"table_id": "1-1341472-49", "question": "what's the latest first elected year", "sql": "SELECT MAX(\"First elected\") FROM table_1341472_49"}
+{"table_id": "1-1341663-19", "question": "What year was the earliest first elected?", "sql": "SELECT MIN(\"First elected\") FROM table_1341663_19"}
+{"table_id": "1-1341663-26", "question": "When was the earliest first election?", "sql": "SELECT MIN(\"First elected\") FROM table_1341663_26"}
+{"table_id": "1-1341690-9", "question": "What is the last year that someone is first elected?", "sql": "SELECT MAX(\"First elected\") FROM table_1341690_9"}
+{"table_id": "1-1341738-11", "question": "What is the highest year that a candidate was first elected?", "sql": "SELECT MAX(\"First elected\") FROM table_1341738_11"}
+{"table_id": "1-1341897-42", "question": "What is the earliest year that a candidate was first elected?", "sql": "SELECT MIN(\"First elected\") FROM table_1341897_42"}
+{"table_id": "1-1341930-10", "question": "What year were the latest elections?", "sql": "SELECT MAX(\"First elected\") FROM table_1341930_10"}
+{"table_id": "1-1342270-24", "question": "what was the maxiumum for the first elected?", "sql": "SELECT MAX(\"First elected\") FROM table_1342270_24"}
+{"table_id": "1-1342270-42", "question": "What is the latest year any of the incumbents were first elected? ", "sql": "SELECT MAX(\"First elected\") FROM table_1342270_42"}
+{"table_id": "1-1342359-2", "question": "What is the last year that someone is first elected?", "sql": "SELECT MAX(\"First elected\") FROM table_1342359_2"}
+{"table_id": "1-1342379-45", "question": "What year was someone first elected?", "sql": "SELECT MIN(\"First elected\") FROM table_1342379_45"}
+{"table_id": "1-13535824-2", "question": "what's the minimum 180s value", "sql": "SELECT MIN(\"180s\") FROM table_13535824_2"}
+{"table_id": "1-13619027-10", "question": "What is the highest game number?", "sql": "SELECT MAX(\"Game\") FROM table_13619027_10"}
+{"table_id": "1-13688489-1", "question": "What was the least amount for Goals Olimpia?", "sql": "SELECT MIN(\"Goals Olimpia\") FROM table_13688489_1"}
+{"table_id": "1-13762472-5", "question": "What is the lowest numbered game on the list?", "sql": "SELECT MIN(\"Game\") FROM table_13762472_5"}
+{"table_id": "1-13897690-1", "question": "What is the smallest rank number of those used to rank the islands? ", "sql": "SELECT MIN(\"Rank\") FROM table_13897690_1"}
+{"table_id": "1-142573-1", "question": "Name the maximum clock rate mhz", "sql": "SELECT MAX(\"Clock rate (MHz)\") FROM table_142573_1"}
+{"table_id": "1-142573-1", "question": "Name the least clock rate mhz", "sql": "SELECT MIN(\"Clock rate (MHz)\") FROM table_142573_1"}
+{"table_id": "1-142950-1", "question": "What is the largest number of students?", "sql": "SELECT MAX(\"Total Number of Students\") FROM table_142950_1"}
+{"table_id": "1-14330096-4", "question": "What is the highest total number?", "sql": "SELECT MAX(\"Total#\") FROM table_14330096_4"}
+{"table_id": "1-14342367-11", "question": "Who scored the most points?", "sql": "SELECT MAX(\"Points\") FROM table_14342367_11"}
+{"table_id": "1-14342367-7", "question": "What is the least amount of field goals made by a player?", "sql": "SELECT MIN(\"Field goals\") FROM table_14342367_7"}
+{"table_id": "1-14342367-15", "question": "How many 5 points field goals is minimum", "sql": "SELECT MIN(\"Field goals (5 points)\") FROM table_14342367_15"}
+{"table_id": "1-14342480-5", "question": "Name the most field goals", "sql": "SELECT MAX(\"Field goals\") FROM table_14342480_5"}
+{"table_id": "1-14345690-1", "question": "What was the least amount of camp mates?", "sql": "SELECT MIN(\"Camp mates\") FROM table_14345690_1"}
+{"table_id": "1-1439096-1", "question": "What is the lowest production number?", "sql": "SELECT MIN(\"Production no.\") FROM table_1439096_1"}
+{"table_id": "1-14460937-2", "question": "what is the maximum value for afc cup", "sql": "SELECT MAX(\"AFC Cup\") FROM table_14460937_2"}
+{"table_id": "1-14489821-1", "question": "what is the maximum number of matches played by a team?", "sql": "SELECT MAX(\"Played\") FROM table_14489821_1"}
+{"table_id": "1-1456056-1", "question": "Name the most of 2500-3000ft", "sql": "SELECT MAX(\"2500\u20133000ft\") FROM table_1456056_1"}
+{"table_id": "1-14562722-2", "question": "Name the maximum discs", "sql": "SELECT MAX(\"Discs\") FROM table_14562722_2"}
+{"table_id": "1-1458666-4", "question": "what is the value for minimum\u00a0total wins", "sql": "SELECT MIN(\"Total wins\") FROM table_1458666_4"}
+{"table_id": "1-14650373-1", "question": "What is the highest pick number?", "sql": "SELECT MAX(\"Pick #\") FROM table_14650373_1"}
+{"table_id": "1-14656147-2", "question": "Find the least value of attendance?", "sql": "SELECT MIN(\"Attendance\") FROM table_14656147_2"}
+{"table_id": "1-1467951-4", "question": "What is the largest number of DVDs?", "sql": "SELECT MAX(\"DVD No.\") FROM table_1467951_4"}
+{"table_id": "1-1467951-4", "question": "What is the highest number of episodes?", "sql": "SELECT MAX(\"Ep No.\") FROM table_1467951_4"}
+{"table_id": "1-1467951-4", "question": "What is the most recent release date?", "sql": "SELECT MAX(\"Release date\") FROM table_1467951_4"}
+{"table_id": "1-14723382-1", "question": "What is the largest numbered?", "sql": "SELECT MAX(\"Division\") FROM table_14723382_1"}
+{"table_id": "1-1473672-2", "question": "Lorne Henning has the lowest pick# of?", "sql": "SELECT MIN(\"Pick #\") FROM table_1473672_2"}
+{"table_id": "1-14836185-3", "question": "What was the highest number on money list rank for Angela Stanford's career?", "sql": "SELECT MAX(\"Money list rank\") FROM table_14836185_3"}
+{"table_id": "1-14853156-2", "question": "What is the lowest number of wins?", "sql": "SELECT MIN(\"Wins\") FROM table_14853156_2"}
+{"table_id": "1-148535-2", "question": "Name the most 3 credits", "sql": "SELECT MIN(\"3 credits\") FROM table_148535_2"}
+{"table_id": "1-14911550-5", "question": "How many games were played?", "sql": "SELECT MIN(\"Played\") FROM table_14911550_5"}
+{"table_id": "1-14911550-1", "question": "Name the least wins", "sql": "SELECT MIN(\"Wins\") FROM table_14911550_1"}
+{"table_id": "1-149426-4", "question": "available subnets leading total is?", "sql": "SELECT MAX(\"Available subnets\") FROM table_149426_4"}
+{"table_id": "1-14945608-1", "question": "What was the highest attendance?", "sql": "SELECT MAX(\"Attendance\") FROM table_14945608_1"}
+{"table_id": "1-14999879-2", "question": "What was the last round the team drafted?", "sql": "SELECT MAX(\"Round\") FROM table_14999879_2"}
+{"table_id": "1-15055594-6", "question": "What is the lowest number of students from a state during the Fall 06 semester?", "sql": "SELECT MIN(\"Fall 06\") FROM table_15055594_6"}
+{"table_id": "1-1507423-4", "question": "What is the maximumum number of wins?", "sql": "SELECT MIN(\"Wins\") FROM table_1507423_4"}
+{"table_id": "1-15187735-20", "question": "What is the first episode number?", "sql": "SELECT MIN(\"Episode\") FROM table_15187735_20"}
+{"table_id": "1-15201666-3", "question": "Name the minimum derby county goals", "sql": "SELECT MIN(\"Derby County Goals\") FROM table_15201666_3"}
+{"table_id": "1-15201666-3", "question": "Name the most derby county", "sql": "SELECT MAX(\"Derby County\") FROM table_15201666_3"}
+{"table_id": "1-15315276-1", "question": "What is the maximum purse prize of the Northeast Delta Dental International Championship?", "sql": "SELECT MAX(\"Purse ($)\") FROM table_15315276_1"}
+{"table_id": "1-1532779-1", "question": "What is the most recent census year?", "sql": "SELECT MAX(\"Census Year\") FROM table_1532779_1"}
+{"table_id": "1-1539201-1", "question": "Name the number of februaries", "sql": "SELECT COUNT(\"February\") FROM table_1539201_1"}
+{"table_id": "1-15405904-1", "question": "How many games are played?", "sql": "SELECT MIN(\"Played\") FROM table_15405904_1"}
+{"table_id": "1-15416002-1", "question": "What is the maximum number for the Saffir-Simpson category in the Carvill Hurricane Index?", "sql": "SELECT MAX(\"Saffir-Simpson Category\") FROM table_15416002_1"}
+{"table_id": "1-1558077-2", "question": "What is the largest mass(kg)?", "sql": "SELECT MAX(\"Mass (kg)\") FROM table_1558077_2"}
+{"table_id": "1-1560673-1", "question": "What was the earliest season recorded for any team", "sql": "SELECT MIN(\"First season\") FROM table_1560673_1"}
+{"table_id": "1-15608800-2", "question": "Name the most number of pyewipe", "sql": "SELECT MAX(\"Number at Pyewipe\") FROM table_15608800_2"}
+{"table_id": "1-15700367-4", "question": "Name the most runs conceded", "sql": "SELECT MAX(\"Runs Conceded\") FROM table_15700367_4"}
+{"table_id": "1-15829930-5", "question": "Name the least tied", "sql": "SELECT MIN(\"Tied\") FROM table_15829930_5"}
+{"table_id": "1-15873014-3", "question": "How many games were played in the season?", "sql": "SELECT MAX(\"Game\") FROM table_15873014_3"}
+{"table_id": "1-15988037-24", "question": "What is the minimum number of perfect 40s?", "sql": "SELECT MIN(\"Perfect 40s\") FROM table_15988037_24"}
+{"table_id": "1-16034882-5", "question": "Name the least position", "sql": "SELECT MIN(\"Position\") FROM table_16034882_5"}
+{"table_id": "1-16119656-1", "question": "What was the lowest no. of attendance on record?", "sql": "SELECT MIN(\"Attendance\") FROM table_16119656_1"}
+{"table_id": "1-16227492-1", "question": "Name the most attendance", "sql": "SELECT MAX(\"Attendance\") FROM table_16227492_1"}
+{"table_id": "1-16384648-2", "question": "What's the earliest year anybody joined the hockey league? ", "sql": "SELECT MIN(\"Joined TSCHL\") FROM table_16384648_2"}
+{"table_id": "1-1644876-2", "question": "What is the fewest number of losses?", "sql": "SELECT MIN(\"L\") FROM table_1644876_2"}
+{"table_id": "1-16457934-4", "question": "what is the minimum of 60 -64?", "sql": "SELECT MIN(\"60 to 64\") FROM table_16457934_4"}
+{"table_id": "1-16677738-1", "question": "What is the lowest overall year?", "sql": "SELECT MIN(\"Year\") FROM table_16677738_1"}
+{"table_id": "1-16710541-2", "question": "What is the lowest number of poles?", "sql": "SELECT MIN(\"Poles\") FROM table_16710541_2"}
+{"table_id": "1-1671401-1", "question": "Name the least top 5", "sql": "SELECT MIN(\"Top 5\") FROM table_1671401_1"}
+{"table_id": "1-16770037-3", "question": "What is the smallest number of tries for in a game?", "sql": "SELECT MIN(\"Tries for\") FROM table_16770037_3"}
+{"table_id": "1-16799784-13", "question": "When was  the most recently named feature named?", "sql": "SELECT MAX(\"Year named\") FROM table_16799784_13"}
+{"table_id": "1-16815824-1", "question": "What was the highest score for round 2?", "sql": "SELECT MAX(\"Round2\") FROM table_16815824_1"}
+{"table_id": "1-168482-1", "question": "What is the largest number of seats won?", "sql": "SELECT MAX(\"# of seats won\") FROM table_168482_1"}
+{"table_id": "1-16908657-1", "question": "Name the least flaps", "sql": "SELECT MIN(\"FLaps\") FROM table_16908657_1"}
+{"table_id": "1-169693-1", "question": "Name the least age 40-49", "sql": "SELECT MIN(\"Age 40-49\") FROM table_169693_1"}
+{"table_id": "1-1697190-2", "question": "what was Casey Martin's minimum yearly earnings?", "sql": "SELECT MIN(\"Earnings ( $ )\") FROM table_1697190_2"}
+{"table_id": "1-1697190-2", "question": "how many times did Casey Martin win?", "sql": "SELECT MAX(\"Wins\") FROM table_1697190_2"}
+{"table_id": "1-17012578-37", "question": "What is the highest number of ends lost?", "sql": "SELECT MAX(\"Ends Lost\") FROM table_17012578_37"}
+{"table_id": "1-17012578-6", "question": "What is the top Points Allowed?", "sql": "SELECT MAX(\"PA\") FROM table_17012578_6"}
+{"table_id": "1-17357929-1", "question": "What is the fewest number of games lost?", "sql": "SELECT MIN(\"Lost\") FROM table_17357929_1"}
+{"table_id": "1-17505751-5", "question": "In the Champions league, what is the Minimum", "sql": "SELECT MIN(\"Champions League\") FROM table_17505751_5"}
+{"table_id": "1-1751142-2", "question": "What is the highest possible level?", "sql": "SELECT MAX(\"Level\") FROM table_1751142_2"}
+{"table_id": "1-17522854-6", "question": "What is the least number of miss united continents? ", "sql": "SELECT MIN(\"Miss United Continent\") FROM table_17522854_6"}
+{"table_id": "1-1756284-1", "question": "What was the highest vote for others?", "sql": "SELECT MAX(\"Others#\") FROM table_1756284_1"}
+{"table_id": "1-1756284-1", "question": "What was the highest vote number for Bush?", "sql": "SELECT MAX(\"Bush#\") FROM table_1756284_1"}
+{"table_id": "1-17632217-1", "question": "What is the lowest season?", "sql": "SELECT MIN(\"Season\") FROM table_17632217_1"}
+{"table_id": "1-17650725-1", "question": "Name the least internal transfers", "sql": "SELECT MIN(\"Internal Transfers\") FROM table_17650725_1"}
+{"table_id": "1-177273-2", "question": "what is the lowest year represented?", "sql": "SELECT MIN(\"Year\") FROM table_177273_2"}
+{"table_id": "1-1784514-1", "question": "What is the latest year a division was established?", "sql": "SELECT MAX(\"Year established\") FROM table_1784514_1"}
+{"table_id": "1-18012738-1", "question": "Name the least ai %", "sql": "SELECT MIN(\"AI (%)\") FROM table_18012738_1"}
+{"table_id": "1-18018214-4", "question": "What is the highest number of games played?", "sql": "SELECT MAX(\"Games played\") FROM table_18018214_4"}
+{"table_id": "1-18018214-3", "question": "How many games did each team played?", "sql": "SELECT MIN(\"Games played\") FROM table_18018214_3"}
+{"table_id": "1-18018214-3", "question": "What was the highest number of wins for any team?", "sql": "SELECT MAX(\"Wins\") FROM table_18018214_3"}
+{"table_id": "1-18268930-1", "question": "What's the minimal number of population served?", "sql": "SELECT MIN(\"Population Served\") FROM table_18268930_1"}
+{"table_id": "1-1831309-1", "question": "What is the longest length of mandatory secondary school?", "sql": "SELECT MAX(\"Length of mandatory Secondary School\") FROM table_1831309_1"}
+{"table_id": "1-18305523-1", "question": "What is the minimum number which is for title The Enemy Within part 1?", "sql": "SELECT MIN(\"#\") FROM table_18305523_1"}
+{"table_id": "1-18424435-4", "question": "What is the maximum number of episodes in the series listed?", "sql": "SELECT MAX(\"No.\") FROM table_18424435_4"}
+{"table_id": "1-18424435-5", "question": "What is the smallest number?", "sql": "SELECT MIN(\"#\") FROM table_18424435_5"}
+{"table_id": "1-18425346-2", "question": "What is the smallest city area?", "sql": "SELECT MIN(\"City Area(km 2 )\") FROM table_18425346_2"}
+{"table_id": "1-18595004-7", "question": "What is Inaba's maximum score?", "sql": "SELECT MAX(\"Inaba\") FROM table_18595004_7"}
+{"table_id": "1-18600760-15", "question": "what is the lowest geo id?", "sql": "SELECT MIN(\"GEO ID\") FROM table_18600760_15"}
+{"table_id": "1-18600760-13", "question": "What is the smallest ansi code?", "sql": "SELECT MIN(\"ANSI code\") FROM table_18600760_13"}
+{"table_id": "1-18607260-6", "question": "Name the most draws", "sql": "SELECT MAX(\"Draws\") FROM table_18607260_6"}
+{"table_id": "1-18607260-6", "question": "Name the least played", "sql": "SELECT MIN(\"Played\") FROM table_18607260_6"}
+{"table_id": "1-18703133-6", "question": "How many wins?", "sql": "SELECT MAX(\"Wins\") FROM table_18703133_6"}
+{"table_id": "1-1875157-1", "question": "What is the lowest number of top 10 finishes", "sql": "SELECT MIN(\"Top 10\") FROM table_1875157_1"}
+{"table_id": "1-18852984-2", "question": "What is the greatest number of bills sponsored in any year?", "sql": "SELECT MAX(\"All bills sponsored\") FROM table_18852984_2"}
+{"table_id": "1-1886270-1", "question": "What is the lowest cr number?", "sql": "SELECT MIN(\"CR no.\") FROM table_1886270_1"}
+{"table_id": "1-1886270-1", "question": "What is the highest cr number?", "sql": "SELECT MAX(\"CR no.\") FROM table_1886270_1"}
+{"table_id": "1-1888157-1", "question": "What is the lowest SOL?", "sql": "SELECT MIN(\"SOL\") FROM table_1888157_1"}
+{"table_id": "1-189893-1", "question": "What is the lowest population(2011)?", "sql": "SELECT MIN(\"Population (2011)\") FROM table_189893_1"}
+{"table_id": "1-19001175-1", "question": "Name the minimum wins", "sql": "SELECT MIN(\"Wins\") FROM table_19001175_1"}
+{"table_id": "1-19017269-5", "question": "what is the worlds smallest population?", "sql": "SELECT MIN(\"World\") FROM table_19017269_5"}
+{"table_id": "1-19047-2", "question": "What is the first year in the competition?", "sql": "SELECT MIN(\"Year\") FROM table_19047_2"}
+{"table_id": "1-19047-2", "question": "What is the first year that she competed?", "sql": "SELECT MIN(\"Year\") FROM table_19047_2"}
+{"table_id": "1-19131921-1", "question": "What is dma?", "sql": "SELECT MIN(\"DMA\") FROM table_19131921_1"}
+{"table_id": "1-19255192-2", "question": "Name the most 3 car sets", "sql": "SELECT MAX(\"3-car sets\") FROM table_19255192_2"}
+{"table_id": "1-19255192-2", "question": "Name the least 4 car sets", "sql": "SELECT MIN(\"4-car sets\") FROM table_19255192_2"}
+{"table_id": "1-19312274-2", "question": "what is the least current", "sql": "SELECT MIN(\"Current\") FROM table_19312274_2"}
+{"table_id": "1-19418696-3", "question": "What is the highest number of interceptions?", "sql": "SELECT MAX(\"Interceptions\") FROM table_19418696_3"}
+{"table_id": "1-19412902-2", "question": "What is the lowest position?", "sql": "SELECT MAX(\"Pos\") FROM table_19412902_2"}
+{"table_id": "1-1942683-1", "question": "What is the earliest year a house opened?", "sql": "SELECT MIN(\"Year opened\") FROM table_1942683_1"}
+{"table_id": "1-19487922-2", "question": "What in the minimum number of championships won by a nation?", "sql": "SELECT MIN(\"Championships\") FROM table_19487922_2"}
+{"table_id": "1-1949994-8", "question": "What was the minimum number of episodes in any of the series? ", "sql": "SELECT MIN(\"Episodes\") FROM table_1949994_8"}
+{"table_id": "1-19517621-4", "question": "What is the largest series number? ", "sql": "SELECT MAX(\"Series #\") FROM table_19517621_4"}
+{"table_id": "1-1952057-5", "question": "What is the maximum number of AFC championships?", "sql": "SELECT MAX(\"AFC Championships\") FROM table_1952057_5"}
+{"table_id": "1-19523708-1", "question": "What is the highest draw represented?", "sql": "SELECT MAX(\"Draw\") FROM table_19523708_1"}
+{"table_id": "1-19632728-1", "question": "What was the highest season number?", "sql": "SELECT MAX(\"Season #\") FROM table_19632728_1"}
+{"table_id": "1-1969577-3", "question": "What's the minimal enrollment of any of the schools?", "sql": "SELECT MIN(\"Enrollment\") FROM table_1969577_3"}
+{"table_id": "1-19722233-5", "question": "what is the lowest number of blocks", "sql": "SELECT MIN(\"Blocks\") FROM table_19722233_5"}
+{"table_id": "1-1971074-1", "question": "What's the highest enrollment among the schools?", "sql": "SELECT MAX(\"Enrollment\") FROM table_1971074_1"}
+{"table_id": "1-19741316-1", "question": "What is the lowest number of wins of a team?", "sql": "SELECT MIN(\"Wins\") FROM table_19741316_1"}
+{"table_id": "1-19741316-1", "question": "What's the minimal number of wins of a team?", "sql": "SELECT MIN(\"Wins\") FROM table_19741316_1"}
+{"table_id": "1-19763199-3", "question": "What is the least total votes?", "sql": "SELECT MIN(\"Total votes\") FROM table_19763199_3"}
+{"table_id": "1-197638-6", "question": "How many players are on this list?", "sql": "SELECT MAX(\"#\") FROM table_197638_6"}
+{"table_id": "1-19897294-8", "question": "Name the least number in series", "sql": "SELECT MIN(\"No. in series\") FROM table_19897294_8"}
+{"table_id": "1-20098479-1", "question": "What is the lowest production code", "sql": "SELECT MIN(\"Production code\") FROM table_20098479_1"}
+{"table_id": "1-20325360-2", "question": "What is the highest number of third place runners up held by any of the countries competing in the Mr. International competition?. ", "sql": "SELECT MAX(\"3rd runner-up\") FROM table_20325360_2"}
+{"table_id": "1-20398823-1", "question": "Name the least f/laps", "sql": "SELECT MIN(\"F/Laps\") FROM table_20398823_1"}
+{"table_id": "1-20424140-3", "question": "What's the minimal number of dances a couple has danced?", "sql": "SELECT MIN(\"Number of dances\") FROM table_20424140_3"}
+{"table_id": "1-20424140-3", "question": "What's the highest number a couple has ranked at?", "sql": "SELECT MAX(\"Place\") FROM table_20424140_3"}
+{"table_id": "1-20505342-1", "question": "Lowest number of drop goals?", "sql": "SELECT MIN(\"Drop Goals\") FROM table_20505342_1"}
+{"table_id": "1-2062148-4", "question": "Name the most weight", "sql": "SELECT MAX(\"Weight (kg)\") FROM table_2062148_4"}
+{"table_id": "1-2079664-3", "question": "Name the most previous br number", "sql": "SELECT MAX(\"Previous BR No.\") FROM table_2079664_3"}
+{"table_id": "1-21021796-1", "question": "What is the greatest number of valves?", "sql": "SELECT MIN(\"Valves\") FROM table_21021796_1"}
+{"table_id": "1-21091157-1", "question": "Name the most game", "sql": "SELECT MAX(\"Game\") FROM table_21091157_1"}
+{"table_id": "1-2113721-7", "question": "What is the smallest number of episodes in a season?", "sql": "SELECT MIN(\"Episodes\") FROM table_2113721_7"}
+{"table_id": "1-2127933-3", "question": "What is the earliest year?", "sql": "SELECT MIN(\"Year\") FROM table_2127933_3"}
+{"table_id": "1-21321804-3", "question": "What is the highest number any of the players were picked at? ", "sql": "SELECT MAX(\"Pick #\") FROM table_21321804_3"}
+{"table_id": "1-2134521-1", "question": "What is the largest population count in any of the census divisions in 2006?", "sql": "SELECT MAX(\"Pop. (2006)\") FROM table_2134521_1"}
+{"table_id": "1-2140071-13", "question": "What is the minimum number of seasons?", "sql": "SELECT MIN(\"Season\") FROM table_2140071_13"}
+{"table_id": "1-2140071-5", "question": "What is the last season? ", "sql": "SELECT MAX(\"Season\") FROM table_2140071_5"}
+{"table_id": "1-21436373-10", "question": "What is the maximal number of people that attended any of these games?", "sql": "SELECT MAX(\"Attendance\") FROM table_21436373_10"}
+{"table_id": "1-21457754-2", "question": "Name the most races", "sql": "SELECT MAX(\"Races\") FROM table_21457754_2"}
+{"table_id": "1-21457754-2", "question": "Name the most races", "sql": "SELECT MAX(\"Races\") FROM table_21457754_2"}
+{"table_id": "1-21457754-2", "question": "Name the most rr 1 pts", "sql": "SELECT MAX(\"RR1 Pts.\") FROM table_21457754_2"}
+{"table_id": "1-2146364-2", "question": "What is the smallest third place finish?", "sql": "SELECT MIN(\"Third Place\") FROM table_2146364_2"}
+{"table_id": "1-21486890-1", "question": "Name the most runs scored", "sql": "SELECT MAX(\"Runs scored\") FROM table_21486890_1"}
+{"table_id": "1-21538523-1", "question": "What is the fewest shots a glazing can handle?", "sql": "SELECT MIN(\"Shots\") FROM table_21538523_1"}
+{"table_id": "1-2169966-1", "question": "How many wins does he have?", "sql": "SELECT MAX(\"Wins\") FROM table_2169966_1"}
+{"table_id": "1-2187333-1", "question": "Name the least wins", "sql": "SELECT MIN(\"Wins\") FROM table_2187333_1"}
+{"table_id": "1-21991074-1", "question": "What is the maximum number of points scored against?", "sql": "SELECT MAX(\"Pts Agst\") FROM table_21991074_1"}
+{"table_id": "1-21991074-3", "question": "Name the most points agst", "sql": "SELECT MAX(\"Pts Agst\") FROM table_21991074_3"}
+{"table_id": "1-21991074-3", "question": "Name the least lost", "sql": "SELECT MIN(\"Lost\") FROM table_21991074_3"}
+{"table_id": "1-22081847-1", "question": "What was the maximum number of wins?", "sql": "SELECT MAX(\"Wins\") FROM table_22081847_1"}
+{"table_id": "1-22308881-2", "question": "What is the biggest number for county population 18 years+?", "sql": "SELECT MAX(\"County population 18 yrs+\") FROM table_22308881_2"}
+{"table_id": "1-22319599-1", "question": "What is the minimum possible for the NJCAA championships?", "sql": "SELECT MIN(\"NJCAA Championships\") FROM table_22319599_1"}
+{"table_id": "1-22319599-1", "question": "What is the minimum possible NJCAA championships?", "sql": "SELECT MIN(\"NJCAA Championships\") FROM table_22319599_1"}
+{"table_id": "1-22355-20", "question": "Who has the minimum number of silver?", "sql": "SELECT MIN(\"Silver\") FROM table_22355_20"}
+{"table_id": "1-22355-26", "question": "What is the maximum number of golds?", "sql": "SELECT MAX(\"Gold\") FROM table_22355_26"}
+{"table_id": "1-22355-29", "question": "What is the smallest amount of silver?", "sql": "SELECT MIN(\"Silver\") FROM table_22355_29"}
+{"table_id": "1-22355-5", "question": "What's the minimal rank of a athlete shown in the chart?", "sql": "SELECT MIN(\"Rank\") FROM table_22355_5"}
+{"table_id": "1-22355-35", "question": "which is the minimun amount of gold medals?", "sql": "SELECT MIN(\"Gold\") FROM table_22355_35"}
+{"table_id": "1-22355-35", "question": "which is the minimun amount of silver medals?", "sql": "SELECT MIN(\"Silver\") FROM table_22355_35"}
+{"table_id": "1-22355-65", "question": "What is the lowest overall number for  total(min. 2 medals)?", "sql": "SELECT MIN(\"Total(min. 2 medals)\") FROM table_22355_65"}
+{"table_id": "1-22355-68", "question": "Name the most rank", "sql": "SELECT MAX(\"Rank\") FROM table_22355_68"}
+{"table_id": "1-22360-3", "question": "Name the most total ", "sql": "SELECT MAX(\"Total\") FROM table_22360_3"}
+{"table_id": "1-2248784-4", "question": "What is the smallest Asian rank?", "sql": "SELECT MIN(\"Rank Asia\") FROM table_2248784_4"}
+{"table_id": "1-22771048-3", "question": "Name the least projected opening", "sql": "SELECT MIN(\"Projected opening\") FROM table_22771048_3"}
+{"table_id": "1-22815568-6", "question": "What is the population maximum?", "sql": "SELECT MAX(\"Population\") FROM table_22815568_6"}
+{"table_id": "1-22822098-3", "question": "Name the least europa league", "sql": "SELECT MIN(\"Europa League\") FROM table_22822098_3"}
+{"table_id": "1-22824319-3", "question": "Name the least points", "sql": "SELECT MIN(\"Points\") FROM table_22824319_3"}
+{"table_id": "1-22834834-12", "question": "What is the latest year that data is available for?", "sql": "SELECT MAX(\"Year\") FROM table_22834834_12"}
+{"table_id": "1-22839669-12", "question": "What is the maximum total wins he had for any year? ", "sql": "SELECT MAX(\"Total wins\") FROM table_22839669_12"}
+{"table_id": "1-22838521-3", "question": "What is the possible maximum money list rank?", "sql": "SELECT MAX(\"Money list rank\") FROM table_22838521_3"}
+{"table_id": "1-22854436-1", "question": "Name the most population 2002", "sql": "SELECT MAX(\"Population (2002 census data)\") FROM table_22854436_1"}
+{"table_id": "1-22892217-4", "question": "What is the highest numbered nightly rank for any episode? ", "sql": "SELECT MAX(\"Nightly rank\") FROM table_22892217_4"}
+{"table_id": "1-2290097-4", "question": "What is the minimum for 2nd runner-up?", "sql": "SELECT MIN(\"2nd runner-up\") FROM table_2290097_4"}
+{"table_id": "1-22914245-8", "question": "Name the least copa del rey", "sql": "SELECT MIN(\"Copa del Rey\") FROM table_22914245_8"}
+{"table_id": "1-22914245-9", "question": "What is the maximum possible Copa Del Rey?", "sql": "SELECT MAX(\"Copa del Rey\") FROM table_22914245_9"}
+{"table_id": "1-23128286-1", "question": "What was the most races he had in a season?", "sql": "SELECT MAX(\"Races\") FROM table_23128286_1"}
+{"table_id": "1-23239946-3", "question": "How many positions are there in Canadian Nascar? ", "sql": "SELECT MAX(\"Position\") FROM table_23239946_3"}
+{"table_id": "1-23239946-3", "question": "How many starts are there?", "sql": "SELECT MIN(\"Starts\") FROM table_23239946_3"}
+{"table_id": "1-2328113-1", "question": "What was the minimum population in 2011?", "sql": "SELECT MIN(\"Population (2011)\") FROM table_2328113_1"}
+{"table_id": "1-23294081-11", "question": "What is the highest episode number?", "sql": "SELECT MAX(\"No.\") FROM table_23294081_11"}
+{"table_id": "1-23308178-5", "question": "What's the minimal number of points scored in any game?", "sql": "SELECT MIN(\"Points\") FROM table_23308178_5"}
+{"table_id": "1-2333416-2", "question": "What is the greatest number of wins Ken Bouchard had in a season?", "sql": "SELECT MIN(\"Wins\") FROM table_2333416_2"}
+{"table_id": "1-23385853-20", "question": "What is the finishes maximum number?", "sql": "SELECT MAX(\"Finishes\") FROM table_23385853_20"}
+{"table_id": "1-23466021-4", "question": "What is the attendance?", "sql": "SELECT MAX(\"Attendance\") FROM table_23466021_4"}
+{"table_id": "1-2357201-1", "question": "What is the lowest numbered division Cleveland played in? ", "sql": "SELECT MIN(\"Division\") FROM table_2357201_1"}
+{"table_id": "1-2361911-2", "question": "Name the least division", "sql": "SELECT MIN(\"Division\") FROM table_2361911_2"}
+{"table_id": "1-23696862-6", "question": "What is the smallest amount of WSOP bracelets anyone had?", "sql": "SELECT MIN(\"WSOP bracelets\") FROM table_23696862_6"}
+{"table_id": "1-23927423-4", "question": "How many were the minimum team that participated in the league?", "sql": "SELECT MIN(\"Teams\") FROM table_23927423_4"}
+{"table_id": "1-23938357-7", "question": "What is the smallest 07-08 oi best value?", "sql": "SELECT MIN(\"07-08 OI best\") FROM table_23938357_7"}
+{"table_id": "1-23938357-6", "question": "What is the least 08-09 i/o best?", "sql": "SELECT MIN(\"08-09 I/O best\") FROM table_23938357_6"}
+{"table_id": "1-2394927-1", "question": "What is the lowest number of carriers?", "sql": "SELECT MIN(\"Number of carriers\") FROM table_2394927_1"}
+{"table_id": "1-23963781-3", "question": "What is the most amount of goals any of the players had? ", "sql": "SELECT MAX(\"Goals\") FROM table_23963781_3"}
+{"table_id": "1-24051013-3", "question": "What is the highest total for evm votes", "sql": "SELECT MAX(\"Total EVM Votes\") FROM table_24051013_3"}
+{"table_id": "1-24099916-1", "question": "What's the smallest number for cores of any of the processor models?", "sql": "SELECT MIN(\"Cores\") FROM table_24099916_1"}
+{"table_id": "1-24108789-4", "question": "What is the earliest number in before?", "sql": "SELECT MIN(\"Before\") FROM table_24108789_4"}
+{"table_id": "1-24136814-3", "question": "What is he smallest numbered week?", "sql": "SELECT MIN(\"Week\") FROM table_24136814_3"}
+{"table_id": "1-2414-1", "question": "What is the biggest number of basses suggested in either one of the references?", "sql": "SELECT MAX(\"Basses\") FROM table_2414_1"}
+{"table_id": "1-2419754-1", "question": "In what year did the teams leave the conference?", "sql": "SELECT MAX(\"Left\") FROM table_2419754_1"}
+{"table_id": "1-24224991-2", "question": "What is the lowest amount of L in any season? ", "sql": "SELECT MIN(\"L\") FROM table_24224991_2"}
+{"table_id": "1-24330912-1", "question": "What is the lowest overall amount of times they've been in 3rd?", "sql": "SELECT MIN(\"3rd\") FROM table_24330912_1"}
+{"table_id": "1-24330912-1", "question": "What is the lowest overall money list rank?", "sql": "SELECT MIN(\"Money list rank\") FROM table_24330912_1"}
+{"table_id": "1-24334163-1", "question": "What is the least amount of playoff legs won?", "sql": "SELECT MIN(\"Winners Play-Off Legs won\") FROM table_24334163_1"}
+{"table_id": "1-24440361-1", "question": "Name the least total kurdistan list", "sql": "SELECT MIN(\"Total Kurdistan List\") FROM table_24440361_1"}
+{"table_id": "1-24466191-1", "question": "Name the least flaps", "sql": "SELECT MIN(\"FLaps\") FROM table_24466191_1"}
+{"table_id": "1-24486462-1", "question": "What is the lowest disposable USD 2011?", "sql": "SELECT MIN(\"Disposable USD 2011\") FROM table_24486462_1"}
+{"table_id": "1-24538140-2", "question": "What is the lowest score of all games for match 2?", "sql": "SELECT MIN(\"Match2\") FROM table_24538140_2"}
+{"table_id": "1-24560733-1", "question": "What was the minimum number for opponents?", "sql": "SELECT MIN(\"Opponents\") FROM table_24560733_1"}
+{"table_id": "1-24565004-21", "question": "What was the lowest score.", "sql": "SELECT MIN(\"Goals\u00b9\") FROM table_24565004_21"}
+{"table_id": "1-24565004-7", "question": "What is the highest number of goals scored", "sql": "SELECT MAX(\"Goals\u00b9\") FROM table_24565004_7"}
+{"table_id": "1-24565004-7", "question": "What is the lowest number of appearances a player had", "sql": "SELECT MIN(\"Appearances\u00b9\") FROM table_24565004_7"}
+{"table_id": "1-24574438-1", "question": "Name the least area ", "sql": "SELECT MIN(\"Area (km 2 )\") FROM table_24574438_1"}
+{"table_id": "1-24587026-1", "question": "Name the most wins", "sql": "SELECT MIN(\"Wins\") FROM table_24587026_1"}
+{"table_id": "1-24613895-1", "question": "Name the least number of believers", "sql": "SELECT MIN(\"Number of Believers\") FROM table_24613895_1"}
+{"table_id": "1-24807406-3", "question": "What was the lowest goals ever achieved?", "sql": "SELECT MIN(\"Goals\") FROM table_24807406_3"}
+{"table_id": "1-24924576-2", "question": "Name the most number", "sql": "SELECT MAX(\"Number\") FROM table_24924576_2"}
+{"table_id": "1-24924576-2", "question": "Name the most number", "sql": "SELECT MAX(\"Number\") FROM table_24924576_2"}
+{"table_id": "1-24989925-2", "question": "How many weeks total are there?", "sql": "SELECT MAX(\"Week\") FROM table_24989925_2"}
+{"table_id": "1-24990183-6", "question": "What is the lowest overall number of  09-10 oi 2nd?", "sql": "SELECT MIN(\"09-10 OI 2nd\") FROM table_24990183_6"}
+{"table_id": "1-24990183-6", "question": "What is the lowest overall number for 09-10 oi 2nd?", "sql": "SELECT MIN(\"09-10 OI 2nd\") FROM table_24990183_6"}
+{"table_id": "1-24990183-4", "question": "What was the maximum 09-10 i/o best?", "sql": "SELECT MAX(\"09-10 I/O best\") FROM table_24990183_4"}
+{"table_id": "1-2509112-3", "question": "What is the Cuchumela Municipality minimum?", "sql": "SELECT MIN(\"Cuchumuela Municipality\") FROM table_2509112_3"}
+{"table_id": "1-25129482-1", "question": "What is the largest capacity for a stadium?", "sql": "SELECT MAX(\"Capacity\") FROM table_25129482_1"}
+{"table_id": "1-2522473-1", "question": "What is the maximum number of seasons for any team? ", "sql": "SELECT MAX(\"Seasons\") FROM table_2522473_1"}
+{"table_id": "1-2527063-3", "question": "Name the least rank", "sql": "SELECT MIN(\"Rank\") FROM table_2527063_3"}
+{"table_id": "1-25318033-1", "question": "What is the lowest amount of races?", "sql": "SELECT MIN(\"Races\") FROM table_25318033_1"}
+{"table_id": "1-25304789-1", "question": "What was the highest share?", "sql": "SELECT MAX(\"Share\") FROM table_25304789_1"}
+{"table_id": "1-25331766-3", "question": "What is the lowest attendance?", "sql": "SELECT MIN(\"Attendance\") FROM table_25331766_3"}
+{"table_id": "1-25352318-1", "question": "What is the lowest overall amount of poles?", "sql": "SELECT MIN(\"Poles\") FROM table_25352318_1"}
+{"table_id": "1-25353861-5", "question": "What is the fewest steals any player had?", "sql": "SELECT MIN(\"Steals\") FROM table_25353861_5"}
+{"table_id": "1-25352324-5", "question": "What is the highest value for points?", "sql": "SELECT MAX(\"Points\") FROM table_25352324_5"}
+{"table_id": "1-25360865-1", "question": "Name the most height", "sql": "SELECT MAX(\"Weight\") FROM table_25360865_1"}
+{"table_id": "1-25368177-1", "question": "What's the largest number of abandoned games by any of the teams?", "sql": "SELECT MAX(\"Abandoned\") FROM table_25368177_1"}
+{"table_id": "1-25375093-1", "question": "Name the least f/laps", "sql": "SELECT MIN(\"F/Laps\") FROM table_25375093_1"}
+{"table_id": "1-25386974-1", "question": "What is the fewest number of races Pedro Nunes completed in any series?", "sql": "SELECT MIN(\"Races\") FROM table_25386974_1"}
+{"table_id": "1-25421463-1", "question": "What is the fewest amount of races in any season? ", "sql": "SELECT MIN(\"Races\") FROM table_25421463_1"}
+{"table_id": "1-25557880-1", "question": "What was his minimum number wins in a single year?", "sql": "SELECT MIN(\"Wins\") FROM table_25557880_1"}
+{"table_id": "1-256286-13", "question": "What is the lowest overall amount of no votes?", "sql": "SELECT MIN(\"NO votes\") FROM table_256286_13"}
+{"table_id": "1-256286-39", "question": "What is the highest measure number?", "sql": "SELECT MAX(\"meas. num.\") FROM table_256286_39"}
+{"table_id": "1-256286-55", "question": "What is the highest measure number?", "sql": "SELECT MAX(\"meas. num.\") FROM table_256286_55"}
+{"table_id": "1-256286-60", "question": "What was the lowest measure number? ", "sql": "SELECT MIN(\"meas. num.\") FROM table_256286_60"}
+{"table_id": "1-25647137-2", "question": "What was the highest number of touchdowns by a player?", "sql": "SELECT MAX(\"Touchdowns\") FROM table_25647137_2"}
+{"table_id": "1-25655781-17", "question": "How many stages are there?", "sql": "SELECT MAX(\"Stage\") FROM table_25655781_17"}
+{"table_id": "1-25664518-3", "question": "What is the maximum ITV1 weekly ranking?", "sql": "SELECT MAX(\"ITV1 weekly ranking\") FROM table_25664518_3"}
+{"table_id": "1-25730209-2", "question": "What was the least amount of points scored?", "sql": "SELECT MIN(\"Extra points\") FROM table_25730209_2"}
+{"table_id": "1-25730123-2", "question": "What are the most points listed?", "sql": "SELECT MAX(\"Points\") FROM table_25730123_2"}
+{"table_id": "1-25730326-2", "question": "What is the least number of extra points? ", "sql": "SELECT MIN(\"Extra points\") FROM table_25730326_2"}
+{"table_id": "1-25730460-2", "question": "Name the least extra points", "sql": "SELECT MIN(\"Extra points\") FROM table_25730460_2"}
+{"table_id": "1-25730460-2", "question": "Name the least extra points", "sql": "SELECT MIN(\"Extra points\") FROM table_25730460_2"}
+{"table_id": "1-25760427-2", "question": "error (see notes)", "sql": "SELECT MIN(\"Weeks at number 1\") FROM table_25760427_2"}
+{"table_id": "1-25839957-5", "question": "What's the minimum number of execution units?", "sql": "SELECT MIN(\"Execution units\") FROM table_25839957_5"}
+{"table_id": "1-25947046-1", "question": "What is the highest Jews and others 1?", "sql": "SELECT MAX(\"Jews and others 1\") FROM table_25947046_1"}
+{"table_id": "1-26007767-1", "question": "What is the highest localities?", "sql": "SELECT MAX(\"Localities\") FROM table_26007767_1"}
+{"table_id": "1-26041144-10", "question": "What is the smallest number of runs?", "sql": "SELECT MIN(\"Runs\") FROM table_26041144_10"}
+{"table_id": "1-26041144-16", "question": "What is the catches maximum number?", "sql": "SELECT MAX(\"Catches\") FROM table_26041144_16"}
+{"table_id": "1-26041144-11", "question": "What is the lowest number of matches for a record holder?", "sql": "SELECT MIN(\"Matches\") FROM table_26041144_11"}
+{"table_id": "1-26108103-2", "question": "What was the earliest year?", "sql": "SELECT MIN(\"Year\") FROM table_26108103_2"}
+{"table_id": "1-26176081-29", "question": "What is the lowest gp?", "sql": "SELECT MIN(\"GP\") FROM table_26176081_29"}
+{"table_id": "1-26178824-1", "question": "what are the maximum f/laps?", "sql": "SELECT MAX(\"F/Laps\") FROM table_26178824_1"}
+{"table_id": "1-26178824-1", "question": "what are the minimum poles?", "sql": "SELECT MIN(\"Poles\") FROM table_26178824_1"}
+{"table_id": "1-261941-1", "question": "When was the earliest founded university?", "sql": "SELECT MIN(\"Founded\") FROM table_261941_1"}
+{"table_id": "1-261954-1", "question": "What is the least value of joined?", "sql": "SELECT MIN(\"Joined\") FROM table_261954_1"}
+{"table_id": "1-26222468-1", "question": "What is the minimum number of f/laps?", "sql": "SELECT MIN(\"F/Laps\") FROM table_26222468_1"}
+{"table_id": "1-26222468-1", "question": "What is the maximum number of wins?", "sql": "SELECT MAX(\"Wins\") FROM table_26222468_1"}
+{"table_id": "1-26360571-2", "question": "List the lowest number of assists.", "sql": "SELECT MIN(\"Assists\") FROM table_26360571_2"}
+{"table_id": "1-26401898-2", "question": "Name the most attendance", "sql": "SELECT MIN(\"Attendance\") FROM table_26401898_2"}
+{"table_id": "1-26428602-1", "question": "What is the lowest dye absoprtion in nm?", "sql": "SELECT MIN(\"Absorb (nm)\") FROM table_26428602_1"}
+{"table_id": "1-26448179-4", "question": "What is the highest production code?", "sql": "SELECT MAX(\"Production code\") FROM table_26448179_4"}
+{"table_id": "1-26466528-1", "question": "Name the most join date", "sql": "SELECT MAX(\"Join Date\") FROM table_26466528_1"}
+{"table_id": "1-26466528-1", "question": "Name the least join date", "sql": "SELECT MIN(\"Join Date\") FROM table_26466528_1"}
+{"table_id": "1-2655016-4", "question": " What is the lowest Nick production number? ", "sql": "SELECT MIN(\"Nick prod. #\") FROM table_2655016_4"}
+{"table_id": "1-26609958-1", "question": "What is the lowest overall amount of rainfall totals (million m 3)?", "sql": "SELECT MIN(\"Rainfall totals (million m 3 )\") FROM table_26609958_1"}
+{"table_id": "1-26677836-1", "question": "WHat is the highest difference?", "sql": "SELECT MAX(\"difference\") FROM table_26677836_1"}
+{"table_id": "1-26677836-1", "question": "What is the highest lost?", "sql": "SELECT MAX(\"lost\") FROM table_26677836_1"}
+{"table_id": "1-2668347-17", "question": "Name the most first elected", "sql": "SELECT MAX(\"First elected\") FROM table_2668347_17"}
+{"table_id": "1-2668420-17", "question": "When was the earliest person elected?", "sql": "SELECT MIN(\"First elected\") FROM table_2668420_17"}
+{"table_id": "1-2668405-17", "question": "What is the latest first elected?", "sql": "SELECT MAX(\"First elected\") FROM table_2668405_17"}
+{"table_id": "1-26708105-2", "question": "What is the smallest number listed in the from category? ", "sql": "SELECT MIN(\"From\") FROM table_26708105_2"}
+{"table_id": "1-26794530-1", "question": "What is the highest number of poles?", "sql": "SELECT MAX(\"Poles\") FROM table_26794530_1"}
+{"table_id": "1-26815674-1", "question": "What is the lowest overall amount of wins?", "sql": "SELECT MIN(\"Wins\") FROM table_26815674_1"}
+{"table_id": "1-26912584-2", "question": "What is the largest amount of ends lost?", "sql": "SELECT MAX(\"Ends Lost\") FROM table_26912584_2"}
+{"table_id": "1-269920-3", "question": "What's the maximal L3 cache for any of the models given?", "sql": "SELECT MAX(\"L2 Cache (MB)\") FROM table_269920_3"}
+{"table_id": "1-27094070-4", "question": "What was the highest home total?", "sql": "SELECT MAX(\"Home Total\") FROM table_27094070_4"}
+{"table_id": "1-27170987-5", "question": "What is the lowest number of fa cup goals by a player?", "sql": "SELECT MIN(\"FA Cup goals\") FROM table_27170987_5"}
+{"table_id": "1-27268238-5", "question": "What is the lowest wickets?", "sql": "SELECT MIN(\"Wickets\") FROM table_27268238_5"}
+{"table_id": "1-27304165-5", "question": "What is the lowest league cup?", "sql": "SELECT MIN(\"League Cup\") FROM table_27304165_5"}
+{"table_id": "1-274117-5", "question": "What is the fewest amount of Pro Bowl appearances any of the players had? ", "sql": "SELECT MIN(\"Number\") FROM table_274117_5"}
+{"table_id": "1-27501971-2", "question": "What is the smallest a\u00f1o?", "sql": "SELECT MIN(\"A\u00f1o\") FROM table_27501971_2"}
+{"table_id": "1-27547668-3", "question": "What is the smallest numbered episode in the series listed?", "sql": "SELECT MIN(\"#\") FROM table_27547668_3"}
+{"table_id": "1-27611593-5", "question": "When did the earliest tournament happened?", "sql": "SELECT MIN(\"Year\") FROM table_27611593_5"}
+{"table_id": "1-27671835-3", "question": "What is the smallest number for old membership total?", "sql": "SELECT MIN(\"Old membership total\") FROM table_27671835_3"}
+{"table_id": "1-27712702-11", "question": "What is the largest game number?", "sql": "SELECT MAX(\"Game\") FROM table_27712702_11"}
+{"table_id": "1-27713030-7", "question": "What game in the season does this list start?", "sql": "SELECT MIN(\"Game\") FROM table_27713030_7"}
+{"table_id": "1-27722734-12", "question": "What number was the first game?", "sql": "SELECT MIN(\"Game\") FROM table_27722734_12"}
+{"table_id": "1-27755784-10", "question": "What is the highest game number?", "sql": "SELECT MAX(\"Game\") FROM table_27755784_10"}
+{"table_id": "1-27771406-1", "question": "What is the most amount of stumpings any player had? ", "sql": "SELECT MAX(\"Stumpings\") FROM table_27771406_1"}
+{"table_id": "1-27813010-2", "question": "How long has the longest song spent in the top 10?", "sql": "SELECT MAX(\"Weeks in top 10\") FROM table_27813010_2"}
+{"table_id": "1-27823058-1", "question": "What's the highest series number ? ", "sql": "SELECT MAX(\"Series #\") FROM table_27823058_1"}
+{"table_id": "1-27871460-2", "question": "What is the highest channel number?", "sql": "SELECT MAX(\"Channel number\") FROM table_27871460_2"}
+{"table_id": "1-27906667-2", "question": "What is the highest number for 140+?", "sql": "SELECT MAX(\"140+\") FROM table_27906667_2"}
+{"table_id": "1-27922491-24", "question": "What is the minimum number of 50s scored?", "sql": "SELECT MIN(\"50s\") FROM table_27922491_24"}
+{"table_id": "1-27922491-20", "question": "What is the fewest number of wickets recorded?", "sql": "SELECT MIN(\"Wickets\") FROM table_27922491_20"}
+{"table_id": "1-27922491-8", "question": "What is the least amount of wickets?", "sql": "SELECT MIN(\"Wickets\") FROM table_27922491_8"}
+{"table_id": "1-27922491-8", "question": "What is the least amount of matches?", "sql": "SELECT MIN(\"Matches\") FROM table_27922491_8"}
+{"table_id": "1-27969432-3", "question": "What is the lowest numbered episode in the series?", "sql": "SELECT MIN(\"No. in series\") FROM table_27969432_3"}
+{"table_id": "1-27973624-1", "question": "What is the lowest number of fixtures?", "sql": "SELECT MIN(\"Number of fixtures\") FROM table_27973624_1"}
+{"table_id": "1-28005160-2", "question": "What is the last year a sponsorship ended?", "sql": "SELECT MAX(\"Sponsorship Ended\") FROM table_28005160_2"}
+{"table_id": "1-28059992-5", "question": "What is the highest numbered draft pick?", "sql": "SELECT MAX(\"Pick #\") FROM table_28059992_5"}
+{"table_id": "1-28068645-8", "question": "What is the minimum sum?", "sql": "SELECT MIN(\"Total\") FROM table_28068645_8"}
+{"table_id": "1-28137918-5", "question": "Name the least amount of new adherents per year", "sql": "SELECT MIN(\"New adherents per year\") FROM table_28137918_5"}
+{"table_id": "1-2817196-1", "question": "What is the largest number of points in a season?", "sql": "SELECT MAX(\"Points\") FROM table_2817196_1"}
+{"table_id": "1-2820584-2", "question": "What is the most recent year shown for Betty Stove?", "sql": "SELECT MAX(\"Year\") FROM table_2820584_2"}
+{"table_id": "1-28201906-1", "question": "What is the lowest number of drawn games by a team?", "sql": "SELECT MIN(\"Drawn\") FROM table_28201906_1"}
+{"table_id": "1-28561455-1", "question": "What's the smallest season number?", "sql": "SELECT MIN(\"No. in season\") FROM table_28561455_1"}
+{"table_id": "1-28547332-4", "question": "What is the maximum number of matches in a game?", "sql": "SELECT MAX(\"Matches\") FROM table_28547332_4"}
+{"table_id": "1-28677723-5", "question": "What is the largest number for trine dehli cleve?", "sql": "SELECT MAX(\"Trine Dehli Cleve\") FROM table_28677723_5"}
+{"table_id": "1-28677723-5", "question": "What is the largest number for karianne gulliksen?", "sql": "SELECT MAX(\"Karianne Gulliksen\") FROM table_28677723_5"}
+{"table_id": "1-28723146-2", "question": "What is the least total?", "sql": "SELECT MIN(\"Total\") FROM table_28723146_2"}
+{"table_id": "1-28768469-5", "question": "What is the most amount of games played this season?", "sql": "SELECT MAX(\"Game\") FROM table_28768469_5"}
+{"table_id": "1-28846752-8", "question": "What is the highest number listed for matches?", "sql": "SELECT MAX(\"Matches\") FROM table_28846752_8"}
+{"table_id": "1-28846752-5", "question": "what is the minimumfor 5wi?", "sql": "SELECT MIN(\"5wi\") FROM table_28846752_5"}
+{"table_id": "1-2889810-1", "question": "What is the minimum MotoGP/500cc ranking?", "sql": "SELECT MIN(\"MotoGP/500cc\") FROM table_2889810_1"}
+{"table_id": "1-29050051-3", "question": "What is the lowest listed number for a player?", "sql": "SELECT MIN(\"#\") FROM table_29050051_3"}
+{"table_id": "1-29273390-1", "question": "What is the least amount in each season? ", "sql": "SELECT MIN(\"No. in season\") FROM table_29273390_1"}
+{"table_id": "1-29273390-1", "question": "What is the least number in a season?", "sql": "SELECT MIN(\"No. in season\") FROM table_29273390_1"}
+{"table_id": "1-2930244-3", "question": "What is the largest overall number of major hurricanes?", "sql": "SELECT MAX(\"Number of major hurricanes\") FROM table_2930244_3"}
+{"table_id": "1-2930244-3", "question": "What is the lowest overall number of hurricanes?", "sql": "SELECT MIN(\"Number of hurricanes\") FROM table_2930244_3"}
+{"table_id": "1-29542269-2", "question": "What is the lowest overall amount of w's?", "sql": "SELECT MIN(\"W\") FROM table_29542269_2"}
+{"table_id": "1-29542147-2", "question": "What is the highest L of the tournament?", "sql": "SELECT MAX(\"L\") FROM table_29542147_2"}
+{"table_id": "1-29565601-2", "question": "What is the largest number in L?", "sql": "SELECT MAX(\"L\") FROM table_29565601_2"}
+{"table_id": "1-29583441-1", "question": "What is the smallest numbered production code listed?", "sql": "SELECT MIN(\"Production code\") FROM table_29583441_1"}
+{"table_id": "1-29679510-2", "question": "In what week was the first game played?", "sql": "SELECT MIN(\"Week\") FROM table_29679510_2"}
+{"table_id": "1-29704430-1", "question": "What is the least w?", "sql": "SELECT MIN(\"W\") FROM table_29704430_1"}
+{"table_id": "1-29704430-1", "question": "What is the most stolen ends?", "sql": "SELECT MAX(\"Stolen Ends\") FROM table_29704430_1"}
+{"table_id": "1-2985714-2", "question": "What is the maximum overall number?", "sql": "SELECT MAX(\"#\") FROM table_2985714_2"}
+{"table_id": "1-29942205-1", "question": "What is the lowest value in the miss international column?", "sql": "SELECT MIN(\"Miss International\") FROM table_29942205_1"}
+{"table_id": "1-29942205-1", "question": "What is the smallest quantity displayed under the title \"first runner-up\"?", "sql": "SELECT MIN(\"1st Runner-up\") FROM table_29942205_1"}
+{"table_id": "1-30008638-1", "question": "What is the highest total for any country/territory? ", "sql": "SELECT MAX(\"Total\") FROM table_30008638_1"}
+{"table_id": "1-30008638-1", "question": "What is the most Miss Fires any country has had?", "sql": "SELECT MAX(\"Miss Fire\") FROM table_30008638_1"}
+{"table_id": "1-30008638-1", "question": "What is the least amount of Miss Airs any country has had?", "sql": "SELECT MIN(\"Miss Air\") FROM table_30008638_1"}
+{"table_id": "1-30018460-1", "question": "What is the minimum sum?", "sql": "SELECT MIN(\"Total\") FROM table_30018460_1"}
+{"table_id": "1-30018460-1", "question": "What is the minimum manhunt beauty  contest?", "sql": "SELECT MIN(\"Manhunt International\") FROM table_30018460_1"}
+{"table_id": "1-30058355-5", "question": "What's the best rank possible?", "sql": "SELECT MIN(\"Rank\") FROM table_30058355_5"}
+{"table_id": "1-30060356-3", "question": "What is the highest numbered event?", "sql": "SELECT MAX(\"Event\") FROM table_30060356_3"}

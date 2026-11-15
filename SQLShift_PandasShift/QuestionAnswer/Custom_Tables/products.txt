@@ -1,0 +1,11 @@
+The products table contains the following columns:
+
+- product_id (Integer): the unique identifier of the product;
+- category (String): the category the product belongs to;
+- price (Integer): the product's price in dollars;
+- stock (Integer): the number of units currently in stock;
+- rating (Integer): the average customer rating out of 5;
+- weight (Integer): the product's weight in grams.
+
+products table:
+[["product_id", "category", "price", "stock", "rating", "weight"], [1, "Furniture", 45, 120, 4, 3500], [2, "Electronics", 900, 30, 5, 1800], [3, "Stationery", 2, 500, 3, 10], [4, "Furniture", 150, 40, 4, 12000], [5, "Electronics", 600, 25, 4, 180], [6, "Stationery", 3, 300, 5, 20]]

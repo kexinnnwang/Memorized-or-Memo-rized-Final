@@ -1,0 +1,10 @@
+The List_of_European_Cup_and_UEFA_Champions_League_winning_managers table contains the following columns:
+
+- Rank (Integer): the ranking position;
+- Manager (String): the name of the manager;
+- Runner_up (Integer): the number of times finishing runner-up;
+- Years_won (String): the years the title was won;
+- Clubs_won (String): the clubs with which the title was won.
+
+List_of_European_Cup_and_UEFA_Champions_League_winning_managers table:
+[['Rank', 'Manager', 'Runner_up', 'Years_won', 'Clubs_won'], ['1', 'Bob_Paisley', '0', '1977_1978_1981', 'Liverpool'], ['2', 'Alex_Ferguson', '2', '1999_2008', 'Manchester_United'], ['2', 'Miguel_Mu_oz', '2', '1960_1966', 'Real_Madrid'], ['4', 'Jupp_Heynckes', '1', '1998_2013', 'Real_Madrid_Bayern_Munich'], ['4', 'Carlo_Ancelotti', '1', '2003_2007', 'Milan'], ['4', 'Ottmar_Hitzfeld', '1', '1997_2001', 'Borussia_Dortmund_Bayern_Munich'], ['4', 'Ernst_Happel', '1', '1970_1983', 'Feyenoord_Hamburg'], ['4', 'Helenio_Herrera', '1', '1964_1965', 'Internazionale'], ['9', 'Josep_Guardiola', '0', '2009_2011', 'Barcelona'], ['9', 'Jos_Mourinho', '0', '2004_2010', 'Porto_Internazionale'], ['9', 'Vicente_del_Bosque', '0', '2000_2002', 'Real_Madrid'], ['9', 'Arrigo_Sacchi', '0', '1989_1990', 'Milan'], ['9', 'Brian_Clough', '0', '1979_1980', 'Nottingham_Forest'], ['9', 'Dettmar_Cramer', '0', '1975_1976', 'Bayern_Munich'], ['9', 'tefan_Kov_cs', '0', '1972_1973', 'Ajax'], ['9', 'Nereo_Rocco', '0', '1963_1969', 'Milan'], ['9', 'B_la_Guttmann', '0', '1961_1962', 'Benfica'], ['9', 'Luis_Carniglia', '0', '1958_1959', 'Real_Madrid'], ['9', 'Jos_Villalonga', '0', '1956_1957', 'Real_Madrid']]

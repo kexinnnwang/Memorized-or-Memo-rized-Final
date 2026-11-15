@@ -1,0 +1,10 @@
+The Mountains_classification_in_the_Tour_de_France table contains the following columns:
+
+- Rank (Integer): the ranking position;
+- Name (String): the rider's name;
+- Country (String): the country the rider represents;
+- Wins (Integer): the number of mountains classification wins;
+- Years (String): the years the classification was won.
+
+Mountains_classification_in_the_Tour_de_France table:
+[['Rank', 'Name', 'Country', 'Wins', 'Years'], ['1', 'Richard_Virenque', 'France', '7', '1994_1995_1996_1997_1999_2003_2004'], ['2', 'Federico_Bahamontes', 'Spain', '6', '1954_1958_1959_1962_1963_1964'], ['2', 'Lucien_Van_Impe', 'Belgium', '6', '1971_1972_1975_1977_1981_1983'], ['4', 'Julio_Jim_nez', 'Spain', '3', '1965_1966_1967'], ['5', 'Felicien_Vervaecke', 'Belgium', '2', '1935_1937'], ['5', 'Gino_Bartali', 'Italy', '2', '1938_1948'], ['5', 'Fausto_Coppi', 'Italy', '2', '1949_1952'], ['5', 'Charly_Gaul', 'Luxembourg', '2', '1955_1956'], ['5', 'Imerio_Massignan', 'Italy', '2', '1960_1961'], ['5', 'Eddy_Merckx', 'Belgium', '2', '1969_1970'], ['5', 'Luis_Herrera', 'Colombia', '2', '1985_1987'], ['5', 'Claudio_Chiappucci', 'Italy', '2', '1991_1992'], ['5', 'Laurent_Jalabert', 'France', '2', '2001_2002'], ['5', 'Michael_Rasmussen', 'Denmark', '2', '2005_2006']]

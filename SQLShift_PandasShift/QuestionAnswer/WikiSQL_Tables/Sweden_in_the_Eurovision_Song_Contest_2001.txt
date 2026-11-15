@@ -1,0 +1,10 @@
+The Sweden_in_the_Eurovision_Song_Contest_2001 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Artist (String): the performing artist;
+- Song (String): the title of the song;
+- Points (Integer): the number of points received;
+- Place (String): the final ranking position.
+
+Sweden_in_the_Eurovision_Song_Contest_2001 table:
+[['Draw', 'Artist', 'Song', 'Points', 'Place'], ['1', 'Teresia', 'Kom_ner_p_jorden', '25', '8th'], ['2', 'Jan_Johansen', 'Ingemansland', '107', '4th'], ['3', 'Date', 'Om_du_f_rl_ter_mig', '57', '6th'], ['4', 'Rosanna_J_nis', 'Om_du_var_h_r_hos_mig', '13', '10th'], ['5', 'Barbados', 'Allt_som_jag_ser', '192', '2nd'], ['6', 'Sanna_Nielsen', 'Ig_r_idag', '172', '3rd'], ['7', 'Annie_Kratz_Gut', 'V_nda_om', '29', '6th'], ['8', 'Friends', 'Lyssna_till_ditt_hj_rta', '237', '1st'], ['9', 'Popson', 'Jag_k_nner_dig', '23', '9th'], ['10', 'Ellinor_Franz_n', 'Om_du_stannar_h_r', '91', '5th']]

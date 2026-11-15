@@ -1,0 +1,10 @@
+The Croatia_in_the_Eurovision_Song_Contest_1998 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Song (String): the title of the song;
+- Performer (String): the performing artist;
+- Points (Integer): the number of points received;
+- Rank (String): the final ranking position.
+
+Croatia_in_the_Eurovision_Song_Contest_1998 table:
+[['Draw', 'Song', 'Performer', 'Points', 'Rank'], ['1', 'Sve_sto_si_ti', 'Valentina_Brzovic', '2', '17th'], ['2', 'Nebo', 'Zorica_Kondza', '78', '7th'], ['3', 'Zivot_iza_ponoci', 'Ready_Cool', '32', '15th'], ['4', 'Jos_te_volim_kao_nekada', 'Stijene', '70', '8th'], ['5', 'Stara_zvone_jedne_ljubavi', 'Ena', '0', '18th'], ['6', 'Ja_cu_po_svom_ti_ces_po_svom', 'Melani', '10', '16th'], ['7', 'Ako_me_ikad_pozelis', 'Tina_and_Niksa', '48', '13th'], ['8', 'Daj_daj', 'Branimir_Mihaljevic', '132', '3rd'], ['9', 'U_ritmu_ljubavi', 'Colonia', '87', '4th'], ['10', 'Na_svijetu_sve', 'Magazin', '79', '6th'], ['11', 'Pjesma_putuje', 'Ivan_Mikulic', '61', '11th'], ['12', 'Sve_je_za_tebe', 'Marsell_Benzon', '52', '12th'], ['13', 'Bez_ljubavi', 'Alen_Nizetic', '63', '10th'], ['14', 'Samo_ti_je_ljubav_potrebna', 'Andrea_Cubric', '42', '14th'], ['15', 'Da_bar_vjecno_zivimo', 'Sanja_Trumbic', '0', '18th'], ['16', 'Ljubi_me_i_to_je_to', 'Lana_Cencic', '0', '18th'], ['17', 'Neka_mi_ne_svane', 'Danijela', '177', '1st'], ['18', 'Bolero', 'Zrinka_Goran', '133', '2nd'], ['19', 'Pricaj_mi_o_ljubavi', 'Novi_Fosili', '69', '9th'], ['20', 'Ruku_na_srce', 'Azzurro', '83', '5th']]

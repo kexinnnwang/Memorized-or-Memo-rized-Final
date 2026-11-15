@@ -1,0 +1,10 @@
+The List_of_Formula_One_driver_records table contains the following columns:
+
+- Driver (String): the driver's name;
+- Seasons (String): the seasons the driver competed;
+- Entries (Integer): the number of race entries;
+- Poles (Integer): the number of pole positions;
+- Percentage (String): the percentage of poles relative to entries.
+
+List_of_Formula_One_driver_records table:
+[['Driver', 'Seasons', 'Entries', 'Poles', 'Percentage'], ['Juan_Manuel_Fangio', '1950_1951_1953_1958', '52', '29', '55_77'], ['Jim_Clark', '1960_1968', '73', '33', '45_21'], ['Alberto_Ascari', '1950_1955', '33', '14', '42_42'], ['Ayrton_Senna', '1984_1994', '162', '65', '40_12'], ['Sebastian_Vettel', '2007_2013', '118', '43', '36_44'], ['Lewis_Hamilton', '2007_2013', '127', '31', '24_41'], ['Stirling_Moss', '1951_1961', '67', '16', '23_88'], ['Michael_Schumacher', '1991_2006_2010_2012', '308', '68', '22_08'], ['Jackie_Stewart', '1965_1973', '100', '17', '17_00'], ['Nigel_Mansell', '1980_1992_1994_1995', '191', '32', '16_75']]

@@ -1,0 +1,10 @@
+The Ireland_in_the_Eurovision_Song_Contest_1992 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Artist (String): the performing artist;
+- Song (String): the title of the song;
+- Points (Integer): the number of points received;
+- Place (String): the final ranking position.
+
+Ireland_in_the_Eurovision_Song_Contest_1992 table:
+[['Draw', 'Artist', 'Song', 'Points', 'Place'], ['1', 'The_Last_Word', 'Feel_the_Pain', '79', '2nd'], ['2', 'Patricia_Roe', 'Your_Love', '79', '2nd'], ['3', 'Joe_O_Meara', 'Inside_My_Restless_Heart', '74', '4th'], ['4', 'Luv_Bug', 'Close_To_Your_Heart', '45', '8th'], ['5', 'Connor_Stevens', 'Higher', '66', '5th'], ['6', 'Alannah', 'Le_Ch_ile_Ar_s', '53', '6th'], ['7', 'Linda_Martin', 'Why_Me', '105', '1st'], ['8', 'Karen_Dowling', 'Call_To_Me', '49', '7th']]

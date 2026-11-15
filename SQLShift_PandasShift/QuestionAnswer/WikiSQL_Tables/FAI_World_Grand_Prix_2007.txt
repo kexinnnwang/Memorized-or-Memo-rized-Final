@@ -1,0 +1,10 @@
+The FAI_World_Grand_Prix_2007 table contains the following columns:
+
+- Position (Integer): the finishing position;
+- Pilot (String): the name of the pilot;
+- Country (String): the country the pilot represents;
+- Glider (String): the glider model flown;
+- Points (Integer): the number of points scored.
+
+FAI_World_Grand_Prix_2007 table:
+[['Position', 'Pilot', 'Country', 'Glider', 'Points'], ['1', 'Sebastian_Kawa', 'Poland', 'Diana_Sailplanes_Diana_2', '30'], ['2', 'Uli_Schwenk', 'Germany', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2ax', '25'], ['2', 'Ben_Flewett', 'New_Zealand', 'Alexander_Schleicher_GmbH_Co_ASW_27', '25'], ['4', 'Steve_Jones', 'United_Kingdom', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2ax', '24'], ['5', 'Petr_Krejcirik', 'Czech_Republic', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2ax', '17'], ['5', 'Michael_Sommer', 'Germany', 'Alexander_Schleicher_GmbH_Co_ASG_29', '17'], ['7', 'Mario_Kiessling', 'Germany', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2ax', '15'], ['8', 'Bruce_Taylor', 'Australia', 'Alexander_Schleicher_GmbH_Co_ASW_27', '14'], ['8', 'Giorgio_Galetto', 'Italy', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2ax', '14'], ['10', 'Peter_Harvey', 'United_Kingdom', 'Alexander_Schleicher_GmbH_Co_ASW_27', '13'], ['11', 'Mark_Holliday', 'South_Africa', 'Alexander_Schleicher_GmbH_Co_ASW_27', '10'], ['12', 'Christophe_Ruch', 'France', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2a', '9'], ['13', 'Erwin_Sommer', 'Germany', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2ax', '7'], ['14', 'Herbert_Weiss', 'Germany', 'Alexander_Schleicher_GmbH_Co_ASG_29', '4'], ['15', 'Didier_Hauss', 'France', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2cxT', '3'], ['15', 'Oscar_Goudriaan', 'South_Africa', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus', '3'], ['17', 'Vladimir_Panafutin', 'Russia', 'Rolladen_Schneider_Flugzeugbau_GmbH_LS6C', '0'], ['17', 'Tim_McAllister', 'USA', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_C', '0']]

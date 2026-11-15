@@ -1,0 +1,10 @@
+The List_of_New_Zealand_Warriors_records table contains the following columns:
+
+- Margin (Integer): the winning or losing margin;
+- Score (String): the final score;
+- Opponent (String): the opposing team;
+- Venue (String): the venue where the match was played;
+- Year (Integer): the year of the match.
+
+List_of_New_Zealand_Warriors_records table:
+[['Margin', 'Score', 'Opponent', 'Venue', 'Year'], ['56', '6_62', 'Penrith_Panthers', 'Penrith_Stadium', '2013'], ['54', '0_54', 'St_George_Illawarra_Dragons', 'WIN_Stadium', '2000'], ['52', '6_58', 'Sydney_Roosters', 'Sydney_Football_Stadium', '2004'], ['46', '10_56', 'Melbourne_Storm', 'Olympic_Park_Stadium', '2000'], ['46', '6_52', 'Manly_Warringah_Sea_Eagles', 'Brookvale_Oval', '2008'], ['46', '4_50', 'Wests_Tigers', 'Jade_Stadium', '2004']]

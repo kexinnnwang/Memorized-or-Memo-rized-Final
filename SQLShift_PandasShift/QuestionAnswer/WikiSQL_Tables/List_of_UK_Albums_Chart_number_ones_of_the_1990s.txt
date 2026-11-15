@@ -1,0 +1,10 @@
+The List_of_UK_Albums_Chart_number_ones_of_the_1990s table contains the following columns:
+
+- Year (Integer): the year the album reached number one;
+- Artist (String): the recording artist;
+- Album (String): the title of the album;
+- Record_label (String): the record label;
+- Weeks_at_number_one (Integer): the number of weeks spent at number one.
+
+List_of_UK_Albums_Chart_number_ones_of_the_1990s table:
+[['Year', 'Artist', 'Album', 'Record_label', 'Weeks_at_number_one'], ['1990', 'Madonna', 'The_Immaculate_Collection', 'Sire', '9'], ['1991', 'Queen', 'Greatest_Hits_II', 'Parlophone', '1'], ['1992', 'Cher', 'Greatest_Hits_1965_1992', 'Geffen', '7'], ['1993', 'Meat_Loaf', 'Bat_Out_of_Hell_II_Back_into_Hell', 'Virgin', '11'], ['1994', 'The_Beautiful_South_Category_Articles_with_hCards', 'Carry_On_up_the_Charts', 'Go_Discs', '7'], ['1995', 'Robson_Jerome', 'Robson_Jerome', 'RCA', '7'], ['1996', 'Spice_Girls', 'Spice', 'Virgin', '15'], ['1997', 'Celine_Dion_Category_Articles_with_hCards', 'Let_s_Talk_About_Love', 'Epic', '5'], ['1998', 'George_Michael_Category_Articles_with_hCards', 'Ladies_Gentlemen_The_Best_of_George_Michael', 'Epic', '8'], ['1999', 'Shania_Twain_Category_Articles_with_hCards', 'Come_On_Over', 'Mercury', '11']]

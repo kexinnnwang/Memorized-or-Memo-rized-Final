@@ -1,0 +1,10 @@
+The Ireland_in_the_Eurovision_Song_Contest_2001 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Song (String): the title of the song;
+- Performer (String): the performing artist;
+- Points (Integer): the number of points received;
+- Rank (String): the final ranking position.
+
+Ireland_in_the_Eurovision_Song_Contest_2001 table:
+[['Draw', 'Song', 'Performer', 'Points', 'Rank'], ['1', 'Who_Said_I_Pray', 'James_Peake', '41', '5th'], ['2', 'Every_Kiss_is_a_Lie', 'InFocus', '70', '2nd'], ['3', 'I_ll_Be_With_You', 'Gavin_McCormack', '34', '6th'], ['4', 'Katie_Lovely', 'David_Murphy', '31', '7th'], ['5', 'Undertow', 'Fe_Mail', '63', '3rd'], ['6', 'Without_Your_Love', 'Gary_O_Shaughnessy', '74', '1st'], ['7', 'The_Innocent_Days', 'Emma_Reynolds', '51', '4th']]

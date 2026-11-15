@@ -1,0 +1,10 @@
+The San_Leandro_Unified_School_District table contains the following columns:
+
+- School_name (String): the name of the school;
+- address (String): the address of the school;
+- students (Integer): the number of students;
+- grades (String): the grade levels served;
+- 2007_API (Integer): the school's 2007 Academic Performance Index score.
+
+San_Leandro_Unified_School_District table:
+[['School_name', 'address', 'students', 'grades', '2007_API'], ['Garfield_Elementary', '13050_Aurora_Drive_San_Leandro_94577_3159', '389', 'K_5', '704'], ['James_Madison_Elementary', '14751_Juniper_Street_San_Leandro_94579_1222', '373', 'K_5', '725'], ['Jefferson_Elementary', '14300_Bancroft_Avenue_San_Leandro_94578_1727', '496', 'K_5', '807'], ['McKinley_Elementary', '2150_East_14th_Street_San_Leandro_94577_6025', '497', 'K_5', '719'], ['Monroe_Elementary', '3750_Monterey_Blvd_San_Leandro_94578_4116', '430', 'K_5', '765'], ['Roosevelt_Elementary', '951_Dowling_Blvd_San_Leandro_94577_2125', '513', 'K_5', '730'], ['Washington_Elementary', '250_Dutton_Avenue_San_Leandro_94577_2804', '357', 'K_5', '729'], ['Wilson_Elementary', '1300_Williams_Street_San_Leandro_94577_2401', '820', 'K_5', '734'], ['Bancroft_Middle', '1150_Bancroft_Avenue_San_Leandro_94577_3863', '1006', '6_8', '671'], ['John_Muir_Middle', '1444_Williams_Street_San_Leandro_94577_2403', '1150', '6_8', '708'], ['Lincoln_High_Continuation', '2600_Teagarden_Street_San_Leandro_94579_1222', '76', '10_12', '510'], ['San_Leandro_High', '2200_Bancroft_Avenue_San_Leandro_94577_6108', '2617', '9_12', '685']]

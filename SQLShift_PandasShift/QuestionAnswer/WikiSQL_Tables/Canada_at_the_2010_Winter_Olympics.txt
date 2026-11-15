@@ -1,0 +1,10 @@
+The Canada_at_the_2010_Winter_Olympics table contains the following columns:
+
+- Position (String): the athlete's playing position;
+- Height_cm (Integer): the athlete's height in centimeters;
+- Weight_kg (Integer): the athlete's weight in kilograms;
+- Birthplace (String): the athlete's place of birth;
+- 2009_10_team (String): the team the athlete played for in the 2009-10 season.
+
+Canada_at_the_2010_Winter_Olympics table:
+[['Position', 'Height_cm', 'Weight_kg', 'Birthplace', '2009_10_team'], ['G', '175', '78', 'Boisbriand_Quebec', 'McGill_Martlets'], ['G', '175', '70', 'Ch_teauguay_Quebec', 'Montreal_Stars'], ['G', '172', '66', 'Edmonton_Alberta', 'Grant_MacEwan_Griffins'], ['D', '170', '63', 'Sudbury_Ontario', 'Calgary_Oval_X_Treme'], ['D', '162', '60', 'Spruce_Grove_Alberta', 'Calgary_Oval_X_Treme'], ['D', '170', '70', 'Hagersville_Ontario', 'Burlington_Barracudas'], ['D', '162', '78', 'Kennedy_Saskatchewan', 'Calgary_Oval_X_Treme'], ['D', '175', '74', 'Regina_Saskatchewan', 'Edmonton_Chimos'], ['D', '167', '61', 'Montreal_Quebec', 'McGill_Martlets'], ['F', '167', '66', 'Ruthven_Ontario', 'Mercyhurst_Lakers'], ['F', '182', '78', 'Toronto_Ontario', 'Brampton_Thunder'], ['F', '175', '69', 'Winnipeg_Manitoba', 'Mississauga_Chiefs'], ['F', '165', '63', 'Kingston_Ontario', 'Brampton_Thunder'], ['F', '170', '74', 'Thunder_Bay_Ontario', 'Minnesota_Duluth_Bulldogs'], ['F', '170', '61', 'Sudbury_Ontario', 'Cornell_Big_Red'], ['F', '172', '62', 'Uranium_City_Saskatchewan', 'Calgary_Oval_X_Treme'], ['F', '180', '78', 'Montreal_Quebec', 'Montreal_Stars'], ['F', '167', '75', 'Toronto_Ontario', 'Calgary_Oval_X_Treme'], ['F', '167', '73', 'Beauceville_Quebec', 'Dawson_Blues'], ['F', '167', '63', 'Sherbrooke_Quebec', 'Harvard_Crimson'], ['F', '177', '77', 'Shaunavon_Saskatchewan', 'Eskilstuna_Linden']]

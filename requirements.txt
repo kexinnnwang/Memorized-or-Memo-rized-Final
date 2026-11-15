@@ -1,0 +1,23 @@
+transformers>=4.51.0
+accelerate
+sentence-transformers
+bitsandbytes
+trl
+peft
+datasets
+tiktoken
+ 
+# Retrieval
+faiss-cpu>=1.8.0             
+bm25s>=0.2.0  
+einops          
+      
+ 
+python-dotenv
+numpy
+pandas
+pyarrow
+
+requests
+beautifulsoup4
+joblib

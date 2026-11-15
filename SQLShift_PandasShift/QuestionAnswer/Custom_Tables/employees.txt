@@ -1,0 +1,11 @@
+The employees table contains the following columns:
+
+- employee_id (Integer): the unique identifier of the employee;
+- department (String): the department the employee works in;
+- salary (Integer): the employee's annual salary in thousands;
+- age (Integer): the employee's age in years;
+- years_experience (Integer): the number of years of work experience;
+- projects (Integer): the number of projects the employee has completed.
+
+employees table:
+[["employee_id", "department", "salary", "age", "years_experience", "projects"], [1, "Sales", 50, 28, 3, 5], [2, "Engineering", 65, 34, 8, 12], [3, "Marketing", 55, 41, 15, 20], [4, "Engineering", 70, 29, 5, 7], [5, "Sales", 48, 25, 2, 3]]

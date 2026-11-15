@@ -1,0 +1,10 @@
+The List_of_presidents_of_FIFA table contains the following columns:
+
+- Presidency (Integer): the presidency number;
+- President (String): the name of the president;
+- Date_of_Birth (String): the president's date of birth;
+- Took_office (Integer): the year the president took office;
+- Left_office (String): the year the president left office.
+
+List_of_presidents_of_FIFA table:
+[['Presidency', 'President', 'Date_of_Birth', 'Took_office', 'Left_office'], ['1', 'Robert_Gu_rin', '1876', '1904', '1906'], ['2', 'Daniel_Burley_Woolfall', 'June_15_1852', '1906', '1918'], ['3', 'Jules_Rimet', 'October_14_1873', '1921', '1954'], ['4', 'Rodolphe_Seeldrayers', 'December_16_1876', '1954', '1955'], ['5', 'Arthur_Drewry', 'March_3_1891', '1955', '1961'], ['6', 'Stanley_Rous', 'April_25_1895', '1961', '1974'], ['7', 'Jo_o_Havelange', 'May_8_1916', '1974', '1998'], ['8', 'Sepp_Blatter', 'March_10_1936', '1998', 'Incumbent']]

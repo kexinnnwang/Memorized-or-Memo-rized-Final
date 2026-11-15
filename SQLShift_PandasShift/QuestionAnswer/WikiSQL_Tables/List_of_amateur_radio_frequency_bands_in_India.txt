@@ -1,0 +1,10 @@
+The List_of_amateur_radio_frequency_bands_in_India table contains the following columns:
+
+- Band (Integer): the band number;
+- Frequency_MHz (String): the frequency range in megahertz;
+- Wavelength (String): the wavelength of the band;
+- Type (String): the type of allocation;
+- Power_W (Integer): the maximum permitted power in watts.
+
+List_of_amateur_radio_frequency_bands_in_India table:
+[['Band', 'Frequency_MHz', 'Wavelength', 'Type', 'Power_W'], ['7', '3_520_3_540', '80_m', 'HF', '400'], ['7', '3_890_3_900', '80_m', 'HF', '400'], ['7', '7_050_7_100', '40_m', 'HF', '400'], ['7', '14_050_14_150', '20_m', 'HF', '400'], ['7', '14_220_14_320', '20_m', 'HF', '400'], ['7', '21_100_21_400', '15_m', 'HF', '400']]

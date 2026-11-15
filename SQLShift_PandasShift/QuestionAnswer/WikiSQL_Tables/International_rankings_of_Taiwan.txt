@@ -1,0 +1,10 @@
+The International_rankings_of_Taiwan table contains the following columns:
+
+- Index (String): the name of the index;
+- Organization (String): the organization producing the ranking;
+- Year (String): the year of the ranking;
+- Rank (Integer): Taiwan's position in the ranking;
+- Out_of (Integer): the total number of entities ranked.
+
+International_rankings_of_Taiwan table:
+[['Index', 'Organization', 'Year', 'Rank', 'Out_of'], ['Bribe_Payers_Index', 'Transparency_International', '2011', '19', '28'], ['Corruption_Perceptions_Index', 'Transparency_International', '2012', '37', '176'], ['Democracy_Index', 'Economist_Intelligence_Unit', '2010', '36', '167'], ['Ease_of_Doing_Business_Index', 'World_Bank', '2012', '16', '185'], ['Economic_Freedom_Index', 'Fraser_Institute', '2010', '15', '144'], ['Economic_Freedom_Index', 'The_Heritage_Foundation', '2013', '20', '177'], ['Global_Competitiveness_Report', 'World_Economic_Forum', '2012_2013', '13', '144'], ['Global_Peace_Index', 'Institute_for_Economics_and_Peace', '2011', '27', '153'], ['Globalization_Index', 'A_T_Kearney_Foreign_Policy_Magazine', '2006', '35', '62'], ['Press_Freedom_Index', 'Reporters_Without_Borders', '2013', '47', '179'], ['Property_Rights_Index', 'Property_Rights_Alliance', '2008', '28', '115']]

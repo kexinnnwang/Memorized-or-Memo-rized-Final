@@ -1,0 +1,10 @@
+The List_of_awards_received_by_Bob_Dylan table contains the following columns:
+
+- Year (Integer): the year of the recording or award;
+- Title (String): the title of the work;
+- Genre (String): the musical genre;
+- Label (String): the record label;
+- Year_Inducted (Integer): the year of induction.
+
+List_of_awards_received_by_Bob_Dylan table:
+[['Year', 'Title', 'Genre', 'Label', 'Year_Inducted'], ['1963', 'Blowin_in_the_Wind', 'Folk_Single', 'Columbia', '1994'], ['1965', 'Like_a_Rolling_Stone', 'Rock_Single', 'Columbia', '1998'], ['1966', 'Blonde_on_Blonde', 'Rock_Album', 'Columbia', '1999'], ['1965', 'Mr_Tambourine_Man', 'Rock_Track', 'Columbia', '2002'], ['1965', 'Highway_61_Revisited', 'Rock_Album', 'Columbia', '2002'], ['1965', 'Bringing_It_All_Back_Home', 'Rock_Album', 'Columbia', '2006']]

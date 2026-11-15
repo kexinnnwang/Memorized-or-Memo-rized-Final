@@ -1,0 +1,10 @@
+The Delaware_Valley_Collegiate_Hockey_Conference table contains the following columns:
+
+- Institution (String): the name of the institution;
+- Location (String): the location of the institution;
+- Nickname (String): the sports team nickname;
+- Enrollment (Integer): the number of enrolled students;
+- Established (Integer): the year the institution was established.
+
+Delaware_Valley_Collegiate_Hockey_Conference table:
+[['Institution', 'Location', 'Nickname', 'Enrollment', 'Established'], ['University_of_Delaware', 'Newark_DE', 'Blue_Hens', 19391, 1743], ['Dickinson_College', 'Carlisle_PA', 'Red_Devils', 2300, 1773], ['Mount_Saint_Mary_s_University', 'Emmitsburg_MD', 'Mountaineers', 2100, 1808], ['Penn_State_Harrisburg', 'Lower_Swatara_Township_PA', 'Nittany_Lions', 4700, 1966], ['Rowan_University', 'Glassboro_NJ', 'Profs', 10483, 1923], ['Rutgers_University_Camden', 'Camden_NJ', 'Raptors', 4497, 1766], ['Shippensburg_University', 'Shippensburg_PA', 'Raiders', 6579, 1871]]

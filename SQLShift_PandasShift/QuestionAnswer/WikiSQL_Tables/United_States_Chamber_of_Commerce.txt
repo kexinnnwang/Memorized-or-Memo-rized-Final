@@ -1,0 +1,10 @@
+The United_States_Chamber_of_Commerce table contains the following columns:
+
+- Year (Integer): the year;
+- US_Cham_Rank (Integer): the US Chamber of Commerce's lobbying spending rank;
+- US_Cham_Spending (String): the amount spent by the US Chamber of Commerce;
+- Next_Highest_Spender (String): the next highest spending organization;
+- Next_Highest_Amount (String): the amount spent by the next highest spender.
+
+United_States_Chamber_of_Commerce table:
+[['Year', 'US_Cham_Rank', 'US_Cham_Spending', 'Next_Highest_Spender', 'Next_Highest_Amount'], ['2012', '1', '136_300_000', 'National_Assn_of_Realtors', '41_464_580'], ['2011', '1', '66_370_000', 'General_Electric', '26_340_000'], ['2010', '1', '157_187_500', 'PG_E_Corp', '45_510_000'], ['2009', '1', '144_606_000', 'Exxon_Mobil', '27_430_000'], ['2008', '1', '91_955_000', 'Exxon_Mobil', '29_000_000'], ['2007', '1', '53_082_500', 'Pharmaceutical_Rsrch_Mfrs_of_America', '22_733_400'], ['2006', '1', '72_995_000', 'AT_T_Inc', '27_445_497'], ['2005', '1', '39_805_000', 'AARP', '36_302_064'], ['2004', '1', '53_380_000', 'American_Medical_Assn', '18_820_000'], ['2003', '1', '34_602_640', 'AARP', '20_880_000'], ['2002', '1', '41_560_000', 'Philip_Morris', '15_200_000']]

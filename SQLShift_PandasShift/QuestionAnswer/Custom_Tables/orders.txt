@@ -1,0 +1,10 @@
+The orders table contains the following columns:
+
+- order_id (Integer): the unique identifier of the order;
+- customer_id (Integer): the unique identifier of the customer who placed the order;
+- product_id (Integer): the unique identifier of the ordered product;
+- quantity (Integer): the number of units ordered;
+- price (Integer): the price of the order in dollars.
+
+orders table:
+[["order_id", "customer_id", "product_id", "quantity", "price"], [1, 101, 2, 1, 900], [2, 102, 1, 3, 135], [3, 103, 3, 10, 20], [4, 104, 4, 2, 300]]

@@ -1,0 +1,10 @@
+The Ireland_in_the_Eurovision_Song_Contest_1980 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Song (String): the title of the song;
+- Artist (String): the performing artist;
+- Points (Integer): the number of points received;
+- Place (String): the final ranking position.
+
+Ireland_in_the_Eurovision_Song_Contest_1980 table:
+[['Draw', 'Song', 'Artist', 'Points', 'Place'], ['1', 'Loving_Won_t_Let_You_Down', 'Roy_Taylor_Karen_Black', '13', '3rd'], ['2', 'Take_Me_Back_Again', 'The_Straw_Hat_and_Garter_Company', '2', '8th'], ['3', 'The_Saddest_Show_On_Earth', 'Eileen_Reid', '10', '4th'], ['4', 'You_re_So_Cheeky', 'Charlie_Chapman_The_Miami', '5', '5th'], ['5', 'What_s_Another_Year', 'Johnny_Logan', '40', '1st'], ['6', 'You_Have', 'The_Dajacs', '4', '7th'], ['7', 'Stepping_Stones', 'Peter_Beckett', '21', '2nd'], ['8', 'Love_Is_All_There_Is', 'Romance', '5', '5th']]

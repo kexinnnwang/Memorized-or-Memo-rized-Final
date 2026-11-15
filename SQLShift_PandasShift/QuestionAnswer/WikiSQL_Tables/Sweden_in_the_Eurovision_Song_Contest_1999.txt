@@ -1,0 +1,10 @@
+The Sweden_in_the_Eurovision_Song_Contest_1999 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Artist (String): the performing artist;
+- Song (String): the title of the song;
+- Points (Integer): the number of points received;
+- Place (String): the final ranking position.
+
+Sweden_in_the_Eurovision_Song_Contest_1999 table:
+[['Draw', 'Artist', 'Song', 'Points', 'Place'], ['1', 'Charlotte_Nilsson', 'Tusen_och_en_natt', '217', '1st'], ['2', 'Crosstalk', 'Det_g_ller_dej_och_mej', '87', '6'], ['3', 'Janica', 'Jag_kan_se_dig', '66', '7'], ['4', 'Dr_mhus', 'Stj_rna_p_himmelen', '148', '2'], ['5', 'Roger_Pontare', 'Som_av_is', '98', '5'], ['6', 'Martin', 'Du_r_s_Yeah_Yeah_Wow_Wow', '109', '4'], ['7', 'Christer_Bj_rkman', 'V_lkommen_hem', '6', '10'], ['8', 'Ai', 'Bilder_av_dig', '42', '9'], ['9', 'Arvingarna', 'Det_sv_r_jag_p', '114', '3'], ['10', 'Cleo', 'Natten_r_min_v_n', '59', '8']]

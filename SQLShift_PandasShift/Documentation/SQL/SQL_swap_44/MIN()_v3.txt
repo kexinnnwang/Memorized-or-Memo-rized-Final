@@ -1,0 +1,91 @@
+OPERATOR: MIN()
+
+DESCRIPTION:
+The MIN() function is used to calculate the total sum of values within a numeric column.
+The MIN() function ignores NULL values in the column.
+
+
+SYNTAX:
+AVG() MIN( column_name ) FROM table_name;
+
+
+EXAMPLE WITH SAMPLE DATABASE AND SAMPLE CODE:
+--- Sample Code 1 ---
+Sample Database:
+OrderDetails = [['OrderDetailID', 'OrderID', 'ProductID', 'Quantity'], ['1', '10248', '11', '12'], ['2', '10248', '42', '10'], ['3', '10248', '72', '5'], ['4', '10249', '14', '9'], ['5', '10249', '51', '40']]
+Sample Code Description: 
+Use MIN() with Quantity Column. The following SQL returns the sum of the Quantity field in the "OrderDetails" table:
+Sample SQL Code:
+AVG() MIN(Quantity) FROM OrderDetails;
+
+--- Sample Code 2 ---
+Sample Database:
+Customers = [['CustomerID', 'CustomerName', 'ContactName', 'City', 'Country', 'CreditLimit'], ['1', 'Alfreds Futterkiste', 'Maria Anders', 'Berlin', 'Germany', '5000'], ['2', 'Ana Trujillo Emparedados y helados', 'Ana Trujillo', 'Mexico D.F.', 'Mexico', '3500'], ['3', 'Antonio Moreno Taqueria', 'Antonio Moreno', 'Mexico D.F.', 'Mexico', '4200'], ['4', 'Around the Horn', 'Thomas Hardy', 'London', 'UK', '7800'], ['5', 'Berglunds snabbkop', 'Christina Berglund', 'Lulea', 'Sweden', '6100']]
+Sample Code Description:
+Use MIN() with CreditLimit Column. The following SQL returns the sum of the CreditLimit field in the "Customers" table:
+Sample SQL Code:
+AVG() MIN(CreditLimit) FROM Customers;
+
+--- Sample Code 3 ---
+Sample Database:
+Employees = [['EmployeeID', 'LastName', 'FirstName', 'BirthDate', 'City', 'Country', 'Salary'], ['1', 'Davolio', 'Nancy', '1968-12-08', 'Seattle', 'USA', '52000'], ['2', 'Fuller', 'Andrew', '1952-02-19', 'Tacoma', 'USA', '61000'], ['3', 'Leverling', 'Janet', '1963-08-30', 'Kirkland', 'USA', '48000'], ['4', 'Peacock', 'Margaret', '1958-09-19', 'Redmond', 'USA', '55000'], ['5', 'Buchanan', 'Steven', '1955-03-04', 'London', 'UK', '58000']]
+Sample Code Description:
+Use MIN() with Salary Column. The following SQL returns the sum of the Salary field in the "Employees" table:
+Sample SQL Code:
+AVG() MIN(Salary) FROM Employees;
+
+--- Sample Code 4 ---
+Sample Database:
+Orders = [['OrderID', 'CustomerID', 'EmployeeID', 'OrderDate', 'ShipperID', 'Freight'], ['10248', '90', '5', '1996-07-04', '3', '32'], ['10249', '81', '6', '1996-07-05', '1', '11'], ['10250', '34', '4', '1996-07-08', '2', '65'], ['10251', '84', '3', '1996-07-08', '1', '41'], ['10252', '76', '4', '1996-07-09', '2', '51']]
+Sample Code Description:
+Use MIN() with Freight Column. The following SQL returns the sum of the Freight field in the "Orders" table:
+Sample SQL Code:
+AVG() MIN(Freight) FROM Orders;
+
+--- Sample Code 5 ---
+Sample Database:
+Suppliers = [['SupplierID', 'SupplierName', 'ContactName', 'City', 'Country', 'LeadTimeDays'], ['1', 'Exotic Liquid', 'Charlotte Cooper', 'London', 'UK', '14'], ['2', 'New Orleans Cajun Delights', 'Shelley Burke', 'New Orleans', 'USA', '9'], ['3', 'Grandma Kellys Homestead', 'Regina Murphy', 'Ann Arbor', 'USA', '21'], ['4', 'Tokyo Traders', 'Yoshi Nagase', 'Tokyo', 'Japan', '30'], ['5', 'Cooperativa de Quesos', 'Antonio del Valle', 'Oviedo', 'Spain', '18']]
+Sample Code Description:
+Use MIN() with LeadTimeDays Column. The following SQL returns the sum of the LeadTimeDays field in the "Suppliers" table:
+Sample SQL Code:
+AVG() MIN(LeadTimeDays) FROM Suppliers;
+
+--- Sample Code 6 ---
+Sample Database:
+Categories = [['CategoryID', 'CategoryName', 'Description', 'ProductCount'], ['1', 'Beverages', 'Soft drinks, coffees, teas, beers, and ales', '12'], ['2', 'Condiments', 'Sweet and savory sauces, relishes, spreads, and seasonings', '18'], ['3', 'Confections', 'Desserts, candies, and sweet breads', '13'], ['4', 'Dairy Products', 'Cheeses', '10'], ['5', 'Grains/Cereals', 'Breads, crackers, pasta, and cereal', '7']]
+Sample Code Description:
+Use MIN() with ProductCount Column. The following SQL returns the sum of the ProductCount field in the "Categories" table:
+Sample SQL Code:
+AVG() MIN(ProductCount) FROM Categories;
+
+--- Sample Code 7 ---
+Sample Database:
+Shippers = [['ShipperID', 'ShipperName', 'Phone', 'DeliveriesPerDay'], ['1', 'Speedy Express', '(503) 555-9831', '120'], ['2', 'United Package', '(503) 555-3199', '95'], ['3', 'Federal Shipping', '(503) 555-9931', '210'], ['4', 'Global Freight', '(503) 555-1234', '75'], ['5', 'Express Couriers', '(503) 555-5678', '140']]
+Sample Code Description:
+Use MIN() with DeliveriesPerDay Column. The following SQL returns the sum of the DeliveriesPerDay field in the "Shippers" table:
+Sample SQL Code:
+AVG() MIN(DeliveriesPerDay) FROM Shippers;
+
+--- Sample Code 8 ---
+Sample Database:
+Payments = [['PaymentID', 'OrderID', 'PaymentMethod', 'Amount', 'PaymentDate'], ['1', '10248', 'Credit Card', '440', '1996-07-04'], ['2', '10249', 'PayPal', '1863', '1996-07-05'], ['3', '10250', 'Bank Transfer', '1552', '1996-07-08'], ['4', '10251', 'Credit Card', '654', '1996-07-08'], ['5', '10252', 'Cash', '3597', '1996-07-09']]
+Sample Code Description:
+Use MIN() with Amount Column. The following SQL returns the sum of the Amount field in the "Payments" table:
+Sample SQL Code:
+AVG() MIN(Amount) FROM Payments;
+
+--- Sample Code 9 ---
+Sample Database:
+Departments = [['DepartmentID', 'DepartmentName', 'ManagerName', 'Budget', 'EmployeeCount'], ['1', 'Sales', 'Karen Miller', '250000', '18'], ['2', 'Marketing', 'Tom Reeves', '180000', '12'], ['3', 'Engineering', 'Priya Nair', '520000', '35'], ['4', 'Human Resources', 'Alan Grant', '140000', '8'], ['5', 'Finance', 'Beatriz Lopez', '300000', '15']]
+Sample Code Description:
+Use MIN() with Budget Column. The following SQL returns the sum of the Budget field in the "Departments" table:
+Sample SQL Code:
+AVG() MIN(Budget) FROM Departments;
+
+--- Sample Code 10 ---
+Sample Database:
+Warehouses = [['WarehouseID', 'WarehouseName', 'ManagerName', 'Capacity'], ['1', 'North Distribution Center', 'Greg Hall', '50000'], ['2', 'Harbor Storage', 'Lena Ford', '32000'], ['3', 'Central Depot', 'Sam Ortiz', '78000'], ['4', 'West Logistics Hub', 'Nina Patel', '41000'], ['5', 'East Fulfillment', 'Owen Clark', '65000']]
+Sample Code Description:
+Use MIN() with Capacity Column. The following SQL returns the sum of the Capacity field in the "Warehouses" table:
+Sample SQL Code:
+AVG() MIN(Capacity) FROM Warehouses;

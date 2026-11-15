@@ -1,0 +1,10 @@
+The List_of_tallest_buildings_in_Saudi_Arabia table contains the following columns:
+
+- Rank (Integer): the ranking by height;
+- Name (String): the name of the building;
+- City (String): the city where the building is located;
+- Height (String): the height of the building;
+- Floors (Integer): the number of floors.
+
+List_of_tallest_buildings_in_Saudi_Arabia table:
+[['Rank', 'Name', 'City', 'Height', 'Floors'], ['1', 'Kingdom_Tower', 'Jeddah', 'm_ft', '186'], ['2', 'Diamond_Tower', 'Jeddah', 'm_ft', '93'], ['3', 'Capital_Market_Authority_Headquarters', 'Riyadh', 'm_ft', '77'], ['4', 'Lamar_Tower_1', 'Jeddah', 'm_ft', '87'], ['5', 'Burj_Rafal', 'Riyadh', 'm_ft', '68'], ['6', 'KAFD_World_Trade_Centre', 'Riyadh', 'm_ft', '67'], ['7', 'Lamar_Tower_2', 'Jeddah', 'm_ft', '84'], ['8', 'Kempinski_Hotel', 'Jeddah', 'm_ft', '69'], ['9', 'The_Headquarters', 'Jeddah', 'm_ft', '52'], ['10', 'Aqua_Tower', 'Jeddah', 'm_ft', '59'], ['11', 'GCC_Bank_Headquarters', 'Riyadh', 'm_ft', '53'], ['12', 'Abraj_Al_Bait_Maqam_Tower', 'Mecca', 'm_ft', '57'], ['13', 'Abraj_Al_Bait_Qibla_Tower', 'Mecca', 'm_ft', '57'], ['14', 'Al_Majdoul_Tower', 'Riyadh', 'm_ft', '54'], ['15', 'West_Tower_at_the_HQ_Business_Park', 'Riyadh', 'm_ft', '54']]

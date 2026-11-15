@@ -1,0 +1,10 @@
+The British_Rail_Class_153 table contains the following columns:
+
+- Class (String): the rolling stock class designation;
+- Operator (String): the railway company operating the units;
+- No_Built (Integer): the number of units built;
+- Year_Built (String): the year or years the units were built;
+- Cars_per_Set (Integer): the number of cars in each set.
+
+British_Rail_Class_153 table:
+[['Class', 'Operator', 'No_Built', 'Year_Built', 'Cars_per_Set'], ['Class_153', 'Arriva_Trains_Wales', '70', '1991_1992', '1'], ['Class_153', 'East_Midlands_Trains', '70', '1991_1992', '1'], ['Class_153', 'London_Midland', '70', '1991_1992', '1'], ['Class_153', 'Greater_Anglia', '70', '1991_1992', '1'], ['Class_153', 'Northern_Rail', '70', '1991_1992', '1'], ['Class_153', 'First_Great_Western', '70', '1991_1992', '1']]

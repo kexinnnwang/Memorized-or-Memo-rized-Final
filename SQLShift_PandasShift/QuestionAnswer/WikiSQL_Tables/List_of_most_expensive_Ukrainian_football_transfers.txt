@@ -1,0 +1,10 @@
+The List_of_most_expensive_Ukrainian_football_transfers table contains the following columns:
+
+- Rank (Integer): the ranking by transfer fee;
+- Year (Integer): the year of the transfer;
+- Name (String): the player's name;
+- Moving_from (String): the club the player moved from;
+- Moving_to (String): the club the player moved to.
+
+List_of_most_expensive_Ukrainian_football_transfers table:
+[['Rank', 'Year', 'Name', 'Moving_from', 'Moving_to'], ['1', '2007', 'Nery_Castillo', 'Olympiacos', 'Shakhtar_Donetsk'], ['2', '2007', 'Willian', 'Corinthians', 'Shakhtar_Donetsk'], ['3', '2004', 'Matuzal_m', 'Brescia', 'Shakhtar_Donetsk'], ['4', '2007', 'Ilsinho', 'S_o_Paulo', 'Shakhtar_Donetsk'], ['5', '2008', 'Marcelo_Moreno', 'Cruzeiro', 'Shakhtar_Donetsk'], ['6', '2007', 'Cristiano_Lucarelli', 'Livorno', 'Shakhtar_Donetsk'], ['7', '2005', 'Fernandinho', 'Atl_tico_Paranaense', 'Shakhtar_Donetsk'], ['8', '2005', 'Elano', 'Santos', 'Shakhtar_Donetsk'], ['9', '2007', 'Pape_Diakhat', 'Nancy', 'Dynamo_Kyiv'], ['10', '2007', 'Isma_l_Bangoura', 'Le_Mans', 'Dynamo_Kyiv']]

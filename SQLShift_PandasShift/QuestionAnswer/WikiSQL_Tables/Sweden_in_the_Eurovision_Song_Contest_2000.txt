@@ -1,0 +1,10 @@
+The Sweden_in_the_Eurovision_Song_Contest_2000 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Artist (String): the performing artist;
+- Song (String): the title of the song;
+- Points (Integer): the number of points received;
+- Place (String): the final ranking position.
+
+Sweden_in_the_Eurovision_Song_Contest_2000 table:
+[['Draw', 'Artist', 'Song', 'Points', 'Place'], ['1', 'Guide', 'Vi_lever_h_r_vi_lever_nu', '97', '5th'], ['2', 'Balsam_Boys', 'Bara_du_och_jag', '54', '7th'], ['3', 'Barbados', 'Se_mig', '146', '2nd'], ['4', 'Avengers', 'N_r_filmen_r_slut', '0', '10th'], ['5', 'Tom_Nordahl', 'Alla_nglar_sjunger', '32', '9th'], ['6', 'Roger_Pontare', 'N_r_vindarna_viskar_mitt_namn', '227', '1st'], ['7', 'Javiera_Mu_oz', 'Varje_timma_var_minut', '139', '4th'], ['8', 'Midnight_Band', 'Tillsammans', '58', '6th'], ['9', 'Hanna_Hedlund', 'Anropar_f_rsvunnen', '47', '8th'], ['10', 'Friends', 'N_r_jag_t_nker_p_imorgon', '146', '2nd']]

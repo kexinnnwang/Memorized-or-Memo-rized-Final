@@ -1,0 +1,10 @@
+The FAI_World_Grand_Prix_2008 table contains the following columns:
+
+- Position (Integer): the finishing position;
+- Pilot (String): the name of the pilot;
+- Country (String): the country the pilot represents;
+- Glider (String): the glider model flown;
+- Points (Integer): the number of points scored.
+
+FAI_World_Grand_Prix_2008 table:
+[['Position', 'Pilot', 'Country', 'Glider', 'Points'], ['1', 'Sebastian_Kawa', 'Poland', 'Diana_Sailplanes_Diana_2', '69'], ['2', 'Carlos_Rocca_Vidal', 'Chile', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2b', '55'], ['3', 'Mario_Kiessling', 'Germany', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2ax', '47'], ['4', 'Uli_Schwenk', 'Germany', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2ax', '40'], ['5', 'Thomas_Gostner', 'Italy', 'Diana_Sailplanes_Diana_2', '43'], ['6', 'Tilo_Holighaus', 'Germany', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2ax', '24'], ['7', 'Wolfgang_Janowitsch', 'Austria', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2cxa', '15'], ['8', 'Rene_Vidal', 'Chile', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2c', '14'], ['8', 'Stanislaw_Wujczak', 'Poland', 'Alexander_Schleicher_GmbH_Co_ASG_29', '14'], ['10', 'Eduard_Supersperger', 'Austria', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2b', '12'], ['11', 'Heimo_Demmerer', 'Austria', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2b', '11'], ['12', 'Patrick_Puskeiler', 'Germany', 'Schempp_Hirth_Flugzeugbau_GmbH_Discus_2ax', '8'], ['13', 'Petr_Krejcirik', 'Czech_Republic', 'Schempp_Hirth_Flugzeugbau_GmbH_Ventus_2ax', '4'], ['13', 'Graham_Parker', 'Australia', 'Alexander_Schleicher_GmbH_Co_ASG_29', '4'], ['15', 'Olli_Teronen', 'Finland', 'Alexander_Schleicher_GmbH_Co_ASG_29', '2']]

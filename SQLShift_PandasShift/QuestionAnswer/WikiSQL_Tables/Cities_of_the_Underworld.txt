@@ -1,0 +1,10 @@
+The Cities_of_the_Underworld table contains the following columns:
+
+- Production_no (Integer): the production number of the episode;
+- Episode_no (Integer): the episode number in the series;
+- Original_Airdate (String): the date the episode first aired;
+- Episode_Title (String): the title of the episode;
+- Host (String): the host presenting the episode.
+
+Cities_of_the_Underworld table:
+[['Production_no', 'Episode_no', 'Original_Airdate', 'Episode_Title', 'Host'], ['15', '201', 'January_28_2008', 'Underground_Apocalypse', 'Don_Wildman'], ['16', '202', 'February_4_2008', 'Vietnam', 'Don_Wildman'], ['17', '203', 'February_11_2008', 'A_Bomb_Underground', 'Don_Wildman'], ['18', '204', 'February_25_2008', 'Viking_Underground', 'Don_Wildman'], ['19', '205', 'March_3_2008', 'Hitler_s_Last_Secret', 'Don_Wildman'], ['20', '206', 'March_10_2008', 'Maya_Underground', 'Don_Wildman'], ['21', '207', 'March_17_2008', 'Mob_Underground', 'Don_Wildman'], ['22', '208', 'March_24_2008', 'Prophecies_From_Below', 'Don_Wildman'], ['23', '209', 'March_31_2008', 'New_York_Secret_Societies', 'Don_Wildman'], ['24', '210', 'April_14_2008', 'Washington_D_C_Seat_of_Power', 'Don_Wildman'], ['25', '211', 'April_21_2008', 'Stalin_s_Secret_Lair', 'Don_Wildman'], ['26', '212', 'April_28_2008', 'Katrina_Underground', 'Don_Wildman'], ['27', '213', 'May_5_2008', 'Secret_Soviet_Bases', 'Don_Wildman']]

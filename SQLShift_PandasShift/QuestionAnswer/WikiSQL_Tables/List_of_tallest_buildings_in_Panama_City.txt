@@ -1,0 +1,10 @@
+The List_of_tallest_buildings_in_Panama_City table contains the following columns:
+
+- Rank (Integer): the ranking by height;
+- Name (String): the name of the building;
+- Height_m_feet (String): the height in meters and feet;
+- Floors (Integer): the number of floors;
+- Year (Integer): the year of completion.
+
+List_of_tallest_buildings_in_Panama_City table:
+[['Rank', 'Name', 'Height_m_feet', 'Floors', 'Year'], ['1', 'Trump_Ocean_Club_International_Hotel_and_Tower', '284_932', '70', '2011'], ['2', 'Vitri_Tower', '281_921', '75', '2012'], ['3', 'Ocean_Two', '273_896', '73', '2010'], ['4', 'The_Point', '266_873', '65', '2010'], ['5', 'Arts_Tower', '264_866', '80', '2012'], ['6', 'Tower_Financial_Center', '255_837', '57', '2011'], ['7', 'F_F_Tower', '243_797', '52', '2011'], ['8', 'Pearl_Tower', '242_795', '70', '2011'], ['9', 'Torre_Waters', '242_794', '75', '2011'], ['10', 'Megap_lis_Torre_1', '230_755', '62', '2011'], ['11', 'Q_Tower', '226_740', '65', '2011'], ['12', 'Ten_Tower', '221_725', '54', '2011'], ['13', 'White_Tower', '218_715', '62', '2011'], ['14', 'Yacht_Club_Tower', '215_705', '57', '2011'], ['15', 'Aqualina_Tower', '210_689', '63', '2007'], ['16', 'Ocean_One', '207_682', '54', '2008'], ['17', 'Bahia_Pacifica', '200_656', '49', '2007'], ['18', 'Aquamare', '198_650', '56', '2007'], ['19', 'Venetian_Tower', '192_631', '47', '2008'], ['20', 'Destiny_Panama_Bay', '182_597', '55', '2008'], ['21', 'Sky_Residences', '180_591', '51', '2009'], ['22', 'Pacific_Village_1', '179_587', '47', '2009'], ['22', 'Pacific_Village_2', '179_587', '47', '2009'], ['24', 'Torre_Global_Bank', '176_577', '43', '2005'], ['25', 'Torre_Allure', '172_565', '55', '2011'], ['26', 'Mirage', '172_564', '48', '1997'], ['27', 'Dupont_Tower', '170_558', '53', '2010'], ['28', 'Bella_Mare', '169_556', '44', '2008'], ['29', 'Miramar_Tower_II', '168_551', '55', '1996'], ['29', 'Miramar_Tower_I', '168_551', '55', '1996'], ['30', 'Torre_Vista_Marina', '162_530', '44', '2002'], ['31', 'Astoria_Tower', '160_525', '36', '2009'], ['32', 'Platinum_Tower', '159_522', '47', '1996']]

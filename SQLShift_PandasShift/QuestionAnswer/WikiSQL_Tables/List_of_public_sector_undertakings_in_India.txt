@@ -1,0 +1,10 @@
+The List_of_public_sector_undertakings_in_India table contains the following columns:
+
+- S_No (Integer): the serial number;
+- Company (String): the name of the company;
+- Incorporated (Integer): the year the company was incorporated;
+- Ministry (String): the government ministry overseeing the company;
+- Sector (String): the sector the company operates in.
+
+List_of_public_sector_undertakings_in_India table:
+[['S_No', 'Company', 'Incorporated', 'Ministry', 'Sector'], ['1', 'Air_India_Air_Transport_Services_Ltd', '2003', 'Ministry_Of_Civil_Aviation', 'Services'], ['2', 'Air_India_Charters', '1972', 'Ministry_Of_Civil_Aviation', 'Services'], ['3', 'Air_India_Engineering_Services_Ltd', '2006', 'Ministry_Of_Civil_Aviation', 'Enterprises_Under_Construction'], ['4', 'Airline_Allied_Services_Ltd', '1983', 'Ministry_of_Civil_Aviation', 'Services'], ['5', 'Airports_Authority_Of_India_Ltd', '1996', 'Ministry_of_Civil_Aviation', 'Services']]

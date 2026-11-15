@@ -1,0 +1,10 @@
+The Pedro_de_la_Rosa table contains the following columns:
+
+- Year (Integer): the racing season year;
+- Entrant (String): the team that entered the car;
+- Chassis (String): the chassis used;
+- Engine (String): the engine used;
+- Points (Integer): the number of championship points scored.
+
+Pedro_de_la_Rosa table:
+[['Year', 'Entrant', 'Chassis', 'Engine', 'Points'], ['1999', 'Repsol_Arrows', 'Arrows_A20', 'Arrows_T2_F1_3_0_V10', '1'], ['2000', 'Arrows_F1_Team', 'Arrows_A21', 'Supertec_FB02_3_0_V10', '2'], ['2001', 'Jaguar_Racing', 'Jaguar_R2', 'Cosworth_CR_3_3_0_V10', '3'], ['2002', 'Jaguar_Racing', 'Jaguar_R3', 'Cosworth_CR_3_3_0_V10', '0'], ['2002', 'Jaguar_Racing', 'Jaguar_R3B', 'Cosworth_CR_4_3_0_V10', '0'], ['2005', 'West_McLaren_Mercedes', 'McLaren_MP4_20', 'Mercedes_FO_110R_3_0_V10', '4'], ['2006', 'Team_McLaren_Mercedes', 'McLaren_MP4_21', 'Mercedes_FO_108S_2_4_V8', '19'], ['2010', 'BMW_Sauber_F1_Team', 'Sauber_C29', 'Ferrari_056_2_4_V8', '6'], ['2011', 'Sauber_F1_Team', 'Sauber_C30', 'Ferrari_056_2_4_V8', '0'], ['2012', 'HRT_F1_Team', 'HRT_F112', 'Cosworth_CA2012_V8', '0']]

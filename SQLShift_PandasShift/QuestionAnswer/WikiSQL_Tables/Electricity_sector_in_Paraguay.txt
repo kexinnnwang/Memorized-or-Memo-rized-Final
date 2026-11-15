@@ -1,0 +1,10 @@
+The Electricity_sector_in_Paraguay table contains the following columns:
+
+- Entities (String): the entity involved in electricity supply;
+- Country (String): the country served;
+- Supply_point (String): the supply point or substation;
+- Voltage_kV (Integer): the operating voltage in kilovolts;
+- Power_MW (Integer): the power capacity in megawatts.
+
+Electricity_sector_in_Paraguay table:
+[['Entities', 'Country', 'Supply_point', 'Voltage_kV', 'Power_MW'], ['FURNAS_ELECTROSUL_ELECTROBRAS', 'Brazil', 'Itaipu', 500, 7000], ['EBISA', 'Argentina', 'Yacyret', 500, 1540], ['ENERSUL', 'Brazil', 'Pedro_Juan_Caballero', 23, 3], ['COPEL', 'Brazil', 'Acaray', 132, 50], ['EMSA', 'Argentina', 'C_A_L_pez', 132, 30]]

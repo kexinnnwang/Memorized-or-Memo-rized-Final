@@ -1,0 +1,10 @@
+The List_of_international_cricket_centuries_by_Sourav_Ganguly table contains the following columns:
+
+- Score (Integer): the score made in the innings;
+- Pos (Integer): the batting position;
+- Inn (Integer): the innings number;
+- Venue (String): the venue where the century was scored;
+- H_A_N (String): whether the match was home, away, or neutral.
+
+List_of_international_cricket_centuries_by_Sourav_Ganguly table:
+[['Score', 'Pos', 'Inn', 'Venue', 'H_A_N'], ['113', '2', '1', 'R_Premadasa_Stadium_Colombo', 'Away'], ['124', '1', '2', 'Bangabandhu_Stadium_Dhaka', 'Neutral'], ['105', '2', '1', 'Sharjah_Cricket_Association_Stadium_Sharjah', 'Neutral'], ['109', '1', '1', 'R_Premadasa_Stadium_Colombo', 'Away'], ['107', '2', '2', 'Queens_Sports_Club_Bulawayo', 'Away'], ['130', '1', '1', 'Vidarbha_Cricket_Association_Ground_Nagpur', 'Home'], ['183', '2', '1', 'County_Ground_Taunton', 'Neutral'], ['139', '2', '1', 'Gymkhana_Club_Ground_Nairobi', 'Neutral'], ['153', '1', '1', 'Captain_Roop_Singh_Stadium_Gwalior', 'Home'], ['100', '2', '2', 'Melbourne_Cricket_Ground_Melbourne', 'Away'], ['141', '2', '1', 'Adelaide_Oval_Adelaide', 'Neutral'], ['105', '1', '2', 'Keenan_Stadium_Jamshedpur', 'Home'], ['135', '1', '2', 'Bangabandhu_Stadium_Dhaka', 'Away'], ['141', '1', '1', 'Gymkhana_Club_Ground_Nairobi', 'Neutral'], ['117', '1', '1', 'Gymkhana_Club_Ground_Nairobi', 'Neutral'], ['144', '2', '1', 'Sardar_Patel_Stadium_Motera', 'Home'], ['127', '1', '1', 'New_Wanderers_Stadium_Johannesburg', 'Away'], ['111', '1', '1', 'Boland_Park_Paarl', 'Neutral'], ['117', '2', '2', 'R_Premadasa_Stadium_Colombo', 'Neutral'], ['112', '3', '1', 'City_Oval_Pietermaritzburg', 'Neutral'], ['107', '3', '2', 'Newlands_Cricket_Ground_Cape_Town', 'Neutral'], ['111', '3', '1', 'Kingsmead_Durban', 'Neutral']]

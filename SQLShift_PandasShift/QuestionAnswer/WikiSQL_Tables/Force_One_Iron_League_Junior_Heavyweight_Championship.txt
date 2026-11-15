@@ -1,0 +1,10 @@
+The Force_One_Iron_League_Junior_Heavyweight_Championship table contains the following columns:
+
+- Wrestler (String): the name of the wrestler;
+- Times (Integer): the number of times the wrestler held the title;
+- Date (String): the date the title was won;
+- Place (String): the location where the title was won;
+- Successful_defenses (Integer): the number of successful title defenses.
+
+Force_One_Iron_League_Junior_Heavyweight_Championship table:
+[['Wrestler', 'Times', 'Date', 'Place', 'Successful_defenses'], ['White_Lotus', '1', 'May_19_2007', 'Egg_Harbor_City_NJ', '0'], ['Diego_DeMarco', '1', 'August_11_2007', 'Egg_Harbor_City_NJ', '1'], ['Judas_Young', '1', 'January_5_2008', 'Egg_Harbor_City_NJ', '3'], ['Ryan_Wing', '1', 'June_21_2008', 'Egg_Harbor_Township_NJ', '0'], ['RV1', '1', 'July_26_2008', 'Egg_Harbor_City_NJ', '3'], ['Ryu_Lee', '1', 'January_24_2009', 'Hammonton_NJ', '0'], ['Razor_Rivera', '1', 'February_28_2009', 'Barnegat_NJ', '0'], ['Ryu_Lee', '2', 'March_21_2009', 'Egg_Harbor_Township_NJ', '3'], ['Josh_Adams', '1', 'September_25_2009', 'Egg_Harbor_Township_New_Jersey', '2']]

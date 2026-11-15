@@ -1,0 +1,10 @@
+The Brazil_national_football_team table contains the following columns:
+
+- Name (String): the player's name;
+- Goals (Integer): the number of goals scored for the national team;
+- Caps (Integer): the number of international appearances (caps);
+- First_cap (String): the date of the player's first international cap;
+- Latest_cap (String): the date of the player's most recent international cap.
+
+Brazil_national_football_team table:
+[['Name', 'Goals', 'Caps', 'First_cap', 'Latest_cap'], ['Pele', '77', '92', 'July_7_1957', 'July_18_1971'], ['Ronaldo', '62', '98', 'March_23_1994', 'June_7_2011'], ['Rom_rio', '55', '70', 'May_23_1987', 'April_27_2005'], ['Zico', '48', '71', 'February_25_1976', 'June_21_1986'], ['Bebeto', '39', '75', 'April_28_1985', 'July_12_1998'], ['Rivaldo', '34', '74', 'December_16_1993', 'November_19_2003'], ['Jairzinho', '33', '81', 'June_7_1964', 'March_3_1982'], ['Ronaldinho', '33', '97', 'June_26_1999', 'April_24_2013'], ['Ademir', '32', '39', 'January_21_1945', 'March_15_1953'], ['Tost_o', '32', '54', 'May_15_1966', 'July_9_1972']]

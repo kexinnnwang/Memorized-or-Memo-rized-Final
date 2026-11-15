@@ -1,0 +1,11 @@
+The athletes table contains the following columns:
+
+- athlete_id (Integer): the unique identifier of the athlete;
+- sport (String): the sport the athlete competes in;
+- age (Integer): the athlete's age in years;
+- height (Integer): the athlete's height in centimeters;
+- wins (Integer): the number of career wins;
+- losses (Integer): the number of career losses.
+
+athletes table:
+[["athlete_id", "sport", "age", "height", "wins", "losses"], [1, "Tennis", 27, 185, 45, 12], [2, "Boxing", 31, 178, 30, 5], [3, "Swimming", 24, 190, 60, 8], [4, "Tennis", 22, 175, 20, 15], [5, "Boxing", 29, 182, 38, 10], [6, "Swimming", 26, 188, 52, 6]]

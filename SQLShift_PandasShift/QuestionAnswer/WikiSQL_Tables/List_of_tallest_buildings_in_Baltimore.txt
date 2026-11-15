@@ -1,0 +1,10 @@
+The List_of_tallest_buildings_in_Baltimore table contains the following columns:
+
+- Rank (Integer): the ranking by height;
+- Name (String): the name of the building;
+- Height_ft_m (String): the height in feet and meters;
+- Floors (Integer): the number of floors;
+- Year (Integer): the year of completion.
+
+List_of_tallest_buildings_in_Baltimore table:
+[['Rank', 'Name', 'Height_ft_m', 'Floors', 'Year'], ['1', 'Transamerica_Tower', '529_161', '40', '1973'], ['2', 'Bank_of_America_Building', '509_155', '37', '1924'], ['3', 'William_Donald_Schaefer_Building', '493_150', '37', '1992'], ['4', 'Commerce_Place', '454_138', '31', '1992'], ['5', '100_East_Pratt_Street', '418_128', '28', '1992'], ['6', 'Baltimore_World_Trade_Center', '405_123', '32', '1977'], ['7', 'Tremont_Plaza_Hotel', '395_120', '37', '1967'], ['8', 'Charles_Towers_South_Apartments', '385_117', '30', '1969'], ['9', 'Legg_Mason_Tower', '360_5_110', '24', '2009'], ['10', 'Blaustein_Building', '360_110', '30', '1962'], ['10', '250_West_Pratt_Street', '360_110', '24', '1986'], ['12', 'Towers_at_Harbor_Court', '356_109', '28', '1987'], ['13', '201_North_Charles_Street_Building', '350_107', '28', '1967'], ['13', 'Charles_Towers_North_Apartments', '350_107', '27', '1967'], ['15', '414_Water_Street', '344_105', '33', '2008'], ['16', 'HarborView_Condominium', '342_104', '29', '1993'], ['17', 'Charles_Center_South', '330_101', '25', '1975'], ['17', 'Wachovia_Tower', '330_101', '24', '1985'], ['19', 'Mercantile_Bank_Trust_Company', '315_96', '21', '1969'], ['19', 'M_T_Bank_Building', '315_96', '22', '1972'], ['19', 'Baltimore_Marriott_Waterfront_Hotel', '315_96', '32', '2001'], ['22', 'Silo_Point', '310_94', '24', '1923'], ['23', 'Vue_Harbor_East', '306_93', '30', '2007'], ['24', 'Sheraton_Baltimore_City_Center', '302_92', '27', '1967']]

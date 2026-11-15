@@ -1,0 +1,10 @@
+The List_of_sports_teams_in_Nebraska table contains the following columns:
+
+- School (String): the name of the school;
+- Mascot (String): the team mascot;
+- Conference (String): the athletic conference;
+- National_Titles (Integer): the number of national titles;
+- Founded (Integer): the year the school was founded.
+
+List_of_sports_teams_in_Nebraska table:
+[['School', 'Mascot', 'Conference', 'National_Titles', 'Founded'], ['Bellevue_University', 'Bellevue_Bruins', 'Midlands', 14, 1966], ['College_of_Saint_Mary', 'Saint_Mary_Flames', 'Midlands', 0, 1923], ['Concordia_University', 'Concordia_Bulldogs', 'Great_Plains', 1, 1894], ['Doane_College', 'Doane_Tigers', 'Great_Plains', 10, 1872], ['Hastings_College', 'Hastings_Broncos', 'Great_Plains', 3, 1882], ['Midland_University', 'Midland_Warriors', 'Great_Plains', 2, 1883], ['Nebraska_Wesleyan_University', 'NW_Prairie_Wolves', 'Great_Plains', 19, 1887], ['Peru_State_College', 'Peru_State_Bobcats', 'Midlands', 2, 1865]]

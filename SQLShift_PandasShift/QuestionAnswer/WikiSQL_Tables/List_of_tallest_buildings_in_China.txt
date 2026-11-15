@@ -1,0 +1,10 @@
+The List_of_tallest_buildings_in_China table contains the following columns:
+
+- Name (String): the name of the building;
+- Pinnacle_height (String): the pinnacle height of the building;
+- Floors (Integer): the number of floors;
+- Completion (Integer): the year of completion;
+- City (String): the city where the building is located.
+
+List_of_tallest_buildings_in_China table:
+[['Name', 'Pinnacle_height', 'Floors', 'Completion', 'City'], ['Pingan_International_Finance_Centre', 'm_ft', '115', '2015', 'Shenzhen'], ['Shanghai_Tower', 'm_ft', '128', '2014', 'Shanghai'], ['Wuhan_Greenland_Financial_Center', 'm_ft', '119', '2016', 'Wuhan'], ['Goldin_Finance_117', 'm_ft', '117', '2015', 'Tianjin'], ['Rose_Rock_IFC', 'm_ft', '100', '2015', 'Tianjin'], ['Chow_Tai_Fook_Centre', 'm_ft', '116', '2016', 'Guangzhou'], ['The_CTF_Tianjin', 'm_ft', '97', '2015', 'Tianjin'], ['China_Resources_Headquarters', 'm_ft', '100', '2017', 'Shenzhen'], ['China_Zun', 'm_ft', '108', '2016', 'Beijing'], ['Kaisa_Feng_Long_Centre', 'm_ft', '92', '2015', 'Shenzhen'], ['Dalian_Greenland_Center', 'm_ft', '88', '2016', 'Dalian'], ['Tianjin_R_F_Guangdong_Tower', 'm_ft', '91', '2016', 'Tianjin'], ['International_Commerce_Center_1', 'm_ft', '99', '2016', 'Chongqing'], ['Wuhan_Center', 'm_ft', '88', '2015', 'Wuhan'], ['Wuhan_Tiandi_A1', 'm_ft', '76', '2016', 'Wuhan'], ['JW_Marriott_International_Finance_Centre', 'm_ft', '102', '2014', 'Chongqing'], ['Dalian_Eton_Center', 'm_ft', '81', '2013', 'Dalian'], ['Forum_66_Tower_1', 'm_ft', '76', '2013', 'Shenyang'], ['Sino_Steel_Tower', 'm_ft', '80', '2015', 'Tianjin'], ['Forum_66_Tower_2', 'm_ft', '68', '2013', 'Shenyang'], ['Wenzhou_Lucheng_Plaza', 'm_ft', '71', '2013', 'Wenzhou'], ['Gezhouba_International_Plaza', 'm_ft', '69', '2013', 'Wuhan']]

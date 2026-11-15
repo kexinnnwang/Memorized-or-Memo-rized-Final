@@ -1,0 +1,10 @@
+The Georgia_in_the_Eurovision_Song_Contest_2008 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Artist (String): the performing artist;
+- Song (String): the title of the song;
+- Result (String): the number of points or result achieved;
+- Place (Integer): the final ranking position.
+
+Georgia_in_the_Eurovision_Song_Contest_2008 table:
+[['Draw', 'Artist', 'Song', 'Result', 'Place'], ['1', 'VIVO', 'Life', '1_3', '8'], ['2', 'Aleko_Berdzenishvili', 'The_Beautiful_Girl', '1_3', '9'], ['3', 'Salome_Gasviani', 'Share_Your_Love', '32_9', '2'], ['4', 'Irakli_Pirtskhalava', 'Freedom', '8_3', '3'], ['5', 'Diana_Gurtskaya', 'Peace_Will_Come', '39_4', '1'], ['6', 'Salome_Korkotashvili', 'Captaine', '3_0', '6'], ['7', 'Teatroni', 'Sakartvelo_itsvevs_megobrebs', '2_3', '7'], ['8', 'Tika_Patsatsia', 'Never_Change', '4_0', '5'], ['9', '3G', 'I_m_Free', '5_3', '4'], ['10', 'Tako_Gachechiladze', 'Me_And_My_Funky', '0_9', '10'], ['11', 'Tamta_Chelidze', 'Give_Me_Your_Love', '0_8', '11'], ['12', 'Guga_Aptsiauri', 'Don_t_Look_At_Me', '0_5', '12']]

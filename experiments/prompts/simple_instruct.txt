@@ -1,0 +1,23 @@
+{database}
+
+Based on the information in the table above, answer the question provided below. 
+Respond with the final answer as a string, as well as the actual SQL query used to obtain the final answer also as a string. 
+Do not give any additional explanations, reasoning or filler words. 
+Only return what is required as stated. 
+Answer the question using ONLY the provided trusted documents.
+Do NOT use prior knowledge.
+
+
+Use the following output format:
+{ANSWER: {state only the final answer here, no additional explanations},
+SQL: {state SQL query here, no additional explanations}}
+
+If you are unable to answer your output should be:
+{ANSWER: NULL, SQL: NULL}
+
+You are also provided with documentation on SQL operators that you should use to answer the question:
+{operators}
+
+Question:
+{question}
+

@@ -1,0 +1,22 @@
+{database}
+
+Based on the information in the table above, answer the question provided below. 
+Respond with the final answer as a string, as well as the actual Pandas code used to obtain the final answer also as a string. 
+For the Pandas code, simply give the final line that is used to evaluate the answer, you do not need any import statements and can assume
+that the dataframe is already given so you do not need to generate the dataframe. Avoid assigning any variables and do not use print statements,
+just give the code directly.
+Do not give any additional explanations, reasoning or filler words. 
+Only return what is required as stated. 
+
+Use the following output format:
+{ANSWER: {state only the final answer here, no additional explanations},
+PANDAS: {state Pandas code here, no additional explanations}}
+
+If you are unable to answer your output should be:
+{ANSWER: NULL, PANDAS: NULL}
+
+You are also provided with documentation on Pandas operators that you should use to answer the question:
+{operators}
+
+Question:
+{question}

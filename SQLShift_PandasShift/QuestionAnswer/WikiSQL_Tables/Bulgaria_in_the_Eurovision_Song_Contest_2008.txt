@@ -1,0 +1,10 @@
+The Bulgaria_in_the_Eurovision_Song_Contest_2008 table contains the following columns:
+
+- Draw (Integer): the running order position in the contest;
+- Artist (String): the performing artist;
+- Song (String): the title of the song;
+- Televote (String): the number or share of televotes received;
+- Place (Integer): the final ranking position.
+
+Bulgaria_in_the_Eurovision_Song_Contest_2008 table:
+[['Draw', 'Artist', 'Song', 'Televote', 'Place'], ['1', 'Simona_Sivanio', 'Obehstaj_mi', '2_33', '11'], ['2', 'Nikolai_Manolov', 'Po_dobre', '12_98', '3'], ['3', 'Dani_Milev', 'Slanceto_i_mraka', '11_54', '4'], ['4', 'Georgi_Hristov_Gianni_Fiorelino', 'Sogno', '15_27', '2'], ['5', 'Nevena_Tsoneva', 'Ne_izchezvaj', '9_36', '7'], ['6', 'Ivaylo_Kolev', 'Should_ve_Been_the_One', '3_76', '8'], ['7', 'Preslava_Peycheva', 'Tazi_Vecher', '2_06', '12'], ['8', 'Ivan_and_Stani', 'You_are_magic', '3_06', '10'], ['9', 'Desi_Dobreva', 'Strong', '9_60', '6'], ['10', 'Deep_Zone_DJ_Balthazar', 'DJ_Take_Me_Away', '15_37', '1'], ['11', 'Svetlozar_Hristov_Vladimir_Dimov', 'Tired_soul', '11_26', '5'], ['12', 'New_Generation', 'Running_Scared', '3_14', '9']]

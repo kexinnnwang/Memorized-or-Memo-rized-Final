@@ -1,0 +1,10 @@
+The Mobile_telephony_in_Africa table contains the following columns:
+
+- Provider (String): the mobile network provider;
+- Country (String): the country served;
+- Subscribers_2005_thousands (Integer): the number of subscribers in 2005 (in thousands);
+- Subscribers_2006_thousands (Integer): the number of subscribers in 2006 (in thousands);
+- Growth (String): the subscriber growth rate.
+
+Mobile_telephony_in_Africa table:
+[['Provider', 'Country', 'Subscribers_2005_thousands', 'Subscribers_2006_thousands', 'Growth'], ['Airtel', 'Kenya_Uganda', 37600, 31800, '54_9'], ['Vodacom', 'South_Africa', 17600, 21800, '23_9'], ['MTN', 'South_Africa', 10235, 12483, '22'], ['MTN', 'Nigeria', 8370, 12281, '47'], ['Glo_Mobile', 'Nigeria', 9000, 11000, '22'], ['Maroc', 'Morocco', 8237, 10707, '30'], ['Djezzy', 'Algeria', 7109, 10531, '48'], ['Mobinil', 'Egypt', 66960, 9267, '38'], ['Vodafone', 'Egypt', 6125, 8704, '42'], ['Mobilis', 'Algeria', 4908, 7476, '52']]

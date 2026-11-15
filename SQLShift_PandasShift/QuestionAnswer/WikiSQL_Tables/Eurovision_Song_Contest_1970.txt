@@ -1,0 +1,10 @@
+The Eurovision_Song_Contest_1970 table contains the following columns:
+
+- Language (String): the language the song was performed in;
+- Artist (String): the performing artist;
+- Song (String): the title of the song;
+- Place (Integer): the final ranking position;
+- Points (Integer): the number of points received.
+
+Eurovision_Song_Contest_1970 table:
+[['Language', 'Artist', 'Song', 'Place', 'Points'], ['Dutch', 'Hearts_of_Soul', 'Waterman', '7', '7'], ['French', 'Henri_D_s', 'Retour', '4', '8'], ['Italian', 'Gianni_Morandi', 'Occhi_di_ragazza', '8', '5'], ['Slovene', 'Eva_Sr_en', 'Pridi_dala_ti_bom_cvet', '11', '4'], ['French', 'Jean_Vall_e', 'Viens_l_oublier', '8', '5'], ['French', 'Guy_Bonnet', 'Marie_Blanche', '4', '8'], ['English', 'Mary_Hopkin', 'Knock_Knock_Who_s_There', '2', '26'], ['French', 'David_Alexandre_Winter', 'Je_suis_tomb_du_ciel', '12', '0'], ['Spanish', 'Julio_Iglesias', 'Gwendolyne', '4', '8'], ['French', 'Dominique_Dussault', 'Marl_ne', '8', '5'], ['German', 'Katja_Ebstein', 'Wunder_gibt_es_immer_wieder', '3', '12'], ['English', 'Dana', 'All_Kinds_of_Everything', '1', '32']]

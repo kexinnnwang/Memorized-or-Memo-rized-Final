@@ -1,0 +1,10 @@
+The List_of_tallest_buildings_in_Boston table contains the following columns:
+
+- Rank (String): the ranking by height;
+- Name (String): the name of the building;
+- Height_ft_m (String): the height in feet and meters;
+- Floors (Integer): the number of floors;
+- Year (Integer): the year of completion.
+
+List_of_tallest_buildings_in_Boston table:
+[['Rank', 'Name', 'Height_ft_m', 'Floors', 'Year'], ['01_0_1', 'Hancock_Place', '01_0_790_241', '60', '1976'], ['02_0_2', 'Prudential_Tower', '02_0_749_228', '52', '1964'], ['03_0_3', 'Federal_Reserve_Bank_Building', '03_0_614_187', '32', '1976'], ['04_0_4', 'One_Boston_Place', '04_0_601_183', '41', '1970'], ['05_0_5', 'One_International_Place', '05_0_600_183', '46', '1987'], ['06_0_6', 'First_National_Bank_Building', '06_0_591_180', '37', '1971'], ['07_0_7', 'One_Financial_Center', '07_0_590_180', '46', '1983'], ['08_0_8', '111_Huntington_Avenue', '08_0_554_169', '36', '2002'], ['09_0_9', 'Two_International_Place', '09_0_538_164', '35', '1992'], ['10_0_10', 'One_Post_Office_Square', '10_0_525_160', '40', '1981'], ['11_0_11', 'One_Federal_Street', '11_0_520_159', '38', '1975'], ['12_0_12', 'Exchange_Place', '12_0_510_156', '40', '1984'], ['13_0_13', '60_State_Street', '13_0_509_155', '38', '1977'], ['14_0_14', 'One_Beacon_Street', '14_0_505_154', '37', '1971'], ['15_0_15', 'One_Lincoln_Street', '15_0_503_153', '36', '2003'], ['16_0_16', '28_State_Street', '16_0_500_152', '40', '1970'], ['17_0_17', 'Custom_House_Tower', '17_0_496_151', '32', '1915'], ['18_0_18', 'Berkeley_Building', '18_0_495_151', '36', '1947'], ['19_0_19', '33_Arch_Street', '19_0_477_145', '33', '2004'], ['19_0_19', 'State_Street_Bank_Building', '19_0_477_145', '33', '1966'], ['21_0_21', 'Millennium_Place_Tower_I', '21_0_475_145', '38', '2001'], ['22_0_22', '125_High_Street', '22_0_452_138', '30', '1991'], ['23_0_23', '100_Summer_Street', '23_0_450_137', '32', '1974'], ['24_0_24', 'Millennium_Place_Tower_II', '24_0_446_136', '36', '2001'], ['25_0_25', 'McCormack_Building', '25_0_401_122', '22', '1975'], ['26_0_26', 'Keystone_Building', '26_0_400_122', '32', '1971'], ['26_0_26', 'Harbor_Towers_I', '26_0_400_122', '40', '1971']]
