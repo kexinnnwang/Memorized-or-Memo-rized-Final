@@ -60,7 +60,6 @@ Each main directory has its own README with full details:
 - [`experiments/README.md`](experiments/README.md) — every runner's flags, output paths and examples
 - [`SQLShift_PandasShift/README.md`](SQLShift_PandasShift/README.md) — data format, swap construction, generators
 - [`src/README.md`](src/README.md) — shared modules and who uses them
-- [`slurm/README.md`](slurm/README.md) — cluster cheatsheet
 
 ## Setup
 
